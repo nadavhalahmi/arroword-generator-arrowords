@@ -3,7 +3,8 @@
   "num_cols": 10,
   "comments": [
     "Word usage summary by score:",
-    "Score 1: 28/3379 words used (75.68% of puzzle, 0.83% of score group)",
+    "Score 10: 1/1 words used (2.70% of puzzle, 100.00% of score group)",
+    "Score 1: 27/3378 words used (72.97% of puzzle, 0.80% of score group)",
     "Score 0: 9/8379 words used (24.32% of puzzle, 0.11% of score group)",
     "Total: 37/11758 words used"
   ],
@@ -43,7 +44,7 @@
       "clue_row": 9,
       "clue_col": 0,
       "solution": "אדוק",
-      "definition": "pious",
+      "definition": "devout",
       "lengths": [
         4
       ]
@@ -93,7 +94,7 @@
       "clue_row": 4,
       "clue_col": 2,
       "solution": "יצרו",
-      "definition": "created",
+      "definition": "made",
       "lengths": [
         4
       ]
@@ -133,7 +134,7 @@
       "clue_row": 3,
       "clue_col": 0,
       "solution": "לכנ",
-      "definition": "hence",
+      "definition": "therefore",
       "lengths": [
         3
       ]
@@ -283,7 +284,7 @@
       "clue_row": 8,
       "clue_col": 7,
       "solution": "יש",
-      "definition": "there is",
+      "definition": "one must",
       "lengths": [
         2
       ]
@@ -333,7 +334,7 @@
       "clue_row": 7,
       "clue_col": 0,
       "solution": "לרסנ",
-      "definition": "restrain",
+      "definition": "curb",
       "lengths": [
         4
       ]
