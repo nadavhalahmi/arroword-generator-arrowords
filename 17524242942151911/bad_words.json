@@ -5,6 +5,14 @@
       "as the pronunciation of"
     ],
     "updateCount": 0,
+    "isCurrentArroword": false
+  },
+  "רכש": {
+    "score": 0,
+    "clues": [
+      "purchased"
+    ],
+    "updateCount": 0,
     "isCurrentArroword": true
   }
 }
