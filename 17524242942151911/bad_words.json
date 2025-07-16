@@ -149,7 +149,7 @@
       "and I will go"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "הכפ": {
     "score": 0,
@@ -157,7 +157,7 @@
       "the palm"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ובדרכ": {
     "score": 0,
@@ -165,12 +165,36 @@
       "and on the way"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ואשב": {
     "score": 0,
     "clues": [
       "and I will sit"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": false
+  },
+  "המצוק": {
+    "score": 0,
+    "clues": [
+      "the cliff"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "האחר": {
+    "score": 0,
+    "clues": [
+      "the other"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "הינו": {
+    "score": 0,
+    "clues": [
+      "is"
     ],
     "updateCount": 0,
     "isCurrentArroword": true
