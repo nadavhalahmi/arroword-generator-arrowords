@@ -109,7 +109,7 @@
       "and to/for me"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ולהביא": {
     "score": 0,
@@ -117,7 +117,7 @@
       "and to bring"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "וילדימ": {
     "score": 0,
@@ -125,7 +125,7 @@
       "and children"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "יאיר": {
     "score": 0,
@@ -133,12 +133,44 @@
       "will illuminate"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ותנאי": {
     "score": 0,
     "clues": [
       "and a provision"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": false
+  },
+  "ואלכ": {
+    "score": 0,
+    "clues": [
+      "and I will go"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "הכפ": {
+    "score": 0,
+    "clues": [
+      "the palm"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "ובדרכ": {
+    "score": 0,
+    "clues": [
+      "and on the way"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "ואשב": {
+    "score": 0,
+    "clues": [
+      "and I will sit"
     ],
     "updateCount": 0,
     "isCurrentArroword": true
