@@ -21,7 +21,7 @@
       "spade"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "התלמוד": {
     "score": 0,
@@ -29,7 +29,7 @@
       "the Talmud"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "החפצ": {
     "score": 0,
@@ -37,7 +37,7 @@
       "the object"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ונס": {
     "score": 0,
@@ -45,7 +45,7 @@
       "and a miracle"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לפת": {
     "score": 0,
@@ -53,12 +53,52 @@
       "turnip"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "דעתו": {
     "score": 0,
     "clues": [
       "his opinion"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": false
+  },
+  "הדמ": {
+    "score": 0,
+    "clues": [
+      "the blood"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "ילדי": {
+    "score": 0,
+    "clues": [
+      "the children of"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "שלו": {
+    "score": 0,
+    "clues": [
+      "serene"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "כמלכ": {
+    "score": 0,
+    "clues": [
+      "as the king"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "קסמ": {
+    "score": 0,
+    "clues": [
+      "fascination"
     ],
     "updateCount": 0,
     "isCurrentArroword": true
