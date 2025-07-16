@@ -13,6 +13,54 @@
       "purchased"
     ],
     "updateCount": 0,
+    "isCurrentArroword": false
+  },
+  "כפ": {
+    "score": 0,
+    "clues": [
+      "spade"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "התלמוד": {
+    "score": 0,
+    "clues": [
+      "the Talmud"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "החפצ": {
+    "score": 0,
+    "clues": [
+      "the object"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "ונס": {
+    "score": 0,
+    "clues": [
+      "and a miracle"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "לפת": {
+    "score": 0,
+    "clues": [
+      "turnip"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "דעתו": {
+    "score": 0,
+    "clues": [
+      "his opinion"
+    ],
+    "updateCount": 0,
     "isCurrentArroword": true
   }
 }
