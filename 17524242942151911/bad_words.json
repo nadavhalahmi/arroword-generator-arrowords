@@ -181,7 +181,7 @@
       "the cliff"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "האחר": {
     "score": 0,
@@ -189,12 +189,36 @@
       "the other"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "הינו": {
     "score": 0,
     "clues": [
       "is"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": false
+  },
+  "פקחתי": {
+    "score": 0,
+    "clues": [
+      "I opened"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "בתימ": {
+    "score": 0,
+    "clues": [
+      "mermaid"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "הפיקודיות": {
+    "score": 0,
+    "clues": [
+      "the command [chain]"
     ],
     "updateCount": 0,
     "isCurrentArroword": true
