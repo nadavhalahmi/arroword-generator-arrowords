@@ -21,7 +21,7 @@
       "spade"
     ],
     "updateCount": 0,
-    "isCurrentArroword": false
+    "isCurrentArroword": true
   },
   "התלמוד": {
     "score": 0,
@@ -69,7 +69,7 @@
       "the blood"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ילדי": {
     "score": 0,
@@ -245,7 +245,7 @@
       "efforts of"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "סבו": {
     "score": 0,
@@ -253,12 +253,44 @@
       "his grandfather"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "דבקלת": {
     "score": 0,
     "clues": [
       "mistletoe"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": false
+  },
+  "אורכו": {
+    "score": 0,
+    "clues": [
+      "its length"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "המאוחדת": {
+    "score": 0,
+    "clues": [
+      "the united"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "וחיילימ": {
+    "score": 0,
+    "clues": [
+      "and soldiers"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "ולו": {
+    "score": 0,
+    "clues": [
+      "and he has"
     ],
     "updateCount": 0,
     "isCurrentArroword": true
