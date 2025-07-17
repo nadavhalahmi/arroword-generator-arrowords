@@ -133,7 +133,7 @@
       "will illuminate"
     ],
     "updateCount": 0,
-    "isCurrentArroword": false
+    "isCurrentArroword": true
   },
   "ותנאי": {
     "score": 0,
@@ -205,7 +205,7 @@
       "I opened"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "בתימ": {
     "score": 0,
@@ -213,12 +213,28 @@
       "mermaid"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "הפיקודיות": {
     "score": 0,
     "clues": [
       "the command [chain]"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": false
+  },
+  "ויצר": {
+    "score": 0,
+    "clues": [
+      "and created"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "ובכלל": {
+    "score": 0,
+    "clues": [
+      "and in general"
     ],
     "updateCount": 0,
     "isCurrentArroword": true
