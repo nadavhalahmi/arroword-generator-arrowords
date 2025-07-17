@@ -69,7 +69,7 @@
       "the blood"
     ],
     "updateCount": 0,
-    "isCurrentArroword": false
+    "isCurrentArroword": true
   },
   "ילדי": {
     "score": 0,
@@ -133,7 +133,7 @@
       "will illuminate"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ותנאי": {
     "score": 0,
@@ -229,12 +229,36 @@
       "and created"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ובכלל": {
     "score": 0,
     "clues": [
       "and in general"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": false
+  },
+  "מאמצי": {
+    "score": 0,
+    "clues": [
+      "efforts of"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "סבו": {
+    "score": 0,
+    "clues": [
+      "his grandfather"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "דבקלת": {
+    "score": 0,
+    "clues": [
+      "mistletoe"
     ],
     "updateCount": 0,
     "isCurrentArroword": true
