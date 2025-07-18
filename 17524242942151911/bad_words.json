@@ -349,7 +349,7 @@
       "have"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "יחסו": {
     "score": 0,
@@ -357,12 +357,28 @@
       "his attitude"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לקשט": {
     "score": 0,
     "clues": [
       "adorn"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": false
+  },
+  "תשומת": {
+    "score": 0,
+    "clues": [
+      "paying [attention]"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "ואת": {
+    "score": 0,
+    "clues": [
+      "and the"
     ],
     "updateCount": 0,
     "isCurrentArroword": true
