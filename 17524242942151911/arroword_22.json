@@ -1,0 +1,401 @@
+{
+  "num_rows": 10,
+  "num_cols": 10,
+  "comments": [
+    "Word usage summary by score:",
+    "Score 10: 3/38 words used (7.89% of puzzle, 7.89% of score group)",
+    "Score 9: 2/13 words used (5.26% of puzzle, 15.38% of score group)",
+    "Score 8: 1/6 words used (2.63% of puzzle, 16.67% of score group)",
+    "Score 7: 0/2 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 5: 0/2 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 4: 1/1 words used (2.63% of puzzle, 100.00% of score group)",
+    "Score 2: 0/1 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 1: 15/3322 words used (39.47% of puzzle, 0.45% of score group)",
+    "Score 0: 16/8373 words used (42.11% of puzzle, 0.19% of score group)",
+    "Total: 38/11758 words used"
+  ],
+  "clues": [
+    {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "גס",
+      "definition": "coarse",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "גל",
+      "definition": "billow",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 9,
+      "solution": "יתכנ",
+      "definition": "possible",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 9,
+      "clue_col": 0,
+      "solution": "כללי",
+      "definition": "general",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "רחב",
+      "definition": "ample",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 7,
+      "solution": "עת",
+      "definition": "time",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 7,
+      "solution": "אכ",
+      "definition": "but",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 0,
+      "solution": "מצרכבסיסי",
+      "definition": "staple",
+      "lengths": [
+        4,
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 1,
+      "solution": "ואת",
+      "definition": "and the",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 2,
+      "clue_col": 1,
+      "solution": "שבצ",
+      "definition": "stroke",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 1,
+      "solution": "נמל",
+      "definition": "harbor",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 8,
+      "solution": "נימ",
+      "definition": "capillary",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 8,
+      "solution": "תיאר",
+      "definition": "described",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 5,
+      "solution": "הועבר",
+      "definition": "was passed",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 5,
+      "solution": "היערנ",
+      "definition": "the forester",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 4,
+      "solution": "שרכ",
+      "definition": "fern",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "לח",
+      "definition": "humid",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "ימית",
+      "definition": "marine",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "תיירימ",
+      "definition": "tourists",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "תנ",
+      "definition": "jackal",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "רע",
+      "definition": "wicked",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "ריח",
+      "definition": "fragrance",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 5,
+      "solution": "רבני",
+      "definition": "rabbinical",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "תשומת",
+      "definition": "paying [attention]",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "עצלנ",
+      "definition": "indolent",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 8,
+      "solution": "אסונ",
+      "definition": "calamity",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 5,
+      "clue_col": 8,
+      "solution": "אב",
+      "definition": "father",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 8,
+      "clue_col": 4,
+      "solution": "רגשות",
+      "definition": "emotions",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 9,
+      "solution": "ביתי",
+      "definition": "domestic",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 3,
+      "solution": "אחרת",
+      "definition": "otherwise",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 1,
+      "clue_col": 3,
+      "solution": "כתב",
+      "definition": "correspondent",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "נע",
+      "definition": "moves",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "כפייתי",
+      "definition": "compulsive",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 6,
+      "solution": "סגר",
+      "definition": "clasp",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 1,
+      "solution": "נחל",
+      "definition": "creek",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 5,
+      "clue_col": 0,
+      "solution": "צוהר",
+      "definition": "porthole",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 7,
+      "solution": "ישב",
+      "definition": "sat",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 3,
+      "solution": "סחורה",
+      "definition": "goods",
+      "lengths": [
+        5
+      ]
+    }
+  ],
+  "mask_id": "mask_1"
+}
