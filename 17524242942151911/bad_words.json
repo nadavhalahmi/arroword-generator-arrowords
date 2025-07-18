@@ -301,7 +301,7 @@
       "and whom"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "הכדורגל": {
     "score": 0,
@@ -309,7 +309,7 @@
       "the soccer"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "מדי": {
     "score": 0,
@@ -317,12 +317,28 @@
       "whenever"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "אנשיו": {
     "score": 0,
     "clues": [
       "his people"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": false
+  },
+  "וולקני": {
+    "score": 0,
+    "clues": [
+      "volcanic"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "מפי": {
+    "score": 0,
+    "clues": [
+      "from the mouth of"
     ],
     "updateCount": 0,
     "isCurrentArroword": true
