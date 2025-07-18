@@ -333,12 +333,36 @@
       "volcanic"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "מפי": {
     "score": 0,
     "clues": [
       "from the mouth of"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": false
+  },
+  "יש לי": {
+    "score": 0,
+    "clues": [
+      "have"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "יחסו": {
+    "score": 0,
+    "clues": [
+      "his attitude"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "לקשט": {
+    "score": 0,
+    "clues": [
+      "adorn"
     ],
     "updateCount": 0,
     "isCurrentArroword": true
