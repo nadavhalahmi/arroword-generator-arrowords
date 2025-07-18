@@ -389,7 +389,7 @@
       "the split"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "למשפחתו": {
     "score": 0,
@@ -397,7 +397,7 @@
       "to/for his family"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "האבנ": {
     "score": 0,
@@ -405,12 +405,20 @@
       "the stone"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ביש": {
     "score": 0,
     "clues": [
       "bad"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": false
+  },
+  "הנחלימ": {
+    "score": 0,
+    "clues": [
+      "the streams"
     ],
     "updateCount": 0,
     "isCurrentArroword": true
