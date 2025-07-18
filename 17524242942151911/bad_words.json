@@ -373,12 +373,44 @@
       "paying [attention]"
     ],
     "updateCount": 0,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ואת": {
     "score": 0,
     "clues": [
       "and the"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": false
+  },
+  "הפילוג": {
+    "score": 0,
+    "clues": [
+      "the split"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "למשפחתו": {
+    "score": 0,
+    "clues": [
+      "to/for his family"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "האבנ": {
+    "score": 0,
+    "clues": [
+      "the stone"
+    ],
+    "updateCount": 0,
+    "isCurrentArroword": true
+  },
+  "ביש": {
+    "score": 0,
+    "clues": [
+      "bad"
     ],
     "updateCount": 0,
     "isCurrentArroword": true
