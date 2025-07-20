@@ -29,7 +29,7 @@
       "his home"
     ],
     "updateCount": 10,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "כרב": {
     "score": 10,
@@ -37,7 +37,7 @@
       "as a rabbi"
     ],
     "updateCount": 12,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "שהעניקו": {
     "score": 10,
@@ -45,7 +45,7 @@
       "that/who gave"
     ],
     "updateCount": 13,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ראו": {
     "score": 10,
@@ -53,6 +53,30 @@
       "roe"
     ],
     "updateCount": 15,
+    "isCurrentArroword": false
+  },
+  "בבד": {
+    "score": 10,
+    "clues": [
+      "at the same time as"
+    ],
+    "updateCount": 19,
+    "isCurrentArroword": true
+  },
+  "בתימ": {
+    "score": 10,
+    "clues": [
+      "mermaid"
+    ],
+    "updateCount": 21,
+    "isCurrentArroword": true
+  },
+  "חלק מנה": {
+    "score": 10,
+    "clues": [
+      "portion"
+    ],
+    "updateCount": 22,
     "isCurrentArroword": true
   }
 }
