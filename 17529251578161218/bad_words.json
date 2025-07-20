@@ -13,7 +13,7 @@
       "the old"
     ],
     "updateCount": 7,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "החיצוניימ": {
     "score": 10,
@@ -21,6 +21,38 @@
       "the outer"
     ],
     "updateCount": 8,
+    "isCurrentArroword": false
+  },
+  "ביתו": {
+    "score": 10,
+    "clues": [
+      "his home"
+    ],
+    "updateCount": 10,
+    "isCurrentArroword": true
+  },
+  "כרב": {
+    "score": 10,
+    "clues": [
+      "as a rabbi"
+    ],
+    "updateCount": 12,
+    "isCurrentArroword": true
+  },
+  "שהעניקו": {
+    "score": 10,
+    "clues": [
+      "that/who gave"
+    ],
+    "updateCount": 13,
+    "isCurrentArroword": true
+  },
+  "ראו": {
+    "score": 10,
+    "clues": [
+      "roe"
+    ],
+    "updateCount": 15,
     "isCurrentArroword": true
   }
 }
