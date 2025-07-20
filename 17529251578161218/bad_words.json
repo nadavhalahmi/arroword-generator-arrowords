@@ -5,6 +5,22 @@
       "strong"
     ],
     "updateCount": 6,
+    "isCurrentArroword": false
+  },
+  "הישנה": {
+    "score": 10,
+    "clues": [
+      "the old"
+    ],
+    "updateCount": 7,
+    "isCurrentArroword": true
+  },
+  "החיצוניימ": {
+    "score": 10,
+    "clues": [
+      "the outer"
+    ],
+    "updateCount": 8,
     "isCurrentArroword": true
   }
 }
