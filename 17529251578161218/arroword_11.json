@@ -1,0 +1,417 @@
+{
+  "num_rows": 10,
+  "num_cols": 10,
+  "comments": [
+    "Word usage summary by score:",
+    "Score 10: 0/24 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 9: 0/4 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 8: 0/2 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 1: 22/3349 words used (55.00% of puzzle, 0.66% of score group)",
+    "Score 0: 18/8379 words used (45.00% of puzzle, 0.21% of score group)",
+    "Total: 40/11758 words used"
+  ],
+  "clues": [
+    {
+      "direction": "down-right",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "תגובהנגדית",
+      "definition": "backlash",
+      "lengths": [
+        5,
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "תא",
+      "definition": "cubicle",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 9,
+      "solution": "דיוק",
+      "definition": "accuracy",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 9,
+      "solution": "תלמ",
+      "definition": "furrow",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 9,
+      "clue_col": 0,
+      "solution": "כיהנ",
+      "definition": "served as",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 3,
+      "solution": "כה",
+      "definition": "this way",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 4,
+      "solution": "ריגול",
+      "definition": "espionage",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 4,
+      "solution": "זר",
+      "definition": "stranger",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 6,
+      "solution": "יש",
+      "definition": "one must",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 6,
+      "solution": "קמע",
+      "definition": "mascot",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "ארז",
+      "definition": "cedar",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "אמונימ",
+      "definition": "trained",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 2,
+      "solution": "אמש",
+      "definition": "last night",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "ולא",
+      "definition": "rather",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "חגב",
+      "definition": "grasshopper",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 8,
+      "solution": "ימ",
+      "definition": "sea",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 5,
+      "solution": "סמ",
+      "definition": "narcotic",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 5,
+      "solution": "למקמ",
+      "definition": "situate",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 3,
+      "solution": "ראשנ",
+      "definition": "tadpole",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 8,
+      "clue_col": 4,
+      "solution": "לשייכ",
+      "definition": "ascribe",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 8,
+      "clue_col": 4,
+      "solution": "נא",
+      "definition": "please",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 7,
+      "solution": "אקלימ",
+      "definition": "climate",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 2,
+      "solution": "גבעה",
+      "definition": "knoll",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 2,
+      "solution": "ארסי",
+      "definition": "venomous",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 6,
+      "solution": "מדי",
+      "definition": "the uniform of",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 7,
+      "clue_col": 9,
+      "solution": "כי",
+      "definition": "because",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "בא",
+      "definition": "coming",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "אבל",
+      "definition": "mourner",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 7,
+      "clue_col": 8,
+      "solution": "יד",
+      "definition": "hand",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "ובני",
+      "definition": "and my son",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 0,
+      "solution": "מגש",
+      "definition": "platter",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 3,
+      "solution": "קביל",
+      "definition": "admissible",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 7,
+      "solution": "רגילימ",
+      "definition": "used to",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 7,
+      "solution": "דגמ",
+      "definition": "sampler",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 0,
+      "solution": "נע",
+      "definition": "moves",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 5,
+      "solution": "בלש",
+      "definition": "detective",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 6,
+      "clue_col": 5,
+      "solution": "יק",
+      "definition": "yak",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 9,
+      "solution": "רע",
+      "definition": "wicked",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 4,
+      "solution": "ממאיר",
+      "definition": "malignant",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "נר",
+      "definition": "candle",
+      "lengths": [
+        2
+      ]
+    }
+  ],
+  "mask_id": "mask_3"
+}
