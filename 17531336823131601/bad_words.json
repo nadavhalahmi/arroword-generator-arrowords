@@ -1,0 +1,42 @@
+{
+  "להדק": {
+    "score": 10,
+    "clues": [
+      "fasten"
+    ],
+    "updateCount": 8,
+    "isCurrentArroword": true
+  },
+  "אמרו": {
+    "score": 10,
+    "clues": [
+      "said"
+    ],
+    "updateCount": 9,
+    "isCurrentArroword": true
+  },
+  "רצו": {
+    "score": 10,
+    "clues": [
+      "wanted"
+    ],
+    "updateCount": 11,
+    "isCurrentArroword": true
+  },
+  "ומלב": {
+    "score": 10,
+    "clues": [
+      "and from the heart of"
+    ],
+    "updateCount": 12,
+    "isCurrentArroword": true
+  },
+  "ולרוס": {
+    "score": 10,
+    "clues": [
+      "walrus"
+    ],
+    "updateCount": 13,
+    "isCurrentArroword": true
+  }
+}
