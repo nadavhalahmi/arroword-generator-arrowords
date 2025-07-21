@@ -117,7 +117,7 @@
       "and methods"
     ],
     "updateCount": 32,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "הימימ": {
     "score": 10,
@@ -125,7 +125,7 @@
       "the days"
     ],
     "updateCount": 33,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "והחלה": {
     "score": 10,
@@ -133,6 +133,38 @@
       "and started"
     ],
     "updateCount": 34,
+    "isCurrentArroword": false
+  },
+  "הכיס": {
+    "score": 10,
+    "clues": [
+      "the pocket"
+    ],
+    "updateCount": 39,
+    "isCurrentArroword": false
+  },
+  "ושוב": {
+    "score": 10,
+    "clues": [
+      "and return"
+    ],
+    "updateCount": 43,
+    "isCurrentArroword": true
+  },
+  "מחירי": {
+    "score": 10,
+    "clues": [
+      "prices of"
+    ],
+    "updateCount": 44,
+    "isCurrentArroword": true
+  },
+  "המת": {
+    "score": 10,
+    "clues": [
+      "the dead"
+    ],
+    "updateCount": 45,
     "isCurrentArroword": true
   }
 }
