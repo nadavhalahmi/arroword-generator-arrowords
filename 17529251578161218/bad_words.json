@@ -61,7 +61,7 @@
       "at the same time as"
     ],
     "updateCount": 19,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "בתימ": {
     "score": 10,
@@ -69,7 +69,7 @@
       "mermaid"
     ],
     "updateCount": 21,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "חלק מנה": {
     "score": 10,
@@ -77,6 +77,6 @@
       "portion"
     ],
     "updateCount": 22,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
