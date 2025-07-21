@@ -69,7 +69,7 @@
       "mermaid"
     ],
     "updateCount": 49,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "חלק מנה": {
     "score": 10,
@@ -173,7 +173,7 @@
       "the commando"
     ],
     "updateCount": 50,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "והשפעה": {
     "score": 10,
@@ -181,6 +181,22 @@
       "and an influence"
     ],
     "updateCount": 53,
+    "isCurrentArroword": false
+  },
+  "ובני": {
+    "score": 10,
+    "clues": [
+      "and my son"
+    ],
+    "updateCount": 57,
+    "isCurrentArroword": true
+  },
+  "אמונימ": {
+    "score": 10,
+    "clues": [
+      "trained"
+    ],
+    "updateCount": 59,
     "isCurrentArroword": true
   }
 }
