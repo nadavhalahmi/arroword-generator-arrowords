@@ -189,7 +189,7 @@
       "and my son"
     ],
     "updateCount": 57,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "אמונימ": {
     "score": 10,
@@ -197,6 +197,30 @@
       "trained"
     ],
     "updateCount": 59,
+    "isCurrentArroword": false
+  },
+  "ובה": {
+    "score": 10,
+    "clues": [
+      "and in her"
+    ],
+    "updateCount": 60,
+    "isCurrentArroword": true
+  },
+  "את": {
+    "score": 10,
+    "clues": [
+      "the"
+    ],
+    "updateCount": 63,
+    "isCurrentArroword": true
+  },
+  "גול": {
+    "score": 10,
+    "clues": [
+      "goal"
+    ],
+    "updateCount": 65,
     "isCurrentArroword": true
   }
 }
