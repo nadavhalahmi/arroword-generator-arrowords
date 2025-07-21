@@ -68,8 +68,8 @@
     "clues": [
       "mermaid"
     ],
-    "updateCount": 21,
-    "isCurrentArroword": false
+    "updateCount": 49,
+    "isCurrentArroword": true
   },
   "חלק מנה": {
     "score": 10,
@@ -149,7 +149,7 @@
       "and return"
     ],
     "updateCount": 43,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "מחירי": {
     "score": 10,
@@ -157,7 +157,7 @@
       "prices of"
     ],
     "updateCount": 44,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "המת": {
     "score": 10,
@@ -165,6 +165,22 @@
       "the dead"
     ],
     "updateCount": 45,
+    "isCurrentArroword": false
+  },
+  "הקומנדו": {
+    "score": 10,
+    "clues": [
+      "the commando"
+    ],
+    "updateCount": 50,
+    "isCurrentArroword": true
+  },
+  "והשפעה": {
+    "score": 10,
+    "clues": [
+      "and an influence"
+    ],
+    "updateCount": 53,
     "isCurrentArroword": true
   }
 }
