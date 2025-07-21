@@ -78,5 +78,61 @@
     ],
     "updateCount": 22,
     "isCurrentArroword": false
+  },
+  "ולרוב": {
+    "score": 10,
+    "clues": [
+      "and mostly"
+    ],
+    "updateCount": 26,
+    "isCurrentArroword": false
+  },
+  "ומאות": {
+    "score": 10,
+    "clues": [
+      "and hundreds"
+    ],
+    "updateCount": 27,
+    "isCurrentArroword": false
+  },
+  "הבור": {
+    "score": 10,
+    "clues": [
+      "the ignorant"
+    ],
+    "updateCount": 28,
+    "isCurrentArroword": false
+  },
+  "להקנות צורה": {
+    "score": 10,
+    "clues": [
+      "shape"
+    ],
+    "updateCount": 31,
+    "isCurrentArroword": false
+  },
+  "ושיטות": {
+    "score": 10,
+    "clues": [
+      "and methods"
+    ],
+    "updateCount": 32,
+    "isCurrentArroword": true
+  },
+  "הימימ": {
+    "score": 10,
+    "clues": [
+      "the days"
+    ],
+    "updateCount": 33,
+    "isCurrentArroword": true
+  },
+  "והחלה": {
+    "score": 10,
+    "clues": [
+      "and started"
+    ],
+    "updateCount": 34,
+    "isCurrentArroword": true
   }
 }
