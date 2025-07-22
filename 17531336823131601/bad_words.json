@@ -37,7 +37,7 @@
       "walrus"
     ],
     "updateCount": 53,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לאיש": {
     "score": 10,
@@ -174,5 +174,21 @@
     ],
     "updateCount": 52,
     "isCurrentArroword": false
+  },
+  "להנ": {
+    "score": 10,
+    "clues": [
+      "to them"
+    ],
+    "updateCount": 59,
+    "isCurrentArroword": true
+  },
+  "אמיר": {
+    "score": 10,
+    "clues": [
+      "treetop"
+    ],
+    "updateCount": 60,
+    "isCurrentArroword": true
   }
 }
