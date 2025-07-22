@@ -1,0 +1,368 @@
+{
+  "num_rows": 10,
+  "num_cols": 10,
+  "comments": [
+    "Word usage summary by score:",
+    "Score 10: 2/19 words used (5.71% of puzzle, 10.53% of score group)",
+    "Score 9: 2/5 words used (5.71% of puzzle, 40.00% of score group)",
+    "Score 8: 0/2 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 4: 1/1 words used (2.86% of puzzle, 100.00% of score group)",
+    "Score 1: 24/3353 words used (68.57% of puzzle, 0.72% of score group)",
+    "Score 0: 6/8087 words used (17.14% of puzzle, 0.07% of score group)",
+    "Total: 35/11467 words used"
+  ],
+  "clues": [
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "לנצח",
+      "definition": "prevail",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 9,
+      "solution": "פתחו",
+      "definition": "opened",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 0,
+      "solution": "דק",
+      "definition": "slender",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 9,
+      "clue_col": 0,
+      "solution": "איבר",
+      "definition": "organ",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 6,
+      "solution": "מסה",
+      "definition": "mass",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 8,
+      "clue_col": 4,
+      "solution": "סכסוכ",
+      "definition": "feud",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "חקלאות",
+      "definition": "agriculture",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 5,
+      "clue_col": 0,
+      "solution": "כת",
+      "definition": "sect",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 5,
+      "clue_col": 0,
+      "solution": "חלל",
+      "definition": "cavity",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 1,
+      "solution": "ההרס",
+      "definition": "the demolition",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 5,
+      "solution": "מד",
+      "definition": "gauge",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "קרחתיער",
+      "definition": "glade",
+      "lengths": [
+        4,
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "חמה",
+      "definition": "hot",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 9,
+      "solution": "נכה",
+      "definition": "handicapped",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 1,
+      "solution": "מח",
+      "definition": "marrow",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 1,
+      "solution": "מבהיל",
+      "definition": "startling",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 6,
+      "solution": "קרנ",
+      "definition": "ray",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 2,
+      "solution": "פעמי",
+      "definition": "time",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 2,
+      "solution": "דבק",
+      "definition": "adhesive",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 7,
+      "solution": "קסמ",
+      "definition": "fascination",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 3,
+      "solution": "גס",
+      "definition": "coarse",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 8,
+      "solution": "ולרוס",
+      "definition": "walrus",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "אפור",
+      "definition": "gray",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 1,
+      "solution": "במקור",
+      "definition": "by the beak",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "להתמיד",
+      "definition": "persevere",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 0,
+      "solution": "מדורה",
+      "definition": "bonfire",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "למדי",
+      "definition": "rather",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "לחמ",
+      "definition": "bread",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 5,
+      "solution": "דמות",
+      "definition": "character",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 5,
+      "solution": "מהסס",
+      "definition": "hesitant",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 7,
+      "solution": "לאדמ",
+      "definition": "to/for mankind",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 1,
+      "clue_col": 7,
+      "solution": "גפ",
+      "definition": "limb",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "עוסק",
+      "definition": "deals",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "אי",
+      "definition": "island",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 9,
+      "solution": "מתחת",
+      "definition": "beneath",
+      "lengths": [
+        4
+      ]
+    }
+  ],
+  "mask_id": "mask_2"
+}
