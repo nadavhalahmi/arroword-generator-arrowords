@@ -5,7 +5,7 @@
       "the characteristics"
     ],
     "updateCount": 1,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ירדה": {
     "score": 10,
@@ -13,7 +13,7 @@
       "went down"
     ],
     "updateCount": 2,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "נבחר": {
     "score": 10,
@@ -21,7 +21,7 @@
       "the selected"
     ],
     "updateCount": 3,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "באבו": {
     "score": 10,
@@ -29,6 +29,14 @@
       "at a tender age"
     ],
     "updateCount": 15,
+    "isCurrentArroword": false
+  },
+  "כקיסר": {
+    "score": 10,
+    "clues": [
+      "as a Caesar"
+    ],
+    "updateCount": 19,
     "isCurrentArroword": true
   }
 }
