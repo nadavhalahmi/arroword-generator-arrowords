@@ -1,0 +1,365 @@
+{
+  "num_rows": 10,
+  "num_cols": 10,
+  "comments": [
+    "Word usage summary by score:",
+    "Score 10: 3/11 words used (8.57% of puzzle, 27.27% of score group)",
+    "Score 1: 26/3367 words used (74.29% of puzzle, 0.77% of score group)",
+    "Score 0: 6/8089 words used (17.14% of puzzle, 0.07% of score group)",
+    "Total: 35/11467 words used"
+  ],
+  "clues": [
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "ורוד",
+      "definition": "pink",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 9,
+      "solution": "גלות",
+      "definition": "exile",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 0,
+      "solution": "חצ",
+      "definition": "dart",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 9,
+      "clue_col": 0,
+      "solution": "סייח",
+      "definition": "colt",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 6,
+      "solution": "ציר",
+      "definition": "hinge",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 8,
+      "clue_col": 4,
+      "solution": "נוראי",
+      "definition": "disastrous",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "תרבותי",
+      "definition": "cultural",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 5,
+      "clue_col": 0,
+      "solution": "זו",
+      "definition": "this",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 5,
+      "clue_col": 0,
+      "solution": "דלי",
+      "definition": "bucket",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 1,
+      "solution": "נלהב",
+      "definition": "rapturous",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 5,
+      "solution": "תנ",
+      "definition": "jackal",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "להתפייס",
+      "definition": "reconcile",
+      "lengths": [
+        7
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "זול",
+      "definition": "cheap",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 9,
+      "solution": "דיר",
+      "definition": "pen",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 1,
+      "solution": "בז",
+      "definition": "falcon",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 1,
+      "solution": "בתנאי",
+      "definition": "under the conditions of",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 6,
+      "solution": "מרד",
+      "definition": "revolt",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 2,
+      "solution": "ריקמ",
+      "definition": "emptily",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 2,
+      "solution": "קיצ",
+      "definition": "summer",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 7,
+      "solution": "מרצ",
+      "definition": "zeal",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 3,
+      "solution": "גפ",
+      "definition": "limb",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 8,
+      "solution": "אחראי",
+      "definition": "liable",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "אריח",
+      "definition": "tile",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 1,
+      "solution": "תולדה",
+      "definition": "corollary",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "להוכיח",
+      "definition": "prove",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 0,
+      "solution": "כקיסר",
+      "definition": "as a Caesar",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "בתימ",
+      "definition": "mermaid",
+      "lengths": [
+        2,
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "שומ",
+      "definition": "garlic",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 5,
+      "solution": "יראה",
+      "definition": "awe",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 5,
+      "solution": "קרנפ",
+      "definition": "rhinoceros",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 7,
+      "solution": "שונר",
+      "definition": "bobcat",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 1,
+      "clue_col": 7,
+      "solution": "חג",
+      "definition": "holiday",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "מדבר",
+      "definition": "wilderness",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "אי",
+      "definition": "island",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 9,
+      "solution": "מידה",
+      "definition": "extent",
+      "lengths": [
+        4
+      ]
+    }
+  ],
+  "mask_id": "mask_2"
+}
