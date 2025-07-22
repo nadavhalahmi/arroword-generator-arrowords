@@ -36,8 +36,8 @@
     "clues": [
       "walrus"
     ],
-    "updateCount": 13,
-    "isCurrentArroword": false
+    "updateCount": 53,
+    "isCurrentArroword": true
   },
   "לאיש": {
     "score": 10,
@@ -85,7 +85,7 @@
       "fountain"
     ],
     "updateCount": 50,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "יהודיימ": {
     "score": 10,
@@ -173,6 +173,6 @@
       "harpoon"
     ],
     "updateCount": 52,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
