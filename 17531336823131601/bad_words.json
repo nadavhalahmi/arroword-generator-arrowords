@@ -84,8 +84,8 @@
     "clues": [
       "fountain"
     ],
-    "updateCount": 21,
-    "isCurrentArroword": false
+    "updateCount": 50,
+    "isCurrentArroword": true
   },
   "יהודיימ": {
     "score": 10,
@@ -166,5 +166,13 @@
     ],
     "updateCount": 47,
     "isCurrentArroword": false
+  },
+  "צלפונ": {
+    "score": 10,
+    "clues": [
+      "harpoon"
+    ],
+    "updateCount": 52,
+    "isCurrentArroword": true
   }
 }
