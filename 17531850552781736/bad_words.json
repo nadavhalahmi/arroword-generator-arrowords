@@ -1,0 +1,34 @@
+{
+  "המאפיינימ": {
+    "score": 10,
+    "clues": [
+      "the characteristics"
+    ],
+    "updateCount": 1,
+    "isCurrentArroword": true
+  },
+  "ירדה": {
+    "score": 10,
+    "clues": [
+      "went down"
+    ],
+    "updateCount": 2,
+    "isCurrentArroword": true
+  },
+  "נבחר": {
+    "score": 10,
+    "clues": [
+      "the selected"
+    ],
+    "updateCount": 3,
+    "isCurrentArroword": true
+  },
+  "באבו": {
+    "score": 10,
+    "clues": [
+      "at a tender age"
+    ],
+    "updateCount": 15,
+    "isCurrentArroword": true
+  }
+}
