@@ -45,7 +45,7 @@
       "to/for a man"
     ],
     "updateCount": 14,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "מהמ": {
     "score": 10,
@@ -53,7 +53,7 @@
       "what are"
     ],
     "updateCount": 15,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "והגיע": {
     "score": 10,
@@ -61,7 +61,7 @@
       "and arrived"
     ],
     "updateCount": 16,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "איי": {
     "score": 10,
@@ -69,7 +69,7 @@
       "the islands of"
     ],
     "updateCount": 17,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "מידה קיצוני": {
     "score": 10,
@@ -77,7 +77,7 @@
       "extreme"
     ],
     "updateCount": 18,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "עינ": {
     "score": 10,
@@ -85,6 +85,22 @@
       "fountain"
     ],
     "updateCount": 21,
+    "isCurrentArroword": false
+  },
+  "יהודיימ": {
+    "score": 10,
+    "clues": [
+      "Jewish"
+    ],
+    "updateCount": 28,
+    "isCurrentArroword": true
+  },
+  "למלכ": {
+    "score": 10,
+    "clues": [
+      "to/for a king"
+    ],
+    "updateCount": 30,
     "isCurrentArroword": true
   }
 }
