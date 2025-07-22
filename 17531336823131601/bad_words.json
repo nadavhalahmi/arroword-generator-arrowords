@@ -5,7 +5,7 @@
       "fasten"
     ],
     "updateCount": 8,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "אמרו": {
     "score": 10,
@@ -13,7 +13,7 @@
       "said"
     ],
     "updateCount": 9,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "רצו": {
     "score": 10,
@@ -21,7 +21,7 @@
       "wanted"
     ],
     "updateCount": 11,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ומלב": {
     "score": 10,
@@ -29,7 +29,7 @@
       "and from the heart of"
     ],
     "updateCount": 12,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ולרוס": {
     "score": 10,
@@ -37,6 +37,54 @@
       "walrus"
     ],
     "updateCount": 13,
+    "isCurrentArroword": false
+  },
+  "לאיש": {
+    "score": 10,
+    "clues": [
+      "to/for a man"
+    ],
+    "updateCount": 14,
+    "isCurrentArroword": true
+  },
+  "מהמ": {
+    "score": 10,
+    "clues": [
+      "what are"
+    ],
+    "updateCount": 15,
+    "isCurrentArroword": true
+  },
+  "והגיע": {
+    "score": 10,
+    "clues": [
+      "and arrived"
+    ],
+    "updateCount": 16,
+    "isCurrentArroword": true
+  },
+  "איי": {
+    "score": 10,
+    "clues": [
+      "the islands of"
+    ],
+    "updateCount": 17,
+    "isCurrentArroword": true
+  },
+  "מידה קיצוני": {
+    "score": 10,
+    "clues": [
+      "extreme"
+    ],
+    "updateCount": 18,
+    "isCurrentArroword": true
+  },
+  "עינ": {
+    "score": 10,
+    "clues": [
+      "fountain"
+    ],
+    "updateCount": 21,
     "isCurrentArroword": true
   }
 }
