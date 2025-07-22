@@ -109,7 +109,7 @@
       "rifles of"
     ],
     "updateCount": 34,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "בתה": {
     "score": 10,
@@ -117,7 +117,7 @@
       "her daughter"
     ],
     "updateCount": 35,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ימינו": {
     "score": 10,
@@ -125,7 +125,7 @@
       "his right"
     ],
     "updateCount": 36,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "שעמ": {
     "score": 10,
@@ -133,6 +133,38 @@
       "that with"
     ],
     "updateCount": 38,
+    "isCurrentArroword": false
+  },
+  "לחשוב על": {
+    "score": 10,
+    "clues": [
+      "think"
+    ],
+    "updateCount": 39,
+    "isCurrentArroword": true
+  },
+  "ושימוש": {
+    "score": 10,
+    "clues": [
+      "and use"
+    ],
+    "updateCount": 40,
+    "isCurrentArroword": true
+  },
+  "לאו": {
+    "score": 10,
+    "clues": [
+      "no"
+    ],
+    "updateCount": 41,
+    "isCurrentArroword": true
+  },
+  "ההרס": {
+    "score": 10,
+    "clues": [
+      "the demolition"
+    ],
+    "updateCount": 47,
     "isCurrentArroword": true
   }
 }
