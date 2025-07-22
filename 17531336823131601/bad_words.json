@@ -93,7 +93,7 @@
       "Jewish"
     ],
     "updateCount": 28,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "למלכ": {
     "score": 10,
@@ -101,6 +101,38 @@
       "to/for a king"
     ],
     "updateCount": 30,
+    "isCurrentArroword": false
+  },
+  "רובי": {
+    "score": 10,
+    "clues": [
+      "rifles of"
+    ],
+    "updateCount": 34,
+    "isCurrentArroword": true
+  },
+  "בתה": {
+    "score": 10,
+    "clues": [
+      "her daughter"
+    ],
+    "updateCount": 35,
+    "isCurrentArroword": true
+  },
+  "ימינו": {
+    "score": 10,
+    "clues": [
+      "his right"
+    ],
+    "updateCount": 36,
+    "isCurrentArroword": true
+  },
+  "שעמ": {
+    "score": 10,
+    "clues": [
+      "that with"
+    ],
+    "updateCount": 38,
     "isCurrentArroword": true
   }
 }
