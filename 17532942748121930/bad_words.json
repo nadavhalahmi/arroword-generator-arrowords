@@ -5,7 +5,7 @@
       "the caterpillar"
     ],
     "updateCount": 1,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "הלב": {
     "score": 10,
@@ -13,7 +13,7 @@
       "the heart"
     ],
     "updateCount": 2,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "חכמי": {
     "score": 10,
@@ -21,7 +21,7 @@
       "the wise people of"
     ],
     "updateCount": 3,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "שאיננ": {
     "score": 10,
@@ -29,6 +29,14 @@
       "that are not here"
     ],
     "updateCount": 4,
+    "isCurrentArroword": false
+  },
+  "ורבימ": {
+    "score": 10,
+    "clues": [
+      "and fight"
+    ],
+    "updateCount": 11,
     "isCurrentArroword": true
   }
 }
