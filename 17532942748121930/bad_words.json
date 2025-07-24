@@ -37,6 +37,14 @@
       "and fight"
     ],
     "updateCount": 11,
+    "isCurrentArroword": false
+  },
+  "בשומ": {
+    "score": 10,
+    "clues": [
+      "in no"
+    ],
+    "updateCount": 12,
     "isCurrentArroword": true
   }
 }
