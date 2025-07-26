@@ -37,6 +37,30 @@
       "as a Caesar"
     ],
     "updateCount": 19,
+    "isCurrentArroword": false
+  },
+  "האנושי": {
+    "score": 10,
+    "clues": [
+      "the humane"
+    ],
+    "updateCount": 33,
+    "isCurrentArroword": true
+  },
+  "ושל": {
+    "score": 10,
+    "clues": [
+      "and of"
+    ],
+    "updateCount": 36,
+    "isCurrentArroword": true
+  },
+  "מגיעימ": {
+    "score": 10,
+    "clues": [
+      "deserve"
+    ],
+    "updateCount": 45,
     "isCurrentArroword": true
   }
 }
