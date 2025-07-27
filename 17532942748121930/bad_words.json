@@ -53,6 +53,14 @@
       "one must"
     ],
     "updateCount": 22,
+    "isCurrentArroword": false
+  },
+  "שונר": {
+    "score": 10,
+    "clues": [
+      "bobcat"
+    ],
+    "updateCount": 29,
     "isCurrentArroword": true
   }
 }
