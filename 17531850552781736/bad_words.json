@@ -45,7 +45,7 @@
       "the humane"
     ],
     "updateCount": 33,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ושל": {
     "score": 10,
@@ -53,7 +53,7 @@
       "and of"
     ],
     "updateCount": 36,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "מגיעימ": {
     "score": 10,
@@ -61,6 +61,22 @@
       "deserve"
     ],
     "updateCount": 45,
+    "isCurrentArroword": false
+  },
+  "המקרא": {
+    "score": 10,
+    "clues": [
+      "the legend"
+    ],
+    "updateCount": 46,
+    "isCurrentArroword": true
+  },
+  "החתול": {
+    "score": 10,
+    "clues": [
+      "the cat"
+    ],
+    "updateCount": 47,
     "isCurrentArroword": true
   }
 }
