@@ -46,5 +46,13 @@
     ],
     "updateCount": 12,
     "isCurrentArroword": false
+  },
+  "יש": {
+    "score": 10,
+    "clues": [
+      "one must"
+    ],
+    "updateCount": 22,
+    "isCurrentArroword": true
   }
 }
