@@ -61,6 +61,46 @@
       "bobcat"
     ],
     "updateCount": 29,
+    "isCurrentArroword": false
+  },
+  "הקל": {
+    "score": 10,
+    "clues": [
+      "the lightweight"
+    ],
+    "updateCount": 32,
+    "isCurrentArroword": true
+  },
+  "המחבר": {
+    "score": 10,
+    "clues": [
+      "the author"
+    ],
+    "updateCount": 34,
+    "isCurrentArroword": true
+  },
+  "העברימ": {
+    "score": 10,
+    "clues": [
+      "the Hebrew people"
+    ],
+    "updateCount": 36,
+    "isCurrentArroword": true
+  },
+  "וביקשו": {
+    "score": 10,
+    "clues": [
+      "and requested"
+    ],
+    "updateCount": 37,
+    "isCurrentArroword": true
+  },
+  "הנמ": {
+    "score": 10,
+    "clues": [
+      "are"
+    ],
+    "updateCount": 38,
     "isCurrentArroword": true
   }
 }
