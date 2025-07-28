@@ -158,5 +158,13 @@
     ],
     "updateCount": 47,
     "isCurrentArroword": false
+  },
+  "הברונזה": {
+    "score": 10,
+    "clues": [
+      "the bronze"
+    ],
+    "updateCount": 54,
+    "isCurrentArroword": true
   }
 }
