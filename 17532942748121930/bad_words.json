@@ -173,6 +173,14 @@
       "are caught"
     ],
     "updateCount": 60,
+    "isCurrentArroword": false
+  },
+  "הלחמ": {
+    "score": 10,
+    "clues": [
+      "fight"
+    ],
+    "updateCount": 68,
     "isCurrentArroword": true
   }
 }
