@@ -165,6 +165,14 @@
       "the bronze"
     ],
     "updateCount": 54,
+    "isCurrentArroword": false
+  },
+  "נתפסימ": {
+    "score": 10,
+    "clues": [
+      "are caught"
+    ],
+    "updateCount": 60,
     "isCurrentArroword": true
   }
 }
