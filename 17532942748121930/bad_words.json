@@ -109,14 +109,54 @@
       "think"
     ],
     "updateCount": 39,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "המנהיג": {
     "score": 10,
     "clues": [
       "the leader"
     ],
-    "updateCount": 40,
+    "updateCount": 44,
+    "isCurrentArroword": true
+  },
+  "השייכ": {
+    "score": 10,
+    "clues": [
+      "that/which belongs"
+    ],
+    "updateCount": 42,
+    "isCurrentArroword": true
+  },
+  "וסיפר": {
+    "score": 10,
+    "clues": [
+      "and told"
+    ],
+    "updateCount": 43,
+    "isCurrentArroword": true
+  },
+  "הקיסרי": {
+    "score": 10,
+    "clues": [
+      "the caesarian"
+    ],
+    "updateCount": 45,
+    "isCurrentArroword": true
+  },
+  "לאש": {
+    "score": 10,
+    "clues": [
+      "to fire"
+    ],
+    "updateCount": 46,
+    "isCurrentArroword": true
+  },
+  "פת": {
+    "score": 10,
+    "clues": [
+      "bread"
+    ],
+    "updateCount": 47,
     "isCurrentArroword": true
   }
 }
