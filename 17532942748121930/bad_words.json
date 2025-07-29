@@ -182,5 +182,53 @@
     ],
     "updateCount": 68,
     "isCurrentArroword": false
+  },
+  "בל": {
+    "score": 10,
+    "clues": [
+      "not"
+    ],
+    "updateCount": 85,
+    "isCurrentArroword": true
+  },
+  "למותו": {
+    "score": 10,
+    "clues": [
+      "[to] his death"
+    ],
+    "updateCount": 86,
+    "isCurrentArroword": true
+  },
+  "ובהמ": {
+    "score": 10,
+    "clues": [
+      "and in them"
+    ],
+    "updateCount": 88,
+    "isCurrentArroword": true
+  },
+  "ועדת": {
+    "score": 10,
+    "clues": [
+      "the committee of"
+    ],
+    "updateCount": 89,
+    "isCurrentArroword": true
+  },
+  "שאי": {
+    "score": 10,
+    "clues": [
+      "that an island"
+    ],
+    "updateCount": 90,
+    "isCurrentArroword": true
+  },
+  "פנויה": {
+    "score": 10,
+    "clues": [
+      "leisure"
+    ],
+    "updateCount": 92,
+    "isCurrentArroword": true
   }
 }
