@@ -189,7 +189,7 @@
       "not"
     ],
     "updateCount": 85,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "למותו": {
     "score": 10,
@@ -197,7 +197,7 @@
       "[to] his death"
     ],
     "updateCount": 86,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ובהמ": {
     "score": 10,
@@ -205,7 +205,7 @@
       "and in them"
     ],
     "updateCount": 88,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ועדת": {
     "score": 10,
@@ -213,7 +213,7 @@
       "the committee of"
     ],
     "updateCount": 89,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "שאי": {
     "score": 10,
@@ -221,7 +221,7 @@
       "that an island"
     ],
     "updateCount": 90,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "פנויה": {
     "score": 10,
@@ -229,6 +229,30 @@
       "leisure"
     ],
     "updateCount": 92,
+    "isCurrentArroword": false
+  },
+  "הדור": {
+    "score": 10,
+    "clues": [
+      "the generation"
+    ],
+    "updateCount": 96,
+    "isCurrentArroword": true
+  },
+  "וקרא": {
+    "score": 10,
+    "clues": [
+      "and read"
+    ],
+    "updateCount": 97,
+    "isCurrentArroword": true
+  },
+  "במבנה": {
+    "score": 10,
+    "clues": [
+      "in a building"
+    ],
+    "updateCount": 98,
     "isCurrentArroword": true
   }
 }
