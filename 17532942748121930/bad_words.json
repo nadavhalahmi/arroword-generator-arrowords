@@ -261,7 +261,7 @@
       "to/for the leg"
     ],
     "updateCount": 102,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לעמת": {
     "score": 10,
@@ -269,7 +269,7 @@
       "confront"
     ],
     "updateCount": 103,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "בגופ": {
     "score": 10,
@@ -277,7 +277,7 @@
       "in a body"
     ],
     "updateCount": 105,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לשבור": {
     "score": 10,
@@ -285,7 +285,7 @@
       "break"
     ],
     "updateCount": 108,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לשדר": {
     "score": 10,
@@ -293,7 +293,7 @@
       "broadcast"
     ],
     "updateCount": 109,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "מבוגר מ": {
     "score": 10,
@@ -301,6 +301,22 @@
       "elderly"
     ],
     "updateCount": 110,
+    "isCurrentArroword": false
+  },
+  "וראה": {
+    "score": 10,
+    "clues": [
+      "and saw"
+    ],
+    "updateCount": 113,
+    "isCurrentArroword": true
+  },
+  "אופל": {
+    "score": 10,
+    "clues": [
+      "opal"
+    ],
+    "updateCount": 115,
     "isCurrentArroword": true
   }
 }
