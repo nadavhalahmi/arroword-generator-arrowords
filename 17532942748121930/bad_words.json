@@ -309,7 +309,7 @@
       "and saw"
     ],
     "updateCount": 113,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "אופל": {
     "score": 10,
@@ -317,6 +317,22 @@
       "opal"
     ],
     "updateCount": 115,
+    "isCurrentArroword": false
+  },
+  "והפכ": {
+    "score": 10,
+    "clues": [
+      "and turned"
+    ],
+    "updateCount": 118,
+    "isCurrentArroword": true
+  },
+  "הנמל": {
+    "score": 10,
+    "clues": [
+      "the harbor"
+    ],
+    "updateCount": 119,
     "isCurrentArroword": true
   }
 }
