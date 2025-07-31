@@ -341,6 +341,38 @@
       "one"
     ],
     "updateCount": 126,
+    "isCurrentArroword": false
+  },
+  "השבויימ": {
+    "score": 10,
+    "clues": [
+      "the prisoners"
+    ],
+    "updateCount": 129,
+    "isCurrentArroword": true
+  },
+  "ובנו": {
+    "score": 10,
+    "clues": [
+      "and his son"
+    ],
+    "updateCount": 131,
+    "isCurrentArroword": true
+  },
+  "לתכננ": {
+    "score": 10,
+    "clues": [
+      "calculate"
+    ],
+    "updateCount": 132,
+    "isCurrentArroword": true
+  },
+  "לכמוה": {
+    "score": 10,
+    "clues": [
+      "yearn"
+    ],
+    "updateCount": 134,
     "isCurrentArroword": true
   }
 }
