@@ -325,7 +325,7 @@
       "and turned"
     ],
     "updateCount": 118,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "הנמל": {
     "score": 10,
@@ -333,6 +333,14 @@
       "the harbor"
     ],
     "updateCount": 119,
+    "isCurrentArroword": false
+  },
+  "לז": {
+    "score": 10,
+    "clues": [
+      "one"
+    ],
+    "updateCount": 126,
     "isCurrentArroword": true
   }
 }
