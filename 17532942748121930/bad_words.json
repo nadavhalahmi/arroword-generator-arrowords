@@ -349,7 +349,7 @@
       "the prisoners"
     ],
     "updateCount": 129,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ובנו": {
     "score": 10,
@@ -357,7 +357,7 @@
       "and his son"
     ],
     "updateCount": 131,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לתכננ": {
     "score": 10,
@@ -365,7 +365,7 @@
       "calculate"
     ],
     "updateCount": 132,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לכמוה": {
     "score": 10,
@@ -373,6 +373,38 @@
       "yearn"
     ],
     "updateCount": 134,
+    "isCurrentArroword": false
+  },
+  "הראוי": {
+    "score": 10,
+    "clues": [
+      "the eligible"
+    ],
+    "updateCount": 135,
+    "isCurrentArroword": true
+  },
+  "ממוצא": {
+    "score": 10,
+    "clues": [
+      "from an origin"
+    ],
+    "updateCount": 136,
+    "isCurrentArroword": true
+  },
+  "ורק": {
+    "score": 10,
+    "clues": [
+      "and only"
+    ],
+    "updateCount": 137,
+    "isCurrentArroword": true
+  },
+  "חקירת": {
+    "score": 10,
+    "clues": [
+      "the inquiry of"
+    ],
+    "updateCount": 138,
     "isCurrentArroword": true
   }
 }
