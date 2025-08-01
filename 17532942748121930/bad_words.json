@@ -413,7 +413,7 @@
       "and belongs to"
     ],
     "updateCount": 144,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "רבו": {
     "score": 10,
@@ -421,7 +421,7 @@
       "his teacher"
     ],
     "updateCount": 147,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "הראי": {
     "score": 10,
@@ -429,6 +429,6 @@
       "the mirror"
     ],
     "updateCount": 149,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
