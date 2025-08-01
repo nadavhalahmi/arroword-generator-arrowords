@@ -14,5 +14,29 @@
     ],
     "updateCount": 8,
     "isCurrentArroword": false
+  },
+  "בצי": {
+    "score": 10,
+    "clues": [
+      "in a navy"
+    ],
+    "updateCount": 23,
+    "isCurrentArroword": true
+  },
+  "שזהו": {
+    "score": 10,
+    "clues": [
+      "that that is it"
+    ],
+    "updateCount": 24,
+    "isCurrentArroword": true
+  },
+  "ויניל": {
+    "score": 10,
+    "clues": [
+      "vinyl"
+    ],
+    "updateCount": 26,
+    "isCurrentArroword": true
   }
 }
