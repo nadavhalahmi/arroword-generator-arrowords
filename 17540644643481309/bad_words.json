@@ -5,6 +5,14 @@
       "disposable"
     ],
     "updateCount": 7,
+    "isCurrentArroword": false
+  },
+  "לקשר": {
+    "score": 10,
+    "clues": [
+      "link"
+    ],
+    "updateCount": 8,
     "isCurrentArroword": true
   }
 }
