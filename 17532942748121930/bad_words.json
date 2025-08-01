@@ -381,7 +381,7 @@
       "the eligible"
     ],
     "updateCount": 135,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ממוצא": {
     "score": 10,
@@ -389,7 +389,7 @@
       "from an origin"
     ],
     "updateCount": 136,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ורק": {
     "score": 10,
@@ -397,7 +397,7 @@
       "and only"
     ],
     "updateCount": 137,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "חקירת": {
     "score": 10,
@@ -405,6 +405,30 @@
       "the inquiry of"
     ],
     "updateCount": 138,
+    "isCurrentArroword": false
+  },
+  "ושל": {
+    "score": 10,
+    "clues": [
+      "and belongs to"
+    ],
+    "updateCount": 144,
+    "isCurrentArroword": true
+  },
+  "רבו": {
+    "score": 10,
+    "clues": [
+      "his teacher"
+    ],
+    "updateCount": 147,
+    "isCurrentArroword": true
+  },
+  "הראי": {
+    "score": 10,
+    "clues": [
+      "the mirror"
+    ],
+    "updateCount": 149,
     "isCurrentArroword": true
   }
 }
