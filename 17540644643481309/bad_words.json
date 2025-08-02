@@ -21,7 +21,7 @@
       "in a navy"
     ],
     "updateCount": 23,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "שזהו": {
     "score": 10,
@@ -29,7 +29,7 @@
       "that that is it"
     ],
     "updateCount": 24,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ויניל": {
     "score": 10,
@@ -37,6 +37,6 @@
       "vinyl"
     ],
     "updateCount": 26,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
