@@ -45,6 +45,30 @@
       "the last"
     ],
     "updateCount": 46,
+    "isCurrentArroword": false
+  },
+  "התת": {
+    "score": 10,
+    "clues": [
+      "the infra-"
+    ],
+    "updateCount": 48,
+    "isCurrentArroword": true
+  },
+  "ועליו": {
+    "score": 10,
+    "clues": [
+      "and about him/it"
+    ],
+    "updateCount": 49,
+    "isCurrentArroword": true
+  },
+  "הכנימה": {
+    "score": 10,
+    "clues": [
+      "the aphid"
+    ],
+    "updateCount": 51,
     "isCurrentArroword": true
   }
 }
