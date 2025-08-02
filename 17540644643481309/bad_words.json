@@ -38,5 +38,13 @@
     ],
     "updateCount": 26,
     "isCurrentArroword": false
+  },
+  "שעבר": {
+    "score": 10,
+    "clues": [
+      "the last"
+    ],
+    "updateCount": 46,
+    "isCurrentArroword": true
   }
 }
