@@ -53,7 +53,7 @@
       "the infra-"
     ],
     "updateCount": 48,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ועליו": {
     "score": 10,
@@ -61,7 +61,7 @@
       "and about him/it"
     ],
     "updateCount": 49,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "הכנימה": {
     "score": 10,
@@ -69,6 +69,6 @@
       "the aphid"
     ],
     "updateCount": 51,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
