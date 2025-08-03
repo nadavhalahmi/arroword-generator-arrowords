@@ -77,7 +77,7 @@
       "interview"
     ],
     "updateCount": 69,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לשגע": {
     "score": 10,
@@ -85,6 +85,14 @@
       "derange"
     ],
     "updateCount": 71,
+    "isCurrentArroword": false
+  },
+  "לריב": {
+    "score": 10,
+    "clues": [
+      "quarrel"
+    ],
+    "updateCount": 80,
     "isCurrentArroword": true
   }
 }
