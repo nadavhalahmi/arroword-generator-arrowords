@@ -29,7 +29,7 @@
       "that that is it"
     ],
     "updateCount": 62,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ויניל": {
     "score": 10,
@@ -70,5 +70,21 @@
     ],
     "updateCount": 51,
     "isCurrentArroword": false
+  },
+  "לראיינ": {
+    "score": 10,
+    "clues": [
+      "interview"
+    ],
+    "updateCount": 69,
+    "isCurrentArroword": true
+  },
+  "לשגע": {
+    "score": 10,
+    "clues": [
+      "derange"
+    ],
+    "updateCount": 71,
+    "isCurrentArroword": true
   }
 }
