@@ -1,0 +1,405 @@
+{
+  "num_rows": 10,
+  "num_cols": 10,
+  "comments": [
+    "Word usage summary by score:",
+    "Score 10: 1/33 words used (2.63% of puzzle, 3.03% of score group)",
+    "Score 9: 1/11 words used (2.63% of puzzle, 9.09% of score group)",
+    "Score 8: 2/8 words used (5.26% of puzzle, 25.00% of score group)",
+    "Score 7: 0/1 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 1: 17/3328 words used (44.74% of puzzle, 0.51% of score group)",
+    "Score 0: 17/8086 words used (44.74% of puzzle, 0.21% of score group)",
+    "Total: 38/11467 words used"
+  ],
+  "clues": [
+    {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "דל",
+      "definition": "scarce",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "דק",
+      "definition": "tenuous",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 9,
+      "solution": "הערת",
+      "definition": "you commented",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 9,
+      "clue_col": 0,
+      "solution": "נוהג",
+      "definition": "practice",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "בנס",
+      "definition": "by miracle",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 7,
+      "solution": "גל",
+      "definition": "wave",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 7,
+      "solution": "מר",
+      "definition": "bitter",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 0,
+      "solution": "קדושמעונה",
+      "definition": "martyr",
+      "lengths": [
+        4,
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 1,
+      "solution": "רעד",
+      "definition": "shudder",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 2,
+      "clue_col": 1,
+      "solution": "רשת",
+      "definition": "net",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 1,
+      "solution": "מקו",
+      "definition": "from the line of",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 8,
+      "solution": "דיו",
+      "definition": "had enough",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 8,
+      "solution": "עצמו",
+      "definition": "himself",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 5,
+      "solution": "דגימה",
+      "definition": "specimen",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 5,
+      "solution": "דרגות",
+      "definition": "ranks",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 4,
+      "solution": "יבש",
+      "definition": "parch",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "קת",
+      "definition": "handle",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "בוצע",
+      "definition": "was performed",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "הגבירו",
+      "definition": "amplified",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "הד",
+      "definition": "reverberation",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "בי",
+      "definition": "in me",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "וגמ",
+      "definition": "as well as",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 5,
+      "solution": "מאסה",
+      "definition": "mass",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "ריגול",
+      "definition": "espionage",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "נדהמ",
+      "definition": "aghast",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 8,
+      "solution": "אנוס",
+      "definition": "forced",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 5,
+      "clue_col": 8,
+      "solution": "או",
+      "definition": "or",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 8,
+      "clue_col": 4,
+      "solution": "המלונ",
+      "definition": "the hotel",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 9,
+      "solution": "והנה",
+      "definition": "and here is",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 3,
+      "solution": "ענבר",
+      "definition": "amber",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 1,
+      "clue_col": 3,
+      "solution": "הדס",
+      "definition": "myrtle",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "מנ",
+      "definition": "from",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "הפגיעה",
+      "definition": "the hit",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 6,
+      "solution": "עממ",
+      "definition": "their people",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 1,
+      "solution": "ממס",
+      "definition": "solvent",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 5,
+      "clue_col": 0,
+      "solution": "תותב",
+      "definition": "prosthetic",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 7,
+      "solution": "ולא",
+      "definition": "rather",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 3,
+      "solution": "לתרבת",
+      "definition": "civilize",
+      "lengths": [
+        5
+      ]
+    }
+  ],
+  "mask_id": "mask_1",
+  "score_distribution": {
+    "8": 2,
+    "9": 1,
+    "10": 1,
+    "1": 17,
+    "0": 17
+  }
+}
