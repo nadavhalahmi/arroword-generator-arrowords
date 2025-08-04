@@ -37,7 +37,7 @@
       "vinyl"
     ],
     "updateCount": 95,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "שעבר": {
     "score": 10,
@@ -118,5 +118,13 @@
     ],
     "updateCount": 93,
     "isCurrentArroword": false
+  },
+  "ירו": {
+    "score": 10,
+    "clues": [
+      "shot"
+    ],
+    "updateCount": 97,
+    "isCurrentArroword": true
   }
 }
