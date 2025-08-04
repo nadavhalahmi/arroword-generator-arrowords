@@ -101,6 +101,14 @@
       "the hit"
     ],
     "updateCount": 81,
+    "isCurrentArroword": false
+  },
+  "לתאמ": {
+    "score": 10,
+    "clues": [
+      "coordinate"
+    ],
+    "updateCount": 86,
     "isCurrentArroword": true
   }
 }
