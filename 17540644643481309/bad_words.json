@@ -110,5 +110,13 @@
     ],
     "updateCount": 86,
     "isCurrentArroword": false
+  },
+  "המהגרימ": {
+    "score": 10,
+    "clues": [
+      "the immigrants"
+    ],
+    "updateCount": 93,
+    "isCurrentArroword": true
   }
 }
