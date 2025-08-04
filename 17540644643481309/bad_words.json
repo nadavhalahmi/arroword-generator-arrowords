@@ -36,8 +36,8 @@
     "clues": [
       "vinyl"
     ],
-    "updateCount": 26,
-    "isCurrentArroword": false
+    "updateCount": 95,
+    "isCurrentArroword": true
   },
   "שעבר": {
     "score": 10,
@@ -117,6 +117,6 @@
       "the immigrants"
     ],
     "updateCount": 93,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
