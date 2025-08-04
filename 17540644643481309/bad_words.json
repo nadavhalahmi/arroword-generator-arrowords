@@ -93,6 +93,14 @@
       "quarrel"
     ],
     "updateCount": 80,
+    "isCurrentArroword": false
+  },
+  "הפגיעה": {
+    "score": 10,
+    "clues": [
+      "the hit"
+    ],
+    "updateCount": 81,
     "isCurrentArroword": true
   }
 }
