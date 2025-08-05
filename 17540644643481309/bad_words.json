@@ -141,6 +141,14 @@
       "intensity"
     ],
     "updateCount": 109,
+    "isCurrentArroword": false
+  },
+  "ומגדל": {
+    "score": 10,
+    "clues": [
+      "and a tower"
+    ],
+    "updateCount": 111,
     "isCurrentArroword": true
   }
 }
