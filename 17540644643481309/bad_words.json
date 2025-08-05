@@ -133,6 +133,14 @@
       "here he is"
     ],
     "updateCount": 102,
+    "isCurrentArroword": false
+  },
+  "עצמה העמקה": {
+    "score": 10,
+    "clues": [
+      "intensity"
+    ],
+    "updateCount": 109,
     "isCurrentArroword": true
   }
 }
