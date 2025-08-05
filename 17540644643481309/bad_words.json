@@ -125,6 +125,14 @@
       "shot"
     ],
     "updateCount": 97,
+    "isCurrentArroword": false
+  },
+  "הנהו": {
+    "score": 10,
+    "clues": [
+      "here he is"
+    ],
+    "updateCount": 102,
     "isCurrentArroword": true
   }
 }
