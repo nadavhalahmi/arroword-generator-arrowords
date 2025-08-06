@@ -150,5 +150,21 @@
     ],
     "updateCount": 111,
     "isCurrentArroword": false
+  },
+  "וציוד": {
+    "score": 10,
+    "clues": [
+      "and equipment"
+    ],
+    "updateCount": 125,
+    "isCurrentArroword": true
+  },
+  "הלה": {
+    "score": 10,
+    "clues": [
+      "that one"
+    ],
+    "updateCount": 129,
+    "isCurrentArroword": true
   }
 }
