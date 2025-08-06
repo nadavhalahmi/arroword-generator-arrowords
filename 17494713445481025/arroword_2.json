@@ -1,0 +1,370 @@
+{
+  "num_rows": 10,
+  "num_cols": 10,
+  "comments": [
+    "Word usage summary by score:",
+    "Score 10: 1/2 words used (2.86% of puzzle, 50.00% of score group)",
+    "Score 1: 26/3373 words used (74.29% of puzzle, 0.77% of score group)",
+    "Score 0: 8/8092 words used (22.86% of puzzle, 0.10% of score group)",
+    "Total: 35/11467 words used"
+  ],
+  "clues": [
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "אביר",
+      "definition": "knight",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 9,
+      "solution": "משטר",
+      "definition": "regime",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 0,
+      "solution": "מס",
+      "definition": "tax",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 9,
+      "clue_col": 0,
+      "solution": "עיונ",
+      "definition": "consideration",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 6,
+      "solution": "אני",
+      "definition": "I",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 8,
+      "clue_col": 4,
+      "solution": "וילונ",
+      "definition": "curtain",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "מוזכרת",
+      "definition": "mentioned",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 5,
+      "clue_col": 0,
+      "solution": "גמ",
+      "definition": "also",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 5,
+      "clue_col": 0,
+      "solution": "רמה",
+      "definition": "plateau",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 1,
+      "solution": "ורוד",
+      "definition": "pink",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 5,
+      "solution": "רב",
+      "definition": "copious",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "יומהדינ",
+      "definition": "doomsday",
+      "lengths": [
+        3,
+        4
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "סהר",
+      "definition": "crescent",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 9,
+      "solution": "דני",
+      "definition": "dane",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 1,
+      "solution": "פס",
+      "definition": "stripe",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 1,
+      "solution": "פלומה",
+      "definition": "fluff",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 6,
+      "solution": "מיד",
+      "definition": "immediately",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 2,
+      "solution": "מידע",
+      "definition": "information",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 2,
+      "solution": "מוס",
+      "definition": "mousse",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 7,
+      "solution": "מלא",
+      "definition": "fraught",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 3,
+      "solution": "חנ",
+      "definition": "grace",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 8,
+      "solution": "ראיונ",
+      "definition": "audience",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "המונ",
+      "definition": "rabble",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 1,
+      "solution": "להיות",
+      "definition": "to be",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "מסמכימ",
+      "definition": "documents",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 0,
+      "solution": "כמוני",
+      "definition": "like me",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "זרוע",
+      "definition": "arm",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "נטל",
+      "definition": "burden",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 5,
+      "solution": "ודרכ",
+      "definition": "and through",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 5,
+      "solution": "דיונ",
+      "definition": "discussion",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 7,
+      "solution": "נכבד",
+      "definition": "eminent",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 1,
+      "clue_col": 7,
+      "solution": "שמ",
+      "definition": "renown",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "הודו",
+      "definition": "thanked",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "הד",
+      "definition": "reverberation",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 9,
+      "solution": "לתוכ",
+      "definition": "into",
+      "lengths": [
+        4
+      ]
+    }
+  ],
+  "mask_id": "mask_2",
+  "score_distribution": {
+    "10": 1,
+    "1": 26,
+    "0": 8
+  }
+}
