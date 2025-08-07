@@ -197,6 +197,30 @@
       "asleep"
     ],
     "updateCount": 162,
+    "isCurrentArroword": false
+  },
+  "הקל": {
+    "score": 10,
+    "clues": [
+      "the lightweight"
+    ],
+    "updateCount": 169,
+    "isCurrentArroword": true
+  },
+  "הלבנימ": {
+    "score": 10,
+    "clues": [
+      "he white"
+    ],
+    "updateCount": 170,
+    "isCurrentArroword": true
+  },
+  "השכלה עצומה": {
+    "score": 10,
+    "clues": [
+      "erudition"
+    ],
+    "updateCount": 172,
     "isCurrentArroword": true
   }
 }
