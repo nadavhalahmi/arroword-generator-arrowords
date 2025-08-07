@@ -181,6 +181,14 @@
       "proverb"
     ],
     "updateCount": 139,
+    "isCurrentArroword": false
+  },
+  "רבו": {
+    "score": 10,
+    "clues": [
+      "his teacher"
+    ],
+    "updateCount": 148,
     "isCurrentArroword": true
   }
 }
