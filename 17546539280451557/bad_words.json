@@ -1,0 +1,34 @@
+{
+  "ידמ": {
+    "score": 10,
+    "clues": [
+      "their hand"
+    ],
+    "updateCount": 2,
+    "isCurrentArroword": true
+  },
+  "שבני": {
+    "score": 10,
+    "clues": [
+      "that my son"
+    ],
+    "updateCount": 3,
+    "isCurrentArroword": true
+  },
+  "תכננו": {
+    "score": 10,
+    "clues": [
+      "designed"
+    ],
+    "updateCount": 4,
+    "isCurrentArroword": true
+  },
+  "ושמו": {
+    "score": 10,
+    "clues": [
+      "named"
+    ],
+    "updateCount": 9,
+    "isCurrentArroword": true
+  }
+}
