@@ -53,7 +53,7 @@
       "choose"
     ],
     "updateCount": 16,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "רש": {
     "score": 10,
@@ -61,7 +61,7 @@
       "poor"
     ],
     "updateCount": 17,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ומת": {
     "score": 10,
@@ -69,6 +69,14 @@
       "and died"
     ],
     "updateCount": 18,
+    "isCurrentArroword": false
+  },
+  "הקתולית": {
+    "score": 10,
+    "clues": [
+      "the Catholic"
+    ],
+    "updateCount": 22,
     "isCurrentArroword": true
   }
 }
