@@ -37,7 +37,7 @@
       "and a bride"
     ],
     "updateCount": 12,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "להתיישב": {
     "score": 10,
@@ -45,6 +45,30 @@
       "establish"
     ],
     "updateCount": 15,
+    "isCurrentArroword": false
+  },
+  "לבחור": {
+    "score": 10,
+    "clues": [
+      "choose"
+    ],
+    "updateCount": 16,
+    "isCurrentArroword": true
+  },
+  "רש": {
+    "score": 10,
+    "clues": [
+      "poor"
+    ],
+    "updateCount": 17,
+    "isCurrentArroword": true
+  },
+  "ומת": {
+    "score": 10,
+    "clues": [
+      "and died"
+    ],
+    "updateCount": 18,
     "isCurrentArroword": true
   }
 }
