@@ -5,7 +5,7 @@
       "their hand"
     ],
     "updateCount": 2,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "שבני": {
     "score": 10,
@@ -13,7 +13,7 @@
       "that my son"
     ],
     "updateCount": 3,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "תכננו": {
     "score": 10,
@@ -21,7 +21,7 @@
       "designed"
     ],
     "updateCount": 4,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ושמו": {
     "score": 10,
@@ -29,6 +29,22 @@
       "named"
     ],
     "updateCount": 9,
+    "isCurrentArroword": false
+  },
+  "וכלה": {
+    "score": 10,
+    "clues": [
+      "and a bride"
+    ],
+    "updateCount": 12,
+    "isCurrentArroword": true
+  },
+  "להתיישב": {
+    "score": 10,
+    "clues": [
+      "establish"
+    ],
+    "updateCount": 15,
     "isCurrentArroword": true
   }
 }
