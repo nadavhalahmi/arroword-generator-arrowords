@@ -77,6 +77,38 @@
       "the Catholic"
     ],
     "updateCount": 22,
+    "isCurrentArroword": false
+  },
+  "ולי": {
+    "score": 10,
+    "clues": [
+      "and to/for me"
+    ],
+    "updateCount": 23,
+    "isCurrentArroword": true
+  },
+  "לקלפ": {
+    "score": 10,
+    "clues": [
+      "peel"
+    ],
+    "updateCount": 24,
+    "isCurrentArroword": true
+  },
+  "שילמה": {
+    "score": 10,
+    "clues": [
+      "paid"
+    ],
+    "updateCount": 26,
+    "isCurrentArroword": true
+  },
+  "קלימ": {
+    "score": 10,
+    "clues": [
+      "light weight"
+    ],
+    "updateCount": 32,
     "isCurrentArroword": true
   }
 }
