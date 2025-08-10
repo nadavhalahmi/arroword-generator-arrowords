@@ -6,5 +6,13 @@
     ],
     "updateCount": 1,
     "isCurrentArroword": false
+  },
+  "לשתות": {
+    "score": 10,
+    "clues": [
+      "drink"
+    ],
+    "updateCount": 12,
+    "isCurrentArroword": true
   }
 }
