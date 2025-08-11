@@ -85,7 +85,7 @@
       "and to/for me"
     ],
     "updateCount": 23,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לקלפ": {
     "score": 10,
@@ -93,7 +93,7 @@
       "peel"
     ],
     "updateCount": 24,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "שילמה": {
     "score": 10,
@@ -101,7 +101,7 @@
       "paid"
     ],
     "updateCount": 26,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "קלימ": {
     "score": 10,
@@ -109,6 +109,46 @@
       "light weight"
     ],
     "updateCount": 32,
+    "isCurrentArroword": false
+  },
+  "להפריכ": {
+    "score": 10,
+    "clues": [
+      "disprove"
+    ],
+    "updateCount": 33,
+    "isCurrentArroword": true
+  },
+  "הכללי": {
+    "score": 10,
+    "clues": [
+      "the general"
+    ],
+    "updateCount": 34,
+    "isCurrentArroword": true
+  },
+  "ללבלב": {
+    "score": 10,
+    "clues": [
+      "bloom"
+    ],
+    "updateCount": 35,
+    "isCurrentArroword": true
+  },
+  "לנבוע מ": {
+    "score": 10,
+    "clues": [
+      "stem from"
+    ],
+    "updateCount": 39,
+    "isCurrentArroword": true
+  },
+  "לנבוט": {
+    "score": 10,
+    "clues": [
+      "sprout"
+    ],
+    "updateCount": 40,
     "isCurrentArroword": true
   }
 }
