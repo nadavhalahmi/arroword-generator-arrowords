@@ -117,7 +117,7 @@
       "disprove"
     ],
     "updateCount": 33,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "הכללי": {
     "score": 10,
@@ -125,7 +125,7 @@
       "the general"
     ],
     "updateCount": 34,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ללבלב": {
     "score": 10,
@@ -133,7 +133,7 @@
       "bloom"
     ],
     "updateCount": 35,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לנבוע מ": {
     "score": 10,
@@ -141,7 +141,7 @@
       "stem from"
     ],
     "updateCount": 39,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לנבוט": {
     "score": 10,
@@ -149,6 +149,22 @@
       "sprout"
     ],
     "updateCount": 40,
+    "isCurrentArroword": false
+  },
+  "והנה": {
+    "score": 10,
+    "clues": [
+      "and here is"
+    ],
+    "updateCount": 45,
+    "isCurrentArroword": true
+  },
+  "לדממ": {
+    "score": 10,
+    "clues": [
+      "bleed"
+    ],
+    "updateCount": 47,
     "isCurrentArroword": true
   }
 }
