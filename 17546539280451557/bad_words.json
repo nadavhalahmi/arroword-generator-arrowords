@@ -213,6 +213,22 @@
       "the termination"
     ],
     "updateCount": 57,
+    "isCurrentArroword": false
+  },
+  "לפרוח": {
+    "score": 10,
+    "clues": [
+      "flourish"
+    ],
+    "updateCount": 64,
+    "isCurrentArroword": true
+  },
+  "לאסו": {
+    "score": 10,
+    "clues": [
+      "lasso"
+    ],
+    "updateCount": 65,
     "isCurrentArroword": true
   }
 }
