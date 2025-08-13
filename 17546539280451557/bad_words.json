@@ -221,7 +221,7 @@
       "flourish"
     ],
     "updateCount": 64,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לאסו": {
     "score": 10,
@@ -229,6 +229,30 @@
       "lasso"
     ],
     "updateCount": 65,
+    "isCurrentArroword": false
+  },
+  "הקלאסית": {
+    "score": 10,
+    "clues": [
+      "the classical"
+    ],
+    "updateCount": 71,
+    "isCurrentArroword": true
+  },
+  "המטבח": {
+    "score": 10,
+    "clues": [
+      "the kitchen"
+    ],
+    "updateCount": 73,
+    "isCurrentArroword": true
+  },
+  "שבהנ": {
+    "score": 10,
+    "clues": [
+      "that in them"
+    ],
+    "updateCount": 74,
     "isCurrentArroword": true
   }
 }
