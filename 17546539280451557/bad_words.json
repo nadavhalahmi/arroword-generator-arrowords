@@ -173,7 +173,7 @@
       "and women"
     ],
     "updateCount": 50,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ולרוס": {
     "score": 10,
@@ -181,7 +181,7 @@
       "walrus"
     ],
     "updateCount": 51,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ללא בודאות": {
     "score": 10,
@@ -189,7 +189,7 @@
       "certainly"
     ],
     "updateCount": 53,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "יפימ": {
     "score": 10,
@@ -197,7 +197,7 @@
       "good"
     ],
     "updateCount": 54,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לשער": {
     "score": 10,
@@ -205,6 +205,14 @@
       "suppose"
     ],
     "updateCount": 55,
+    "isCurrentArroword": false
+  },
+  "הקצ": {
+    "score": 10,
+    "clues": [
+      "the termination"
+    ],
+    "updateCount": 57,
     "isCurrentArroword": true
   }
 }
