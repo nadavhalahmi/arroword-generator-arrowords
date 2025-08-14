@@ -341,7 +341,7 @@
       "one"
     ],
     "updateCount": 98,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "הכתיב": {
     "score": 10,
@@ -349,7 +349,7 @@
       "the spelling"
     ],
     "updateCount": 102,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לבלוע": {
     "score": 10,
@@ -357,6 +357,6 @@
       "ingest"
     ],
     "updateCount": 106,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
