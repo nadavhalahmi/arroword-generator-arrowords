@@ -381,7 +381,7 @@
       "fly"
     ],
     "updateCount": 150,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "להטריד": {
     "score": 10,
@@ -397,6 +397,14 @@
       "trill"
     ],
     "updateCount": 149,
+    "isCurrentArroword": false
+  },
+  "הישר": {
+    "score": 10,
+    "clues": [
+      "the straight"
+    ],
+    "updateCount": 155,
     "isCurrentArroword": true
   }
 }
