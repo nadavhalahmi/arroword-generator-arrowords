@@ -366,5 +366,21 @@
     ],
     "updateCount": 116,
     "isCurrentArroword": false
+  },
+  "פירות": {
+    "score": 10,
+    "clues": [
+      "fruit"
+    ],
+    "updateCount": 128,
+    "isCurrentArroword": true
+  },
+  "לטוס": {
+    "score": 10,
+    "clues": [
+      "fly"
+    ],
+    "updateCount": 129,
+    "isCurrentArroword": true
   }
 }
