@@ -325,7 +325,7 @@
       "that contains"
     ],
     "updateCount": 92,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "שמרה": {
     "score": 10,
@@ -333,6 +333,30 @@
       "kept"
     ],
     "updateCount": 95,
+    "isCurrentArroword": false
+  },
+  "לז": {
+    "score": 10,
+    "clues": [
+      "one"
+    ],
+    "updateCount": 98,
+    "isCurrentArroword": true
+  },
+  "הכתיב": {
+    "score": 10,
+    "clues": [
+      "the spelling"
+    ],
+    "updateCount": 102,
+    "isCurrentArroword": true
+  },
+  "לבלוע": {
+    "score": 10,
+    "clues": [
+      "ingest"
+    ],
+    "updateCount": 106,
     "isCurrentArroword": true
   }
 }
