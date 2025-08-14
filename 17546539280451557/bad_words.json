@@ -148,8 +148,8 @@
     "clues": [
       "sprout"
     ],
-    "updateCount": 40,
-    "isCurrentArroword": false
+    "updateCount": 76,
+    "isCurrentArroword": true
   },
   "והנה": {
     "score": 10,
@@ -237,7 +237,7 @@
       "the classical"
     ],
     "updateCount": 71,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "המטבח": {
     "score": 10,
@@ -245,7 +245,7 @@
       "the kitchen"
     ],
     "updateCount": 73,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "שבהנ": {
     "score": 10,
@@ -253,6 +253,14 @@
       "that in them"
     ],
     "updateCount": 74,
+    "isCurrentArroword": false
+  },
+  "רבי": {
+    "score": 10,
+    "clues": [
+      "my rabbi"
+    ],
+    "updateCount": 75,
     "isCurrentArroword": true
   }
 }
