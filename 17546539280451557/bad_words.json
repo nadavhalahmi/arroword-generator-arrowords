@@ -269,7 +269,7 @@
       "cease"
     ],
     "updateCount": 78,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "הנחת": {
     "score": 10,
@@ -277,7 +277,7 @@
       "the complacence"
     ],
     "updateCount": 80,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לזייפ": {
     "score": 10,
@@ -285,6 +285,38 @@
       "forge"
     ],
     "updateCount": 81,
+    "isCurrentArroword": false
+  },
+  "לרסנ": {
+    "score": 10,
+    "clues": [
+      "restrain"
+    ],
+    "updateCount": 83,
+    "isCurrentArroword": true
+  },
+  "לסכנ": {
+    "score": 10,
+    "clues": [
+      "risk"
+    ],
+    "updateCount": 84,
+    "isCurrentArroword": true
+  },
+  "נהנו": {
+    "score": 10,
+    "clues": [
+      "enjoyed"
+    ],
+    "updateCount": 85,
+    "isCurrentArroword": true
+  },
+  "העדיפו": {
+    "score": 10,
+    "clues": [
+      "preferred"
+    ],
+    "updateCount": 86,
     "isCurrentArroword": true
   }
 }
