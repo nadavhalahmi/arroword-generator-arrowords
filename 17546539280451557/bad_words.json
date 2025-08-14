@@ -373,7 +373,7 @@
       "fruit"
     ],
     "updateCount": 128,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לטוס": {
     "score": 10,
@@ -381,6 +381,14 @@
       "fly"
     ],
     "updateCount": 129,
+    "isCurrentArroword": false
+  },
+  "להטריד": {
+    "score": 10,
+    "clues": [
+      "upset"
+    ],
+    "updateCount": 132,
     "isCurrentArroword": true
   }
 }
