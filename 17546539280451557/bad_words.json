@@ -405,6 +405,22 @@
       "the straight"
     ],
     "updateCount": 155,
+    "isCurrentArroword": false
+  },
+  "להחמיא": {
+    "score": 10,
+    "clues": [
+      "flatter"
+    ],
+    "updateCount": 160,
+    "isCurrentArroword": true
+  },
+  "ומוסדות": {
+    "score": 10,
+    "clues": [
+      "and institutes"
+    ],
+    "updateCount": 161,
     "isCurrentArroword": true
   }
 }
