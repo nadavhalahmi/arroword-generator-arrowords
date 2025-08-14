@@ -293,7 +293,7 @@
       "restrain"
     ],
     "updateCount": 83,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לסכנ": {
     "score": 10,
@@ -301,7 +301,7 @@
       "risk"
     ],
     "updateCount": 84,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "נהנו": {
     "score": 10,
@@ -309,7 +309,7 @@
       "enjoyed"
     ],
     "updateCount": 85,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "העדיפו": {
     "score": 10,
@@ -317,6 +317,22 @@
       "preferred"
     ],
     "updateCount": 86,
+    "isCurrentArroword": false
+  },
+  "המכיל": {
+    "score": 10,
+    "clues": [
+      "that contains"
+    ],
+    "updateCount": 92,
+    "isCurrentArroword": true
+  },
+  "שמרה": {
+    "score": 10,
+    "clues": [
+      "kept"
+    ],
+    "updateCount": 95,
     "isCurrentArroword": true
   }
 }
