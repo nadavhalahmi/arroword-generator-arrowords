@@ -1,0 +1,427 @@
+{
+  "num_rows": 10,
+  "num_cols": 10,
+  "comments": [
+    "Word usage summary by score:",
+    "Score 10: 0/40 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 9: 1/13 words used (2.50% of puzzle, 7.69% of score group)",
+    "Score 8: 1/4 words used (2.50% of puzzle, 25.00% of score group)",
+    "Score 7: 0/2 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 6: 1/1 words used (2.50% of puzzle, 100.00% of score group)",
+    "Score 5: 0/1 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 1: 26/3319 words used (65.00% of puzzle, 0.78% of score group)",
+    "Score 0: 11/7935 words used (27.50% of puzzle, 0.14% of score group)",
+    "Total: 40/11315 words used"
+  ],
+  "clues": [
+    {
+      "direction": "down-right",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "אפיסתכוחות",
+      "definition": "languor",
+      "lengths": [
+        5,
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "אח",
+      "definition": "brother",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 9,
+      "solution": "אותי",
+      "definition": "me",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 9,
+      "solution": "תופ",
+      "definition": "tambourine",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 9,
+      "clue_col": 0,
+      "solution": "שומר",
+      "definition": "custodian",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 3,
+      "solution": "כת",
+      "definition": "sect",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 4,
+      "solution": "דמותו",
+      "definition": "his figure",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 4,
+      "solution": "לב",
+      "definition": "heart",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 6,
+      "solution": "וו",
+      "definition": "hook",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 6,
+      "solution": "שחר",
+      "definition": "dawn",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "שפל",
+      "definition": "abject",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "לאיחוד",
+      "definition": "to/for the union",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 2,
+      "solution": "בפה",
+      "definition": "in the mouth",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "יבש",
+      "definition": "parch",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "ספג",
+      "definition": "absorbed",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 8,
+      "solution": "לח",
+      "definition": "damp",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 5,
+      "solution": "רע",
+      "definition": "wicked",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 5,
+      "solution": "חטיפ",
+      "definition": "fudge",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 3,
+      "solution": "פגומ",
+      "definition": "defective",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 8,
+      "clue_col": 4,
+      "solution": "כובענ",
+      "definition": "milliner",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 8,
+      "clue_col": 4,
+      "solution": "רב",
+      "definition": "copious",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 7,
+      "solution": "ישיבה",
+      "definition": "meeting",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 2,
+      "solution": "חינמ",
+      "definition": "gratis",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 2,
+      "solution": "גברי",
+      "definition": "masculine",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 6,
+      "solution": "הרס",
+      "definition": "destruction",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 7,
+      "clue_col": 9,
+      "solution": "נס",
+      "definition": "miracle",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "דל",
+      "definition": "scarce",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "חגב",
+      "definition": "grasshopper",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 7,
+      "clue_col": 8,
+      "solution": "ער",
+      "definition": "awake",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "יימס",
+      "definition": "will dissolve",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 0,
+      "solution": "אחו",
+      "definition": "meadow",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 3,
+      "solution": "פנוי",
+      "definition": "available",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 7,
+      "solution": "מומחימ",
+      "definition": "specialists",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 7,
+      "solution": "חוט",
+      "definition": "thread",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 0,
+      "solution": "חנ",
+      "definition": "grace",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 5,
+      "solution": "נכה",
+      "definition": "handicapped",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 6,
+      "clue_col": 5,
+      "solution": "ספ",
+      "definition": "verge",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 9,
+      "solution": "נר",
+      "definition": "candle",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 4,
+      "solution": "עמילנ",
+      "definition": "starch",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "כד",
+      "definition": "tankard",
+      "lengths": [
+        2
+      ]
+    }
+  ],
+  "mask_id": "mask_3",
+  "score_distribution": {
+    "8": 1,
+    "1": 26,
+    "9": 1,
+    "6": 1,
+    "0": 11
+  }
+}
