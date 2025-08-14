@@ -380,8 +380,8 @@
     "clues": [
       "fly"
     ],
-    "updateCount": 129,
-    "isCurrentArroword": false
+    "updateCount": 150,
+    "isCurrentArroword": true
   },
   "להטריד": {
     "score": 10,
@@ -390,5 +390,13 @@
     ],
     "updateCount": 132,
     "isCurrentArroword": false
+  },
+  "טריל": {
+    "score": 10,
+    "clues": [
+      "trill"
+    ],
+    "updateCount": 149,
+    "isCurrentArroword": true
   }
 }
