@@ -149,7 +149,7 @@
       "sprout"
     ],
     "updateCount": 76,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "והנה": {
     "score": 10,
@@ -261,6 +261,30 @@
       "my rabbi"
     ],
     "updateCount": 75,
+    "isCurrentArroword": false
+  },
+  "להפסיק": {
+    "score": 10,
+    "clues": [
+      "cease"
+    ],
+    "updateCount": 78,
+    "isCurrentArroword": true
+  },
+  "הנחת": {
+    "score": 10,
+    "clues": [
+      "the complacence"
+    ],
+    "updateCount": 80,
+    "isCurrentArroword": true
+  },
+  "לזייפ": {
+    "score": 10,
+    "clues": [
+      "forge"
+    ],
+    "updateCount": 81,
     "isCurrentArroword": true
   }
 }
