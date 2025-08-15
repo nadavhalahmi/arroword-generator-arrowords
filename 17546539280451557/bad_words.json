@@ -413,7 +413,7 @@
       "flatter"
     ],
     "updateCount": 160,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ומוסדות": {
     "score": 10,
@@ -421,6 +421,14 @@
       "and institutes"
     ],
     "updateCount": 161,
+    "isCurrentArroword": false
+  },
+  "הכספית": {
+    "score": 10,
+    "clues": [
+      "the mercury"
+    ],
+    "updateCount": 164,
     "isCurrentArroword": true
   }
 }
