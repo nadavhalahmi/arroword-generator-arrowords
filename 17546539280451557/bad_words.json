@@ -437,7 +437,7 @@
       "the fat"
     ],
     "updateCount": 167,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לעזוב": {
     "score": 10,
@@ -445,6 +445,30 @@
       "leave"
     ],
     "updateCount": 168,
+    "isCurrentArroword": false
+  },
+  "הצנימימ": {
+    "score": 10,
+    "clues": [
+      "the toasts"
+    ],
+    "updateCount": 170,
+    "isCurrentArroword": true
+  },
+  "נסוגו": {
+    "score": 10,
+    "clues": [
+      "withdrew"
+    ],
+    "updateCount": 172,
+    "isCurrentArroword": true
+  },
+  "ימיימ": {
+    "score": 10,
+    "clues": [
+      "marine"
+    ],
+    "updateCount": 173,
     "isCurrentArroword": true
   }
 }
