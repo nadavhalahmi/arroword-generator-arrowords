@@ -429,6 +429,22 @@
       "the mercury"
     ],
     "updateCount": 164,
+    "isCurrentArroword": false
+  },
+  "השומנ": {
+    "score": 10,
+    "clues": [
+      "the fat"
+    ],
+    "updateCount": 167,
+    "isCurrentArroword": true
+  },
+  "לעזוב": {
+    "score": 10,
+    "clues": [
+      "leave"
+    ],
+    "updateCount": 168,
     "isCurrentArroword": true
   }
 }
