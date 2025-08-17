@@ -453,7 +453,7 @@
       "the toasts"
     ],
     "updateCount": 170,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "נסוגו": {
     "score": 10,
@@ -461,7 +461,7 @@
       "withdrew"
     ],
     "updateCount": 172,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ימיימ": {
     "score": 10,
@@ -469,6 +469,14 @@
       "marine"
     ],
     "updateCount": 173,
+    "isCurrentArroword": false
+  },
+  "לגרוס": {
+    "score": 10,
+    "clues": [
+      "shred"
+    ],
+    "updateCount": 175,
     "isCurrentArroword": true
   }
 }
