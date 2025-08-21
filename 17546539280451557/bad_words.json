@@ -478,5 +478,21 @@
     ],
     "updateCount": 175,
     "isCurrentArroword": false
+  },
+  "ויולה": {
+    "score": 10,
+    "clues": [
+      "viola"
+    ],
+    "updateCount": 190,
+    "isCurrentArroword": true
+  },
+  "וטענ": {
+    "score": 10,
+    "clues": [
+      "and claimed"
+    ],
+    "updateCount": 191,
+    "isCurrentArroword": true
   }
 }
