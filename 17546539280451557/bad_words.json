@@ -485,7 +485,7 @@
       "viola"
     ],
     "updateCount": 190,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "וטענ": {
     "score": 10,
@@ -493,6 +493,22 @@
       "and claimed"
     ],
     "updateCount": 191,
+    "isCurrentArroword": false
+  },
+  "גדלו": {
+    "score": 10,
+    "clues": [
+      "grew"
+    ],
+    "updateCount": 193,
+    "isCurrentArroword": true
+  },
+  "משמשות": {
+    "score": 10,
+    "clues": [
+      "are used for"
+    ],
+    "updateCount": 199,
     "isCurrentArroword": true
   }
 }
