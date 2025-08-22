@@ -356,8 +356,8 @@
     "clues": [
       "ingest"
     ],
-    "updateCount": 106,
-    "isCurrentArroword": false
+    "updateCount": 209,
+    "isCurrentArroword": true
   },
   "לדקלמ": {
     "score": 10,
@@ -461,7 +461,7 @@
       "withdrew"
     ],
     "updateCount": 201,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ימיימ": {
     "score": 10,
@@ -510,5 +510,13 @@
     ],
     "updateCount": 199,
     "isCurrentArroword": false
+  },
+  "לחתוכ": {
+    "score": 10,
+    "clues": [
+      "cut"
+    ],
+    "updateCount": 207,
+    "isCurrentArroword": true
   }
 }
