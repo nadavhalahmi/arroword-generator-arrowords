@@ -581,7 +581,7 @@
       "prevented"
     ],
     "updateCount": 234,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לקיומ": {
     "score": 10,
@@ -589,6 +589,30 @@
       "to/for the fulfillment of"
     ],
     "updateCount": 237,
+    "isCurrentArroword": false
+  },
+  "לוותר": {
+    "score": 10,
+    "clues": [
+      "relinquish"
+    ],
+    "updateCount": 238,
+    "isCurrentArroword": true
+  },
+  "מעורר מכובד": {
+    "score": 10,
+    "clues": [
+      "respectable"
+    ],
+    "updateCount": 239,
+    "isCurrentArroword": true
+  },
+  "באנשי": {
+    "score": 10,
+    "clues": [
+      "among the people of"
+    ],
+    "updateCount": 240,
     "isCurrentArroword": true
   }
 }
