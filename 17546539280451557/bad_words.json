@@ -357,7 +357,7 @@
       "ingest"
     ],
     "updateCount": 209,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לדקלמ": {
     "score": 10,
@@ -517,6 +517,38 @@
       "cut"
     ],
     "updateCount": 207,
+    "isCurrentArroword": false
+  },
+  "ירדה": {
+    "score": 10,
+    "clues": [
+      "decreased"
+    ],
+    "updateCount": 212,
+    "isCurrentArroword": true
+  },
+  "לתקנ": {
+    "score": 10,
+    "clues": [
+      "repair"
+    ],
+    "updateCount": 214,
+    "isCurrentArroword": true
+  },
+  "ועקב": {
+    "score": 10,
+    "clues": [
+      "and a heel"
+    ],
+    "updateCount": 215,
+    "isCurrentArroword": true
+  },
+  "לשקוע": {
+    "score": 10,
+    "clues": [
+      "immerse"
+    ],
+    "updateCount": 221,
     "isCurrentArroword": true
   }
 }
