@@ -1,0 +1,406 @@
+{
+  "num_rows": 10,
+  "num_cols": 10,
+  "comments": [
+    "Word usage summary by score:",
+    "Score 10: 3/61 words used (7.89% of puzzle, 4.92% of score group)",
+    "Score 9: 0/27 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 8: 0/14 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 7: 1/6 words used (2.63% of puzzle, 16.67% of score group)",
+    "Score 6: 0/2 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 5: 0/3 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 1: 24/3272 words used (63.16% of puzzle, 0.73% of score group)",
+    "Score 0: 10/7930 words used (26.32% of puzzle, 0.13% of score group)",
+    "Total: 38/11315 words used"
+  ],
+  "clues": [
+    {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "פס",
+      "definition": "stripe",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "פת",
+      "definition": "piece of bread",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 9,
+      "solution": "נהדר",
+      "definition": "superb",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 9,
+      "clue_col": 0,
+      "solution": "מעקה",
+      "definition": "banister",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "ילד",
+      "definition": "kid",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 7,
+      "solution": "רק",
+      "definition": "mere",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 7,
+      "solution": "בד",
+      "definition": "fabric",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 0,
+      "solution": "משמעותיות",
+      "definition": "significant",
+      "lengths": [
+        9
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 1,
+      "solution": "פתח",
+      "definition": "aperture",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 2,
+      "clue_col": 1,
+      "solution": "חלק",
+      "definition": "smooth",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 1,
+      "solution": "קמע",
+      "definition": "amulet",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 8,
+      "solution": "בור",
+      "definition": "vat",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 8,
+      "solution": "לבבי",
+      "definition": "cordial",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 5,
+      "solution": "שאלונ",
+      "definition": "questionnaire",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 5,
+      "solution": "שבריר",
+      "definition": "fraction",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 4,
+      "solution": "מדע",
+      "definition": "science",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "תנ",
+      "definition": "jackal",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "ארבה",
+      "definition": "locust",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "ללארבב",
+      "definition": "immaculate",
+      "lengths": [
+        3,
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "לב",
+      "definition": "heart",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "דל",
+      "definition": "scarce",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "מהנ",
+      "definition": "what are",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 5,
+      "solution": "מפעל",
+      "definition": "plant",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "למאבק",
+      "definition": "to/for the fight",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "לשקמ",
+      "definition": "to rehabilitate",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 8,
+      "solution": "שומע",
+      "definition": "hears",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 5,
+      "clue_col": 8,
+      "solution": "שח",
+      "definition": "tells",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 8,
+      "clue_col": 4,
+      "solution": "נלחמו",
+      "definition": "fought",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 9,
+      "solution": "חתול",
+      "definition": "cat",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 3,
+      "solution": "תלול",
+      "definition": "steep",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 1,
+      "clue_col": 3,
+      "solution": "פחד",
+      "definition": "consternation",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "קל",
+      "definition": "light weight",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "פעלולנ",
+      "definition": "stuntman",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 6,
+      "solution": "תלמ",
+      "definition": "rut",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 1,
+      "solution": "מנה",
+      "definition": "dose",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 5,
+      "clue_col": 0,
+      "solution": "קברו",
+      "definition": "buried",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 7,
+      "solution": "יחפ",
+      "definition": "barefoot",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 3,
+      "solution": "סנפיר",
+      "definition": "flipper",
+      "lengths": [
+        5
+      ]
+    }
+  ],
+  "mask_id": "mask_1",
+  "score_distribution": {
+    "1": 24,
+    "10": 3,
+    "7": 1,
+    "0": 10
+  }
+}
