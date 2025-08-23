@@ -180,8 +180,8 @@
     "clues": [
       "walrus"
     ],
-    "updateCount": 51,
-    "isCurrentArroword": false
+    "updateCount": 228,
+    "isCurrentArroword": true
   },
   "ללא בודאות": {
     "score": 10,
@@ -557,7 +557,7 @@
       "concealed"
     ],
     "updateCount": 223,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לתור": {
     "score": 10,
@@ -565,6 +565,14 @@
       "[to] a line"
     ],
     "updateCount": 224,
+    "isCurrentArroword": false
+  },
+  "ואמצעי": {
+    "score": 10,
+    "clues": [
+      "and middle"
+    ],
+    "updateCount": 231,
     "isCurrentArroword": true
   }
 }
