@@ -181,7 +181,7 @@
       "walrus"
     ],
     "updateCount": 228,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ללא בודאות": {
     "score": 10,
@@ -573,6 +573,22 @@
       "and middle"
     ],
     "updateCount": 231,
+    "isCurrentArroword": false
+  },
+  "מנעו": {
+    "score": 10,
+    "clues": [
+      "prevented"
+    ],
+    "updateCount": 234,
+    "isCurrentArroword": true
+  },
+  "לקיומ": {
+    "score": 10,
+    "clues": [
+      "to/for the fulfillment of"
+    ],
+    "updateCount": 237,
     "isCurrentArroword": true
   }
 }
