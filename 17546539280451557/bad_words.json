@@ -316,8 +316,8 @@
     "clues": [
       "preferred"
     ],
-    "updateCount": 86,
-    "isCurrentArroword": false
+    "updateCount": 254,
+    "isCurrentArroword": true
   },
   "המכיל": {
     "score": 10,
@@ -637,6 +637,14 @@
       "that/who will be"
     ],
     "updateCount": 249,
+    "isCurrentArroword": false
+  },
+  "לנזופ": {
+    "score": 10,
+    "clues": [
+      "reprimand"
+    ],
+    "updateCount": 257,
     "isCurrentArroword": true
   }
 }
