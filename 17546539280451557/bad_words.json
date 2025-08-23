@@ -525,7 +525,7 @@
       "decreased"
     ],
     "updateCount": 212,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לתקנ": {
     "score": 10,
@@ -533,7 +533,7 @@
       "repair"
     ],
     "updateCount": 214,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ועקב": {
     "score": 10,
@@ -541,7 +541,7 @@
       "and a heel"
     ],
     "updateCount": 215,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לשקוע": {
     "score": 10,
@@ -549,6 +549,22 @@
       "immerse"
     ],
     "updateCount": 221,
+    "isCurrentArroword": false
+  },
+  "נעלמו": {
+    "score": 10,
+    "clues": [
+      "concealed"
+    ],
+    "updateCount": 223,
+    "isCurrentArroword": true
+  },
+  "לתור": {
+    "score": 10,
+    "clues": [
+      "[to] a line"
+    ],
+    "updateCount": 224,
     "isCurrentArroword": true
   }
 }
