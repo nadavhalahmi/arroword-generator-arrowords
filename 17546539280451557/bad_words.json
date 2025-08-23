@@ -597,7 +597,7 @@
       "relinquish"
     ],
     "updateCount": 238,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "מעורר מכובד": {
     "score": 10,
@@ -605,7 +605,7 @@
       "respectable"
     ],
     "updateCount": 239,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "באנשי": {
     "score": 10,
@@ -613,6 +613,22 @@
       "among the people of"
     ],
     "updateCount": 240,
+    "isCurrentArroword": false
+  },
+  "הפה": {
+    "score": 10,
+    "clues": [
+      "the mouth"
+    ],
+    "updateCount": 242,
+    "isCurrentArroword": true
+  },
+  "לשרופ": {
+    "score": 10,
+    "clues": [
+      "burn"
+    ],
+    "updateCount": 243,
     "isCurrentArroword": true
   }
 }
