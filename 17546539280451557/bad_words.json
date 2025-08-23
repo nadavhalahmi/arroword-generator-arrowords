@@ -621,7 +621,7 @@
       "the mouth"
     ],
     "updateCount": 242,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לשרופ": {
     "score": 10,
@@ -629,6 +629,14 @@
       "burn"
     ],
     "updateCount": 243,
+    "isCurrentArroword": false
+  },
+  "שיהיו": {
+    "score": 10,
+    "clues": [
+      "that/who will be"
+    ],
+    "updateCount": 249,
     "isCurrentArroword": true
   }
 }
