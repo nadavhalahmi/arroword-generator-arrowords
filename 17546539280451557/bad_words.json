@@ -317,7 +317,7 @@
       "preferred"
     ],
     "updateCount": 254,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "המכיל": {
     "score": 10,
@@ -645,6 +645,30 @@
       "reprimand"
     ],
     "updateCount": 257,
+    "isCurrentArroword": false
+  },
+  "סנפיר": {
+    "score": 10,
+    "clues": [
+      "flipper"
+    ],
+    "updateCount": 260,
+    "isCurrentArroword": true
+  },
+  "קברו": {
+    "score": 10,
+    "clues": [
+      "buried"
+    ],
+    "updateCount": 261,
+    "isCurrentArroword": true
+  },
+  "מהנ": {
+    "score": 10,
+    "clues": [
+      "what are"
+    ],
+    "updateCount": 262,
     "isCurrentArroword": true
   }
 }
