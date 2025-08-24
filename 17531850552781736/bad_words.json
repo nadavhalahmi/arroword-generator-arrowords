@@ -69,7 +69,7 @@
       "the legend"
     ],
     "updateCount": 46,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "החתול": {
     "score": 10,
@@ -77,6 +77,38 @@
       "the cat"
     ],
     "updateCount": 47,
+    "isCurrentArroword": false
+  },
+  "לכנסייה": {
+    "score": 10,
+    "clues": [
+      "to the church"
+    ],
+    "updateCount": 56,
+    "isCurrentArroword": true
+  },
+  "ישנימ": {
+    "score": 10,
+    "clues": [
+      "sleeping"
+    ],
+    "updateCount": 57,
+    "isCurrentArroword": true
+  },
+  "ואמנות": {
+    "score": 10,
+    "clues": [
+      "and art"
+    ],
+    "updateCount": 60,
+    "isCurrentArroword": true
+  },
+  "סגלגל": {
+    "score": 10,
+    "clues": [
+      "oval"
+    ],
+    "updateCount": 61,
     "isCurrentArroword": true
   }
 }
