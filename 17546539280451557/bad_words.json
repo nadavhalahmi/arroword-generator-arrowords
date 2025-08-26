@@ -644,8 +644,8 @@
     "clues": [
       "reprimand"
     ],
-    "updateCount": 257,
-    "isCurrentArroword": false
+    "updateCount": 270,
+    "isCurrentArroword": true
   },
   "סנפיר": {
     "score": 10,
@@ -653,7 +653,7 @@
       "flipper"
     ],
     "updateCount": 260,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "קברו": {
     "score": 10,
@@ -661,7 +661,7 @@
       "buried"
     ],
     "updateCount": 261,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "מהנ": {
     "score": 10,
@@ -669,6 +669,22 @@
       "what are"
     ],
     "updateCount": 262,
+    "isCurrentArroword": false
+  },
+  "פעלה": {
+    "score": 10,
+    "clues": [
+      "acted"
+    ],
+    "updateCount": 277,
+    "isCurrentArroword": true
+  },
+  "לצרוב": {
+    "score": 10,
+    "clues": [
+      "scald"
+    ],
+    "updateCount": 279,
     "isCurrentArroword": true
   }
 }
