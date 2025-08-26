@@ -645,7 +645,7 @@
       "reprimand"
     ],
     "updateCount": 270,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "סנפיר": {
     "score": 10,
@@ -677,7 +677,7 @@
       "acted"
     ],
     "updateCount": 277,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לצרוב": {
     "score": 10,
@@ -685,6 +685,14 @@
       "scald"
     ],
     "updateCount": 279,
+    "isCurrentArroword": false
+  },
+  "חלפו": {
+    "score": 10,
+    "clues": [
+      "passed"
+    ],
+    "updateCount": 284,
     "isCurrentArroword": true
   }
 }
