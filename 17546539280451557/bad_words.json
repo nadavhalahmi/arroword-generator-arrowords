@@ -693,6 +693,38 @@
       "passed"
     ],
     "updateCount": 284,
+    "isCurrentArroword": false
+  },
+  "הבודדימ": {
+    "score": 10,
+    "clues": [
+      "the single"
+    ],
+    "updateCount": 286,
+    "isCurrentArroword": true
+  },
+  "אבו": {
+    "score": 10,
+    "clues": [
+      "his tender years"
+    ],
+    "updateCount": 287,
+    "isCurrentArroword": true
+  },
+  "האנרגיה": {
+    "score": 10,
+    "clues": [
+      "the energy"
+    ],
+    "updateCount": 288,
+    "isCurrentArroword": true
+  },
+  "ישבה": {
+    "score": 10,
+    "clues": [
+      "sat"
+    ],
+    "updateCount": 289,
     "isCurrentArroword": true
   }
 }
