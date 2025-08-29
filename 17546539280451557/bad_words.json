@@ -709,7 +709,7 @@
       "his tender years"
     ],
     "updateCount": 293,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "האנרגיה": {
     "score": 10,
@@ -733,7 +733,7 @@
       "feared"
     ],
     "updateCount": 294,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "מורכבות": {
     "score": 10,
@@ -741,6 +741,14 @@
       "composed of"
     ],
     "updateCount": 295,
+    "isCurrentArroword": false
+  },
+  "להמשיכ": {
+    "score": 10,
+    "clues": [
+      "continue"
+    ],
+    "updateCount": 296,
     "isCurrentArroword": true
   }
 }
