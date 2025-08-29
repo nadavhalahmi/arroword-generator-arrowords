@@ -1,0 +1,399 @@
+{
+  "num_rows": 10,
+  "num_cols": 10,
+  "comments": [
+    "Word usage summary by score:",
+    "Score 10: 4/67 words used (10.81% of puzzle, 5.97% of score group)",
+    "Score 9: 1/31 words used (2.70% of puzzle, 3.23% of score group)",
+    "Score 8: 1/12 words used (2.70% of puzzle, 8.33% of score group)",
+    "Score 7: 1/9 words used (2.70% of puzzle, 11.11% of score group)",
+    "Score 6: 1/4 words used (2.70% of puzzle, 25.00% of score group)",
+    "Score 5: 1/5 words used (2.70% of puzzle, 20.00% of score group)",
+    "Score 1: 20/3257 words used (54.05% of puzzle, 0.61% of score group)",
+    "Score 0: 8/7930 words used (21.62% of puzzle, 0.10% of score group)",
+    "Total: 37/11315 words used"
+  ],
+  "clues": [
+    {
+      "direction": "down-right",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "תקלה",
+      "definition": "misadventure",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "תת",
+      "definition": "hypo-",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 9,
+      "solution": "נכחד",
+      "definition": "extinct",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 9,
+      "clue_col": 0,
+      "solution": "להדק",
+      "definition": "to fasten",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 6,
+      "solution": "לדגל",
+      "definition": "to the flag",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 6,
+      "solution": "גס",
+      "definition": "gross",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 1,
+      "solution": "עמדה",
+      "definition": "standpoint",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 5,
+      "solution": "דליק",
+      "definition": "combustible",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 2,
+      "solution": "נכבד",
+      "definition": "eminent",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 9,
+      "solution": "יקבל",
+      "definition": "will receive",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "רע",
+      "definition": "wicked",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 8,
+      "clue_col": 4,
+      "solution": "חג",
+      "definition": "holiday",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "צמה",
+      "definition": "braid",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "בהמות",
+      "definition": "livestock",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 5,
+      "solution": "לנהל",
+      "definition": "wage",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 4,
+      "solution": "ילידי",
+      "definition": "indigenous",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 4,
+      "solution": "תא",
+      "definition": "cubicle",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 1,
+      "solution": "נלהב",
+      "definition": "ardent",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 8,
+      "solution": "הסדירה",
+      "definition": "regulated",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 8,
+      "solution": "הד",
+      "definition": "reverberation",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "לעג",
+      "definition": "derision",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "רק",
+      "definition": "merely",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 3,
+      "clue_col": 7,
+      "solution": "מוכ",
+      "definition": "lint",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 7,
+      "solution": "גיל",
+      "definition": "age",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 5,
+      "clue_col": 3,
+      "solution": "תובע",
+      "definition": "prosecutor",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "לב",
+      "definition": "heart",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 4,
+      "solution": "דמות",
+      "definition": "character",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 8,
+      "clue_col": 7,
+      "solution": "רב",
+      "definition": "considerable",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 5,
+      "solution": "בגינ",
+      "definition": "because of",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 2,
+      "solution": "עז",
+      "definition": "vivid",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 4,
+      "clue_col": 1,
+      "solution": "עגומ",
+      "definition": "mournful",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 5,
+      "solution": "באי",
+      "definition": "on an island",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 0,
+      "solution": "לבבי",
+      "definition": "cordial",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 7,
+      "clue_col": 0,
+      "solution": "הנכ",
+      "definition": "here you are",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "בקע",
+      "definition": "cranny",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 7,
+      "solution": "דיו",
+      "definition": "ink",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 7,
+      "solution": "גמ",
+      "definition": "also",
+      "lengths": [
+        2
+      ]
+    }
+  ],
+  "mask_id": "mask_0",
+  "score_distribution": {
+    "6": 1,
+    "1": 20,
+    "9": 1,
+    "10": 4,
+    "8": 1,
+    "7": 1,
+    "5": 1,
+    "0": 8
+  }
+}
