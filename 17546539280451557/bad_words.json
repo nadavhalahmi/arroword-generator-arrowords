@@ -701,14 +701,14 @@
       "the single"
     ],
     "updateCount": 286,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "אבו": {
     "score": 10,
     "clues": [
       "his tender years"
     ],
-    "updateCount": 287,
+    "updateCount": 293,
     "isCurrentArroword": true
   },
   "האנרגיה": {
@@ -717,7 +717,7 @@
       "the energy"
     ],
     "updateCount": 288,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ישבה": {
     "score": 10,
@@ -725,6 +725,22 @@
       "sat"
     ],
     "updateCount": 289,
+    "isCurrentArroword": false
+  },
+  "חששו": {
+    "score": 10,
+    "clues": [
+      "feared"
+    ],
+    "updateCount": 294,
+    "isCurrentArroword": true
+  },
+  "מורכבות": {
+    "score": 10,
+    "clues": [
+      "composed of"
+    ],
+    "updateCount": 295,
     "isCurrentArroword": true
   }
 }
