@@ -750,5 +750,21 @@
     ],
     "updateCount": 296,
     "isCurrentArroword": false
+  },
+  "ללמוד": {
+    "score": 10,
+    "clues": [
+      "learn"
+    ],
+    "updateCount": 309,
+    "isCurrentArroword": true
+  },
+  "לנמנמ": {
+    "score": 10,
+    "clues": [
+      "doze"
+    ],
+    "updateCount": 310,
+    "isCurrentArroword": true
   }
 }
