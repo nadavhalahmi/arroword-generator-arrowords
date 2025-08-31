@@ -773,7 +773,7 @@
       "that one"
     ],
     "updateCount": 311,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ויניל": {
     "score": 10,
@@ -781,7 +781,7 @@
       "vinyl"
     ],
     "updateCount": 312,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "להנות": {
     "score": 10,
@@ -789,7 +789,7 @@
       "enjoy"
     ],
     "updateCount": 313,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "שהובילו": {
     "score": 10,
@@ -797,7 +797,7 @@
       "that/who led"
     ],
     "updateCount": 314,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "הלשכה": {
     "score": 10,
@@ -805,7 +805,7 @@
       "the office"
     ],
     "updateCount": 315,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ולעתימ": {
     "score": 10,
@@ -813,7 +813,7 @@
       "and sometimes"
     ],
     "updateCount": 316,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "בבת": {
     "score": 10,
@@ -821,6 +821,14 @@
       "pupil"
     ],
     "updateCount": 321,
+    "isCurrentArroword": false
+  },
+  "להתאמצ": {
+    "score": 10,
+    "clues": [
+      "exert"
+    ],
+    "updateCount": 324,
     "isCurrentArroword": true
   }
 }
