@@ -837,7 +837,7 @@
       "the criticism"
     ],
     "updateCount": 327,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לדרוש בחזרה": {
     "score": 10,
@@ -845,7 +845,7 @@
       "reclaim"
     ],
     "updateCount": 331,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לצרפ": {
     "score": 10,
@@ -853,7 +853,7 @@
       "annex"
     ],
     "updateCount": 333,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לנשיאות": {
     "score": 10,
@@ -861,6 +861,14 @@
       "for presidency"
     ],
     "updateCount": 334,
+    "isCurrentArroword": false
+  },
+  "יומינ": {
+    "score": 10,
+    "clues": [
+      "old"
+    ],
+    "updateCount": 338,
     "isCurrentArroword": true
   }
 }
