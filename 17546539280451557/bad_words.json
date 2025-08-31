@@ -757,7 +757,7 @@
       "learn"
     ],
     "updateCount": 309,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לנמנמ": {
     "score": 10,
@@ -765,6 +765,62 @@
       "doze"
     ],
     "updateCount": 310,
+    "isCurrentArroword": false
+  },
+  "הלה": {
+    "score": 10,
+    "clues": [
+      "that one"
+    ],
+    "updateCount": 311,
+    "isCurrentArroword": true
+  },
+  "ויניל": {
+    "score": 10,
+    "clues": [
+      "vinyl"
+    ],
+    "updateCount": 312,
+    "isCurrentArroword": true
+  },
+  "להנות": {
+    "score": 10,
+    "clues": [
+      "enjoy"
+    ],
+    "updateCount": 313,
+    "isCurrentArroword": true
+  },
+  "שהובילו": {
+    "score": 10,
+    "clues": [
+      "that/who led"
+    ],
+    "updateCount": 314,
+    "isCurrentArroword": true
+  },
+  "הלשכה": {
+    "score": 10,
+    "clues": [
+      "the office"
+    ],
+    "updateCount": 315,
+    "isCurrentArroword": true
+  },
+  "ולעתימ": {
+    "score": 10,
+    "clues": [
+      "and sometimes"
+    ],
+    "updateCount": 316,
+    "isCurrentArroword": true
+  },
+  "בבת": {
+    "score": 10,
+    "clues": [
+      "pupil"
+    ],
+    "updateCount": 321,
     "isCurrentArroword": true
   }
 }
