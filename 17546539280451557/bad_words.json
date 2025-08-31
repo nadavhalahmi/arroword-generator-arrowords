@@ -829,6 +829,38 @@
       "exert"
     ],
     "updateCount": 324,
+    "isCurrentArroword": false
+  },
+  "הביקורת": {
+    "score": 10,
+    "clues": [
+      "the criticism"
+    ],
+    "updateCount": 327,
+    "isCurrentArroword": true
+  },
+  "לדרוש בחזרה": {
+    "score": 10,
+    "clues": [
+      "reclaim"
+    ],
+    "updateCount": 331,
+    "isCurrentArroword": true
+  },
+  "לצרפ": {
+    "score": 10,
+    "clues": [
+      "annex"
+    ],
+    "updateCount": 333,
+    "isCurrentArroword": true
+  },
+  "לנשיאות": {
+    "score": 10,
+    "clues": [
+      "for presidency"
+    ],
+    "updateCount": 334,
     "isCurrentArroword": true
   }
 }
