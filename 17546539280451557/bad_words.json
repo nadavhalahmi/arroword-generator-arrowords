@@ -294,7 +294,7 @@
       "curb"
     ],
     "updateCount": 350,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לסכנ": {
     "score": 10,
@@ -878,7 +878,7 @@
       "quarrel"
     ],
     "updateCount": 342,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "להאריכ": {
     "score": 10,
@@ -886,7 +886,7 @@
       "prolong"
     ],
     "updateCount": 345,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "בדעתי": {
     "score": 10,
@@ -894,6 +894,30 @@
       "I intend to"
     ],
     "updateCount": 351,
+    "isCurrentArroword": false
+  },
+  "אלו": {
+    "score": 10,
+    "clues": [
+      "these"
+    ],
+    "updateCount": 352,
+    "isCurrentArroword": true
+  },
+  "לאחד": {
+    "score": 10,
+    "clues": [
+      "apiece"
+    ],
+    "updateCount": 354,
+    "isCurrentArroword": true
+  },
+  "נשאו": {
+    "score": 10,
+    "clues": [
+      "married"
+    ],
+    "updateCount": 356,
     "isCurrentArroword": true
   }
 }
