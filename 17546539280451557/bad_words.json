@@ -290,10 +290,11 @@
   "לרסנ": {
     "score": 10,
     "clues": [
-      "restrain"
+      "restrain",
+      "curb"
     ],
-    "updateCount": 83,
-    "isCurrentArroword": false
+    "updateCount": 350,
+    "isCurrentArroword": true
   },
   "לסכנ": {
     "score": 10,
@@ -869,6 +870,30 @@
       "old"
     ],
     "updateCount": 338,
+    "isCurrentArroword": false
+  },
+  "לריב": {
+    "score": 10,
+    "clues": [
+      "quarrel"
+    ],
+    "updateCount": 342,
+    "isCurrentArroword": true
+  },
+  "להאריכ": {
+    "score": 10,
+    "clues": [
+      "prolong"
+    ],
+    "updateCount": 345,
+    "isCurrentArroword": true
+  },
+  "בדעתי": {
+    "score": 10,
+    "clues": [
+      "I intend to"
+    ],
+    "updateCount": 351,
     "isCurrentArroword": true
   }
 }
