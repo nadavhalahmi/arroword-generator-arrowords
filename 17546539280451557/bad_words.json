@@ -974,7 +974,7 @@
       "trace"
     ],
     "updateCount": 382,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "אונימ": {
     "score": 10,
@@ -982,6 +982,30 @@
       "power"
     ],
     "updateCount": 385,
+    "isCurrentArroword": false
+  },
+  "להעדיפ": {
+    "score": 10,
+    "clues": [
+      "favor"
+    ],
+    "updateCount": 387,
+    "isCurrentArroword": true
+  },
+  "העל": {
+    "score": 10,
+    "clues": [
+      "the super-"
+    ],
+    "updateCount": 388,
+    "isCurrentArroword": true
+  },
+  "המחרת": {
+    "score": 10,
+    "clues": [
+      "the next day"
+    ],
+    "updateCount": 392,
     "isCurrentArroword": true
   }
 }
