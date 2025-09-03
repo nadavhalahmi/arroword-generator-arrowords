@@ -294,7 +294,7 @@
       "curb"
     ],
     "updateCount": 379,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לסכנ": {
     "score": 10,
@@ -950,7 +950,7 @@
       "soft"
     ],
     "updateCount": 375,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "למעמד": {
     "score": 10,
@@ -958,7 +958,7 @@
       "to/for a pedestal"
     ],
     "updateCount": 377,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "בלא": {
     "score": 10,
@@ -966,6 +966,22 @@
       "without"
     ],
     "updateCount": 380,
+    "isCurrentArroword": false
+  },
+  "לעקוב": {
+    "score": 10,
+    "clues": [
+      "trace"
+    ],
+    "updateCount": 382,
+    "isCurrentArroword": true
+  },
+  "אונימ": {
+    "score": 10,
+    "clues": [
+      "power"
+    ],
+    "updateCount": 385,
     "isCurrentArroword": true
   }
 }
