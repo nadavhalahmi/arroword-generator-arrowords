@@ -29,7 +29,7 @@
       "named"
     ],
     "updateCount": 373,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "וכלה": {
     "score": 10,
@@ -293,8 +293,8 @@
       "restrain",
       "curb"
     ],
-    "updateCount": 350,
-    "isCurrentArroword": false
+    "updateCount": 379,
+    "isCurrentArroword": true
   },
   "לסכנ": {
     "score": 10,
@@ -943,5 +943,29 @@
     ],
     "updateCount": 367,
     "isCurrentArroword": false
+  },
+  "רכה": {
+    "score": 10,
+    "clues": [
+      "soft"
+    ],
+    "updateCount": 375,
+    "isCurrentArroword": true
+  },
+  "למעמד": {
+    "score": 10,
+    "clues": [
+      "to/for a pedestal"
+    ],
+    "updateCount": 377,
+    "isCurrentArroword": true
+  },
+  "בלא": {
+    "score": 10,
+    "clues": [
+      "without"
+    ],
+    "updateCount": 380,
+    "isCurrentArroword": true
   }
 }
