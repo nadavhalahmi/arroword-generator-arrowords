@@ -28,8 +28,8 @@
     "clues": [
       "named"
     ],
-    "updateCount": 9,
-    "isCurrentArroword": false
+    "updateCount": 373,
+    "isCurrentArroword": true
   },
   "וכלה": {
     "score": 10,
@@ -830,7 +830,7 @@
       "exert"
     ],
     "updateCount": 369,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "הביקורת": {
     "score": 10,
@@ -934,7 +934,7 @@
       "quickly"
     ],
     "updateCount": 366,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "שנה": {
     "score": 10,
@@ -942,6 +942,6 @@
       "studied"
     ],
     "updateCount": 367,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
