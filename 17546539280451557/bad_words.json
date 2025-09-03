@@ -853,8 +853,8 @@
     "clues": [
       "annex"
     ],
-    "updateCount": 333,
-    "isCurrentArroword": false
+    "updateCount": 395,
+    "isCurrentArroword": true
   },
   "לנשיאות": {
     "score": 10,
@@ -990,7 +990,7 @@
       "favor"
     ],
     "updateCount": 387,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "העל": {
     "score": 10,
@@ -998,7 +998,7 @@
       "the super-"
     ],
     "updateCount": 388,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "המחרת": {
     "score": 10,
@@ -1006,6 +1006,14 @@
       "the next day"
     ],
     "updateCount": 392,
+    "isCurrentArroword": false
+  },
+  "ההרס": {
+    "score": 10,
+    "clues": [
+      "the demolition"
+    ],
+    "updateCount": 397,
     "isCurrentArroword": true
   }
 }
