@@ -829,8 +829,8 @@
     "clues": [
       "exert"
     ],
-    "updateCount": 324,
-    "isCurrentArroword": false
+    "updateCount": 369,
+    "isCurrentArroword": true
   },
   "הביקורת": {
     "score": 10,
@@ -926,6 +926,22 @@
       "the meat"
     ],
     "updateCount": 358,
+    "isCurrentArroword": false
+  },
+  "חיש": {
+    "score": 10,
+    "clues": [
+      "quickly"
+    ],
+    "updateCount": 366,
+    "isCurrentArroword": true
+  },
+  "שנה": {
+    "score": 10,
+    "clues": [
+      "studied"
+    ],
+    "updateCount": 367,
     "isCurrentArroword": true
   }
 }
