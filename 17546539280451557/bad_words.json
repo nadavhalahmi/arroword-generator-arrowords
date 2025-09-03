@@ -902,7 +902,7 @@
       "these"
     ],
     "updateCount": 352,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לאחד": {
     "score": 10,
@@ -910,7 +910,7 @@
       "apiece"
     ],
     "updateCount": 354,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "נשאו": {
     "score": 10,
@@ -918,6 +918,14 @@
       "married"
     ],
     "updateCount": 356,
+    "isCurrentArroword": false
+  },
+  "הבשר": {
+    "score": 10,
+    "clues": [
+      "the meat"
+    ],
+    "updateCount": 358,
     "isCurrentArroword": true
   }
 }
