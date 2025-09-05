@@ -148,8 +148,8 @@
     "clues": [
       "sprout"
     ],
-    "updateCount": 76,
-    "isCurrentArroword": false
+    "updateCount": 408,
+    "isCurrentArroword": true
   },
   "והנה": {
     "score": 10,
@@ -1022,7 +1022,7 @@
       "they"
     ],
     "updateCount": 398,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ריקמ": {
     "score": 10,
@@ -1030,7 +1030,7 @@
       "emptily"
     ],
     "updateCount": 400,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "תורה": {
     "score": 10,
@@ -1038,6 +1038,30 @@
       "theory"
     ],
     "updateCount": 401,
+    "isCurrentArroword": false
+  },
+  "להרגיש": {
+    "score": 10,
+    "clues": [
+      "feel"
+    ],
+    "updateCount": 405,
+    "isCurrentArroword": true
+  },
+  "לחתומ": {
+    "score": 10,
+    "clues": [
+      "sign"
+    ],
+    "updateCount": 406,
+    "isCurrentArroword": true
+  },
+  "חפצ": {
+    "score": 10,
+    "clues": [
+      "want"
+    ],
+    "updateCount": 407,
     "isCurrentArroword": true
   }
 }
