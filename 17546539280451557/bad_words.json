@@ -149,7 +149,7 @@
       "sprout"
     ],
     "updateCount": 408,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "והנה": {
     "score": 10,
@@ -645,8 +645,8 @@
     "clues": [
       "reprimand"
     ],
-    "updateCount": 270,
-    "isCurrentArroword": false
+    "updateCount": 415,
+    "isCurrentArroword": true
   },
   "סנפיר": {
     "score": 10,
@@ -877,8 +877,8 @@
     "clues": [
       "quarrel"
     ],
-    "updateCount": 342,
-    "isCurrentArroword": false
+    "updateCount": 413,
+    "isCurrentArroword": true
   },
   "להאריכ": {
     "score": 10,
@@ -1046,7 +1046,7 @@
       "feel"
     ],
     "updateCount": 405,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לחתומ": {
     "score": 10,
@@ -1054,7 +1054,7 @@
       "sign"
     ],
     "updateCount": 406,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "חפצ": {
     "score": 10,
@@ -1062,6 +1062,6 @@
       "want"
     ],
     "updateCount": 407,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
