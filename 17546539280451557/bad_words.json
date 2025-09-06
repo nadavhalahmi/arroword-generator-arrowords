@@ -1030,7 +1030,7 @@
       "emptily"
     ],
     "updateCount": 442,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "תורה": {
     "score": 10,
@@ -1102,7 +1102,7 @@
       "going"
     ],
     "updateCount": 434,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "כתבי": {
     "score": 10,
@@ -1110,7 +1110,7 @@
       "the works of"
     ],
     "updateCount": 435,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לתפוס": {
     "score": 10,
@@ -1118,6 +1118,22 @@
       "apprehend"
     ],
     "updateCount": 439,
+    "isCurrentArroword": false
+  },
+  "בכיוונ": {
+    "score": 10,
+    "clues": [
+      "the the direction"
+    ],
+    "updateCount": 444,
+    "isCurrentArroword": true
+  },
+  "ביניהנ": {
+    "score": 10,
+    "clues": [
+      "between them"
+    ],
+    "updateCount": 447,
     "isCurrentArroword": true
   }
 }
