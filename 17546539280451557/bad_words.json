@@ -1078,6 +1078,22 @@
       "wondered"
     ],
     "updateCount": 419,
+    "isCurrentArroword": false
+  },
+  "להזניח": {
+    "score": 10,
+    "clues": [
+      "neglect"
+    ],
+    "updateCount": 424,
+    "isCurrentArroword": true
+  },
+  "לגלות": {
+    "score": 10,
+    "clues": [
+      "discover"
+    ],
+    "updateCount": 427,
     "isCurrentArroword": true
   }
 }
