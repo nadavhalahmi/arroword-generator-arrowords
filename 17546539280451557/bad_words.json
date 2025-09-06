@@ -76,8 +76,8 @@
     "clues": [
       "the Catholic"
     ],
-    "updateCount": 137,
-    "isCurrentArroword": false
+    "updateCount": 416,
+    "isCurrentArroword": true
   },
   "ולי": {
     "score": 10,
@@ -646,7 +646,7 @@
       "reprimand"
     ],
     "updateCount": 415,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "סנפיר": {
     "score": 10,
@@ -878,7 +878,7 @@
       "quarrel"
     ],
     "updateCount": 413,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "להאריכ": {
     "score": 10,
@@ -1063,5 +1063,13 @@
     ],
     "updateCount": 407,
     "isCurrentArroword": false
+  },
+  "להיות מעורב": {
+    "score": 10,
+    "clues": [
+      "implication"
+    ],
+    "updateCount": 418,
+    "isCurrentArroword": true
   }
 }
