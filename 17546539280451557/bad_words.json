@@ -77,7 +77,7 @@
       "the Catholic"
     ],
     "updateCount": 416,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ולי": {
     "score": 10,
@@ -1070,6 +1070,14 @@
       "implication"
     ],
     "updateCount": 418,
+    "isCurrentArroword": false
+  },
+  "תמה": {
+    "score": 10,
+    "clues": [
+      "wondered"
+    ],
+    "updateCount": 419,
     "isCurrentArroword": true
   }
 }
