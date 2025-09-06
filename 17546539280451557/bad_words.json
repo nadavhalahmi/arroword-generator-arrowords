@@ -1029,8 +1029,8 @@
     "clues": [
       "emptily"
     ],
-    "updateCount": 400,
-    "isCurrentArroword": false
+    "updateCount": 442,
+    "isCurrentArroword": true
   },
   "תורה": {
     "score": 10,
@@ -1086,7 +1086,7 @@
       "neglect"
     ],
     "updateCount": 424,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לגלות": {
     "score": 10,
@@ -1094,6 +1094,30 @@
       "discover"
     ],
     "updateCount": 427,
+    "isCurrentArroword": false
+  },
+  "לכת": {
+    "score": 10,
+    "clues": [
+      "going"
+    ],
+    "updateCount": 434,
+    "isCurrentArroword": true
+  },
+  "כתבי": {
+    "score": 10,
+    "clues": [
+      "the works of"
+    ],
+    "updateCount": 435,
+    "isCurrentArroword": true
+  },
+  "לתפוס": {
+    "score": 10,
+    "clues": [
+      "apprehend"
+    ],
+    "updateCount": 439,
     "isCurrentArroword": true
   }
 }
