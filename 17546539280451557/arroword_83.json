@@ -1,0 +1,429 @@
+{
+  "num_rows": 10,
+  "num_cols": 10,
+  "comments": [
+    "Word usage summary by score:",
+    "Score 10: 4/91 words used (10.00% of puzzle, 4.40% of score group)",
+    "Score 9: 2/44 words used (5.00% of puzzle, 4.55% of score group)",
+    "Score 8: 0/13 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 7: 0/12 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 6: 0/9 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 5: 0/6 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 4: 1/4 words used (2.50% of puzzle, 25.00% of score group)",
+    "Score 2: 0/2 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 1: 22/3211 words used (55.00% of puzzle, 0.69% of score group)",
+    "Score 0: 11/7923 words used (27.50% of puzzle, 0.14% of score group)",
+    "Total: 40/11315 words used"
+  ],
+  "clues": [
+    {
+      "direction": "down-right",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "החשש",
+      "definition": "the worry",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "המומ",
+      "definition": "dazed",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 9,
+      "solution": "תורמ",
+      "definition": "donor",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 9,
+      "solution": "לערער",
+      "definition": "to undermine",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 0,
+      "solution": "אות",
+      "definition": "omen",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 4,
+      "solution": "מצורע",
+      "definition": "leper",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 8,
+      "clue_col": 4,
+      "solution": "יעד",
+      "definition": "goal",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 8,
+      "solution": "צר",
+      "definition": "narrow",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 9,
+      "solution": "רעוע",
+      "definition": "decrepit",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 7,
+      "clue_col": 7,
+      "solution": "דו",
+      "definition": "bi-",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 7,
+      "clue_col": 7,
+      "solution": "בעצ",
+      "definition": "in the tree",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 5,
+      "clue_col": 0,
+      "solution": "מכריע",
+      "definition": "conclusive",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 0,
+      "solution": "הצעתחוק",
+      "definition": "bill",
+      "lengths": [
+        4,
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 8,
+      "clue_col": 0,
+      "solution": "לאו",
+      "definition": "no",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 8,
+      "clue_col": 0,
+      "solution": "סמ",
+      "definition": "narcotic",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 2,
+      "solution": "רצפ",
+      "definition": "sequence",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 1,
+      "solution": "אח",
+      "definition": "brother",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 1,
+      "solution": "אשמ",
+      "definition": "guilty",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "כה",
+      "definition": "so",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 8,
+      "clue_col": 8,
+      "solution": "רע",
+      "definition": "wicked",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 5,
+      "solution": "חסרימ",
+      "definition": "missing",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 5,
+      "solution": "צורמ",
+      "definition": "discordant",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 7,
+      "solution": "משתוקק",
+      "definition": "anxious",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "שרו",
+      "definition": "sang",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 6,
+      "clue_col": 1,
+      "solution": "מס",
+      "definition": "tax",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 1,
+      "solution": "מלא",
+      "definition": "fraught",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "חשש",
+      "definition": "apprehension",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 7,
+      "clue_col": 2,
+      "solution": "פיוס",
+      "definition": "reconciliation",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 7,
+      "clue_col": 2,
+      "solution": "או",
+      "definition": "or",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "יעילות",
+      "definition": "efficiency",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "גס",
+      "definition": "coarse",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 6,
+      "solution": "תער",
+      "definition": "razor",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 6,
+      "solution": "צו",
+      "definition": "order",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 6,
+      "solution": "קצר",
+      "definition": "terse",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 4,
+      "solution": "רב",
+      "definition": "considerable",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 1,
+      "solution": "משהו",
+      "definition": "something",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "דש",
+      "definition": "lapel",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "מוס",
+      "definition": "mousse",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 4,
+      "solution": "הגעתו",
+      "definition": "his arrival",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 4,
+      "solution": "משמעת",
+      "definition": "obedience",
+      "lengths": [
+        5
+      ]
+    }
+  ],
+  "mask_id": "mask_6",
+  "score_distribution": {
+    "1": 22,
+    "9": 2,
+    "10": 4,
+    "4": 1,
+    "0": 11
+  }
+}
