@@ -485,8 +485,8 @@
     "clues": [
       "viola"
     ],
-    "updateCount": 190,
-    "isCurrentArroword": false
+    "updateCount": 470,
+    "isCurrentArroword": true
   },
   "וטענ": {
     "score": 10,
@@ -1150,7 +1150,7 @@
       "absorb"
     ],
     "updateCount": 462,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "סתמ": {
     "score": 10,
@@ -1158,7 +1158,7 @@
       "just"
     ],
     "updateCount": 466,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לקחת על עצמו": {
     "score": 10,
@@ -1166,6 +1166,22 @@
       "undertake"
     ],
     "updateCount": 467,
+    "isCurrentArroword": false
+  },
+  "לילל": {
+    "score": 10,
+    "clues": [
+      "howl"
+    ],
+    "updateCount": 468,
+    "isCurrentArroword": true
+  },
+  "שח": {
+    "score": 10,
+    "clues": [
+      "says"
+    ],
+    "updateCount": 471,
     "isCurrentArroword": true
   }
 }
