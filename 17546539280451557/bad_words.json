@@ -549,8 +549,8 @@
     "clues": [
       "immerse"
     ],
-    "updateCount": 221,
-    "isCurrentArroword": false
+    "updateCount": 485,
+    "isCurrentArroword": true
   },
   "נעלמו": {
     "score": 10,
@@ -910,7 +910,7 @@
       "apiece"
     ],
     "updateCount": 479,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "נשאו": {
     "score": 10,
@@ -1013,8 +1013,8 @@
     "clues": [
       "the demolition"
     ],
-    "updateCount": 397,
-    "isCurrentArroword": false
+    "updateCount": 482,
+    "isCurrentArroword": true
   },
   "הנ": {
     "score": 10,
@@ -1198,6 +1198,22 @@
       "administer"
     ],
     "updateCount": 481,
+    "isCurrentArroword": false
+  },
+  "העיקר": {
+    "score": 10,
+    "clues": [
+      "the essence"
+    ],
+    "updateCount": 483,
+    "isCurrentArroword": true
+  },
+  "ובא": {
+    "score": 10,
+    "clues": [
+      "and came"
+    ],
+    "updateCount": 484,
     "isCurrentArroword": true
   }
 }
