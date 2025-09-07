@@ -486,7 +486,7 @@
       "viola"
     ],
     "updateCount": 470,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "וטענ": {
     "score": 10,
@@ -1174,7 +1174,7 @@
       "howl"
     ],
     "updateCount": 468,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "שח": {
     "score": 10,
@@ -1182,6 +1182,14 @@
       "says"
     ],
     "updateCount": 471,
+    "isCurrentArroword": false
+  },
+  "שרו": {
+    "score": 10,
+    "clues": [
+      "sang"
+    ],
+    "updateCount": 473,
     "isCurrentArroword": true
   }
 }
