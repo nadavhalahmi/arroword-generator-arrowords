@@ -886,7 +886,7 @@
       "prolong"
     ],
     "updateCount": 459,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "בדעתי": {
     "score": 10,
@@ -1142,6 +1142,30 @@
       "flotilla"
     ],
     "updateCount": 458,
+    "isCurrentArroword": false
+  },
+  "לספוג": {
+    "score": 10,
+    "clues": [
+      "absorb"
+    ],
+    "updateCount": 462,
+    "isCurrentArroword": true
+  },
+  "סתמ": {
+    "score": 10,
+    "clues": [
+      "just"
+    ],
+    "updateCount": 466,
+    "isCurrentArroword": true
+  },
+  "לקחת על עצמו": {
+    "score": 10,
+    "clues": [
+      "undertake"
+    ],
+    "updateCount": 467,
     "isCurrentArroword": true
   }
 }
