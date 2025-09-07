@@ -909,8 +909,8 @@
     "clues": [
       "apiece"
     ],
-    "updateCount": 354,
-    "isCurrentArroword": false
+    "updateCount": 479,
+    "isCurrentArroword": true
   },
   "נשאו": {
     "score": 10,
@@ -1190,6 +1190,14 @@
       "sang"
     ],
     "updateCount": 473,
+    "isCurrentArroword": false
+  },
+  "לנהל": {
+    "score": 10,
+    "clues": [
+      "administer"
+    ],
+    "updateCount": 481,
     "isCurrentArroword": true
   }
 }
