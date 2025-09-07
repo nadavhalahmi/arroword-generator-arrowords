@@ -1126,7 +1126,7 @@
       "the the direction"
     ],
     "updateCount": 444,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ביניהנ": {
     "score": 10,
@@ -1134,6 +1134,6 @@
       "between them"
     ],
     "updateCount": 447,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
