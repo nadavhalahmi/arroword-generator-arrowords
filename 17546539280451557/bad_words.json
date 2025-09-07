@@ -885,8 +885,8 @@
     "clues": [
       "prolong"
     ],
-    "updateCount": 345,
-    "isCurrentArroword": false
+    "updateCount": 459,
+    "isCurrentArroword": true
   },
   "בדעתי": {
     "score": 10,
@@ -1135,5 +1135,13 @@
     ],
     "updateCount": 447,
     "isCurrentArroword": false
+  },
+  "ציטונ": {
+    "score": 10,
+    "clues": [
+      "flotilla"
+    ],
+    "updateCount": 458,
+    "isCurrentArroword": true
   }
 }
