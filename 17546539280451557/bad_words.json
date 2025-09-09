@@ -366,7 +366,7 @@
       "recite"
     ],
     "updateCount": 521,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "פירות": {
     "score": 10,
@@ -909,8 +909,8 @@
     "clues": [
       "apiece"
     ],
-    "updateCount": 479,
-    "isCurrentArroword": false
+    "updateCount": 529,
+    "isCurrentArroword": true
   },
   "נשאו": {
     "score": 10,
@@ -1285,8 +1285,8 @@
     "clues": [
       "convey"
     ],
-    "updateCount": 511,
-    "isCurrentArroword": false
+    "updateCount": 535,
+    "isCurrentArroword": true
   },
   "זמר": {
     "score": 10,
@@ -1302,7 +1302,7 @@
       "also"
     ],
     "updateCount": 516,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לאו": {
     "score": 10,
@@ -1310,7 +1310,7 @@
       "no"
     ],
     "updateCount": 517,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ואמנות": {
     "score": 10,
@@ -1318,7 +1318,7 @@
       "and art"
     ],
     "updateCount": 518,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לבנות": {
     "score": 10,
@@ -1326,6 +1326,30 @@
       "build"
     ],
     "updateCount": 520,
+    "isCurrentArroword": false
+  },
+  "לסמל": {
+    "score": 10,
+    "clues": [
+      "represent"
+    ],
+    "updateCount": 528,
+    "isCurrentArroword": true
+  },
+  "לשזור": {
+    "score": 10,
+    "clues": [
+      "entwine"
+    ],
+    "updateCount": 533,
+    "isCurrentArroword": true
+  },
+  "יענ": {
+    "score": 10,
+    "clues": [
+      "since"
+    ],
+    "updateCount": 537,
     "isCurrentArroword": true
   }
 }
