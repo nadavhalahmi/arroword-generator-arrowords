@@ -1254,7 +1254,7 @@
       "valley"
     ],
     "updateCount": 502,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ושל": {
     "score": 10,
@@ -1262,6 +1262,14 @@
       "and of"
     ],
     "updateCount": 506,
+    "isCurrentArroword": false
+  },
+  "מרעב": {
+    "score": 10,
+    "clues": [
+      "of hunger"
+    ],
+    "updateCount": 508,
     "isCurrentArroword": true
   }
 }
