@@ -1270,6 +1270,30 @@
       "of hunger"
     ],
     "updateCount": 508,
+    "isCurrentArroword": false
+  },
+  "ובנ": {
+    "score": 10,
+    "clues": [
+      "and a son"
+    ],
+    "updateCount": 510,
+    "isCurrentArroword": true
+  },
+  "למסור": {
+    "score": 10,
+    "clues": [
+      "convey"
+    ],
+    "updateCount": 511,
+    "isCurrentArroword": true
+  },
+  "זמר": {
+    "score": 10,
+    "clues": [
+      "song"
+    ],
+    "updateCount": 513,
     "isCurrentArroword": true
   }
 }
