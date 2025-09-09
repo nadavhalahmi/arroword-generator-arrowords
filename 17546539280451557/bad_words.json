@@ -148,8 +148,8 @@
     "clues": [
       "sprout"
     ],
-    "updateCount": 408,
-    "isCurrentArroword": false
+    "updateCount": 494,
+    "isCurrentArroword": true
   },
   "והנה": {
     "score": 10,
@@ -550,7 +550,7 @@
       "immerse"
     ],
     "updateCount": 485,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "נעלמו": {
     "score": 10,
@@ -829,8 +829,8 @@
     "clues": [
       "exert"
     ],
-    "updateCount": 369,
-    "isCurrentArroword": false
+    "updateCount": 492,
+    "isCurrentArroword": true
   },
   "הביקורת": {
     "score": 10,
@@ -1014,7 +1014,7 @@
       "the demolition"
     ],
     "updateCount": 482,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "הנ": {
     "score": 10,
@@ -1141,8 +1141,8 @@
     "clues": [
       "flotilla"
     ],
-    "updateCount": 458,
-    "isCurrentArroword": false
+    "updateCount": 501,
+    "isCurrentArroword": true
   },
   "לספוג": {
     "score": 10,
@@ -1206,7 +1206,7 @@
       "the essence"
     ],
     "updateCount": 483,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ובא": {
     "score": 10,
@@ -1214,6 +1214,38 @@
       "and came"
     ],
     "updateCount": 484,
+    "isCurrentArroword": false
+  },
+  "מגוש": {
+    "score": 10,
+    "clues": [
+      "from a mass /from a region"
+    ],
+    "updateCount": 490,
+    "isCurrentArroword": true
+  },
+  "אטשה": {
+    "score": 10,
+    "clues": [
+      "attache"
+    ],
+    "updateCount": 496,
+    "isCurrentArroword": true
+  },
+  "אלא": {
+    "score": 10,
+    "clues": [
+      "only"
+    ],
+    "updateCount": 497,
+    "isCurrentArroword": true
+  },
+  "מני": {
+    "score": 10,
+    "clues": [
+      "from"
+    ],
+    "updateCount": 498,
     "isCurrentArroword": true
   }
 }
