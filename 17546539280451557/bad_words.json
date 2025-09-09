@@ -365,8 +365,8 @@
     "clues": [
       "recite"
     ],
-    "updateCount": 116,
-    "isCurrentArroword": false
+    "updateCount": 521,
+    "isCurrentArroword": true
   },
   "פירות": {
     "score": 10,
@@ -1278,7 +1278,7 @@
       "and a son"
     ],
     "updateCount": 510,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "למסור": {
     "score": 10,
@@ -1286,7 +1286,7 @@
       "convey"
     ],
     "updateCount": 511,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "זמר": {
     "score": 10,
@@ -1294,6 +1294,38 @@
       "song"
     ],
     "updateCount": 513,
+    "isCurrentArroword": false
+  },
+  "אפ": {
+    "score": 10,
+    "clues": [
+      "also"
+    ],
+    "updateCount": 516,
+    "isCurrentArroword": true
+  },
+  "לאו": {
+    "score": 10,
+    "clues": [
+      "no"
+    ],
+    "updateCount": 517,
+    "isCurrentArroword": true
+  },
+  "ואמנות": {
+    "score": 10,
+    "clues": [
+      "and art"
+    ],
+    "updateCount": 518,
+    "isCurrentArroword": true
+  },
+  "לבנות": {
+    "score": 10,
+    "clues": [
+      "build"
+    ],
+    "updateCount": 520,
     "isCurrentArroword": true
   }
 }
