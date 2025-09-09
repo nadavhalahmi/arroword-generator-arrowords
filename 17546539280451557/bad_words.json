@@ -149,7 +149,7 @@
       "sprout"
     ],
     "updateCount": 494,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "והנה": {
     "score": 10,
@@ -830,7 +830,7 @@
       "exert"
     ],
     "updateCount": 492,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "הביקורת": {
     "score": 10,
@@ -1142,7 +1142,7 @@
       "flotilla"
     ],
     "updateCount": 501,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לספוג": {
     "score": 10,
@@ -1222,7 +1222,7 @@
       "from a mass /from a region"
     ],
     "updateCount": 490,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "אטשה": {
     "score": 10,
@@ -1230,7 +1230,7 @@
       "attache"
     ],
     "updateCount": 496,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "אלא": {
     "score": 10,
@@ -1238,7 +1238,7 @@
       "only"
     ],
     "updateCount": 497,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "מני": {
     "score": 10,
@@ -1246,6 +1246,22 @@
       "from"
     ],
     "updateCount": 498,
+    "isCurrentArroword": false
+  },
+  "ואדי": {
+    "score": 10,
+    "clues": [
+      "valley"
+    ],
+    "updateCount": 502,
+    "isCurrentArroword": true
+  },
+  "ושל": {
+    "score": 10,
+    "clues": [
+      "and of"
+    ],
+    "updateCount": 506,
     "isCurrentArroword": true
   }
 }
