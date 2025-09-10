@@ -1440,6 +1440,22 @@
       "on his hand"
     ],
     "updateCount": 582,
+    "isCurrentArroword": false
+  },
+  "ארסנל": {
+    "score": 10,
+    "clues": [
+      "arsenal"
+    ],
+    "updateCount": 583,
+    "isCurrentArroword": true
+  },
+  "שהנ": {
+    "score": 10,
+    "clues": [
+      "that they"
+    ],
+    "updateCount": 584,
     "isCurrentArroword": true
   }
 }
