@@ -148,8 +148,8 @@
     "clues": [
       "sprout"
     ],
-    "updateCount": 494,
-    "isCurrentArroword": false
+    "updateCount": 545,
+    "isCurrentArroword": true
   },
   "והנה": {
     "score": 10,
@@ -829,8 +829,8 @@
     "clues": [
       "exert"
     ],
-    "updateCount": 492,
-    "isCurrentArroword": false
+    "updateCount": 547,
+    "isCurrentArroword": true
   },
   "הביקורת": {
     "score": 10,
@@ -1358,7 +1358,7 @@
       "vain"
     ],
     "updateCount": 538,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "המצור": {
     "score": 10,
@@ -1366,7 +1366,7 @@
       "the siege"
     ],
     "updateCount": 539,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לפעמ": {
     "score": 10,
@@ -1374,7 +1374,7 @@
       "to the time"
     ],
     "updateCount": 540,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "סרומ": {
     "score": 10,
@@ -1382,6 +1382,14 @@
       "serum"
     ],
     "updateCount": 541,
+    "isCurrentArroword": false
+  },
+  "נדכא": {
+    "score": 10,
+    "clues": [
+      "destitute"
+    ],
+    "updateCount": 550,
     "isCurrentArroword": true
   }
 }
