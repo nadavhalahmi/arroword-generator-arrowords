@@ -1406,6 +1406,14 @@
       "from him"
     ],
     "updateCount": 555,
+    "isCurrentArroword": false
+  },
+  "בעבור": {
+    "score": 10,
+    "clues": [
+      "for"
+    ],
+    "updateCount": 557,
     "isCurrentArroword": true
   }
 }
