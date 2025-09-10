@@ -149,7 +149,7 @@
       "sprout"
     ],
     "updateCount": 545,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "והנה": {
     "score": 10,
@@ -830,7 +830,7 @@
       "exert"
     ],
     "updateCount": 547,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "הביקורת": {
     "score": 10,
@@ -1390,6 +1390,14 @@
       "destitute"
     ],
     "updateCount": 550,
+    "isCurrentArroword": false
+  },
+  "עפוש": {
+    "score": 10,
+    "clues": [
+      "moldy"
+    ],
+    "updateCount": 552,
     "isCurrentArroword": true
   }
 }
