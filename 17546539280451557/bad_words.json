@@ -294,7 +294,7 @@
       "curb"
     ],
     "updateCount": 581,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לסכנ": {
     "score": 10,
@@ -535,7 +535,7 @@
       "mend"
     ],
     "updateCount": 576,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ועקב": {
     "score": 10,
@@ -1432,6 +1432,14 @@
       "applaud"
     ],
     "updateCount": 579,
+    "isCurrentArroword": false
+  },
+  "בידו": {
+    "score": 10,
+    "clues": [
+      "on his hand"
+    ],
+    "updateCount": 582,
     "isCurrentArroword": true
   }
 }
