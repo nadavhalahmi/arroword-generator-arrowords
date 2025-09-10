@@ -1037,10 +1037,11 @@
   "תורה": {
     "score": 10,
     "clues": [
-      "theory"
+      "theory",
+      "Torah"
     ],
-    "updateCount": 401,
-    "isCurrentArroword": false
+    "updateCount": 594,
+    "isCurrentArroword": true
   },
   "להרגיש": {
     "score": 10,
@@ -1464,7 +1465,7 @@
       "the islands of"
     ],
     "updateCount": 585,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "דייט": {
     "score": 10,
@@ -1472,7 +1473,7 @@
       "date"
     ],
     "updateCount": 586,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לנחור": {
     "score": 10,
@@ -1480,7 +1481,7 @@
       "snort"
     ],
     "updateCount": 587,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "הקו": {
     "score": 10,
@@ -1488,7 +1489,7 @@
       "the line"
     ],
     "updateCount": 588,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לקו": {
     "score": 10,
@@ -1496,7 +1497,7 @@
       "to/for the line"
     ],
     "updateCount": 589,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לגטו": {
     "score": 10,
@@ -1504,7 +1505,7 @@
       "to the ghetto"
     ],
     "updateCount": 591,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "עיקרי אמונה": {
     "score": 10,
@@ -1512,6 +1513,30 @@
       "creed"
     ],
     "updateCount": 592,
+    "isCurrentArroword": false
+  },
+  "הגיעו": {
+    "score": 10,
+    "clues": [
+      "arrived"
+    ],
+    "updateCount": 595,
+    "isCurrentArroword": true
+  },
+  "העלו": {
+    "score": 10,
+    "clues": [
+      "raised"
+    ],
+    "updateCount": 596,
+    "isCurrentArroword": true
+  },
+  "לדעוכ": {
+    "score": 10,
+    "clues": [
+      "wane"
+    ],
+    "updateCount": 599,
     "isCurrentArroword": true
   }
 }
