@@ -575,7 +575,7 @@
       "and means"
     ],
     "updateCount": 564,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "מנעו": {
     "score": 10,
@@ -854,8 +854,8 @@
     "clues": [
       "annex"
     ],
-    "updateCount": 395,
-    "isCurrentArroword": false
+    "updateCount": 571,
+    "isCurrentArroword": true
   },
   "לנשיאות": {
     "score": 10,
@@ -1416,5 +1416,13 @@
     ],
     "updateCount": 557,
     "isCurrentArroword": false
+  },
+  "דמי": {
+    "score": 10,
+    "clues": [
+      "the blood of"
+    ],
+    "updateCount": 565,
+    "isCurrentArroword": true
   }
 }
