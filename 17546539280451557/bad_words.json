@@ -910,7 +910,7 @@
       "apiece"
     ],
     "updateCount": 529,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "נשאו": {
     "score": 10,
@@ -1286,7 +1286,7 @@
       "convey"
     ],
     "updateCount": 535,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "זמר": {
     "score": 10,
@@ -1334,7 +1334,7 @@
       "represent"
     ],
     "updateCount": 528,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לשזור": {
     "score": 10,
@@ -1342,7 +1342,7 @@
       "entwine"
     ],
     "updateCount": 533,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "יענ": {
     "score": 10,
@@ -1350,6 +1350,38 @@
       "since"
     ],
     "updateCount": 537,
+    "isCurrentArroword": false
+  },
+  "יהיר": {
+    "score": 10,
+    "clues": [
+      "vain"
+    ],
+    "updateCount": 538,
+    "isCurrentArroword": true
+  },
+  "המצור": {
+    "score": 10,
+    "clues": [
+      "the siege"
+    ],
+    "updateCount": 539,
+    "isCurrentArroword": true
+  },
+  "לפעמ": {
+    "score": 10,
+    "clues": [
+      "to the time"
+    ],
+    "updateCount": 540,
+    "isCurrentArroword": true
+  },
+  "סרומ": {
+    "score": 10,
+    "clues": [
+      "serum"
+    ],
+    "updateCount": 541,
     "isCurrentArroword": true
   }
 }
