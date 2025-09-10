@@ -1448,7 +1448,7 @@
       "arsenal"
     ],
     "updateCount": 583,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "שהנ": {
     "score": 10,
@@ -1456,6 +1456,62 @@
       "that they"
     ],
     "updateCount": 584,
+    "isCurrentArroword": false
+  },
+  "איי": {
+    "score": 10,
+    "clues": [
+      "the islands of"
+    ],
+    "updateCount": 585,
+    "isCurrentArroword": true
+  },
+  "דייט": {
+    "score": 10,
+    "clues": [
+      "date"
+    ],
+    "updateCount": 586,
+    "isCurrentArroword": true
+  },
+  "לנחור": {
+    "score": 10,
+    "clues": [
+      "snort"
+    ],
+    "updateCount": 587,
+    "isCurrentArroword": true
+  },
+  "הקו": {
+    "score": 10,
+    "clues": [
+      "the line"
+    ],
+    "updateCount": 588,
+    "isCurrentArroword": true
+  },
+  "לקו": {
+    "score": 10,
+    "clues": [
+      "to/for the line"
+    ],
+    "updateCount": 589,
+    "isCurrentArroword": true
+  },
+  "לגטו": {
+    "score": 10,
+    "clues": [
+      "to the ghetto"
+    ],
+    "updateCount": 591,
+    "isCurrentArroword": true
+  },
+  "עיקרי אמונה": {
+    "score": 10,
+    "clues": [
+      "creed"
+    ],
+    "updateCount": 592,
     "isCurrentArroword": true
   }
 }
