@@ -571,10 +571,11 @@
   "ואמצעי": {
     "score": 10,
     "clues": [
-      "and middle"
+      "and middle",
+      "and means"
     ],
-    "updateCount": 231,
-    "isCurrentArroword": false
+    "updateCount": 564,
+    "isCurrentArroword": true
   },
   "מנעו": {
     "score": 10,
@@ -1414,6 +1415,6 @@
       "for"
     ],
     "updateCount": 557,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
