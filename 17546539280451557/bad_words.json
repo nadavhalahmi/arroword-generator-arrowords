@@ -293,8 +293,8 @@
       "restrain",
       "curb"
     ],
-    "updateCount": 379,
-    "isCurrentArroword": false
+    "updateCount": 581,
+    "isCurrentArroword": true
   },
   "לסכנ": {
     "score": 10,
@@ -531,10 +531,11 @@
   "לתקנ": {
     "score": 10,
     "clues": [
-      "repair"
+      "repair",
+      "mend"
     ],
-    "updateCount": 214,
-    "isCurrentArroword": false
+    "updateCount": 576,
+    "isCurrentArroword": true
   },
   "ועקב": {
     "score": 10,
@@ -1424,5 +1425,13 @@
     ],
     "updateCount": 565,
     "isCurrentArroword": false
+  },
+  "למחוא כפ": {
+    "score": 10,
+    "clues": [
+      "applaud"
+    ],
+    "updateCount": 579,
+    "isCurrentArroword": true
   }
 }
