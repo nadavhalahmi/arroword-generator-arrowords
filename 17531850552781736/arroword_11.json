@@ -1,0 +1,415 @@
+{
+  "num_rows": 10,
+  "num_cols": 10,
+  "comments": [
+    "Word usage summary by score:",
+    "Score 10: 8/67 words used (20.51% of puzzle, 11.94% of score group)",
+    "Score 9: 2/11 words used (5.13% of puzzle, 18.18% of score group)",
+    "Score 8: 1/2 words used (2.56% of puzzle, 50.00% of score group)",
+    "Score 1: 10/3304 words used (25.64% of puzzle, 0.30% of score group)",
+    "Score 0: 18/7932 words used (46.15% of puzzle, 0.23% of score group)",
+    "Total: 39/11316 words used"
+  ],
+  "clues": [
+    {
+      "direction": "down-right",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "החלק",
+      "definition": "the smooth",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "המ",
+      "definition": "they",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 9,
+      "solution": "נמר",
+      "definition": "leopard",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 9,
+      "clue_col": 0,
+      "solution": "קלימ",
+      "definition": "easy",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 4,
+      "solution": "גל",
+      "definition": "wave",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 9,
+      "solution": "מכתש",
+      "definition": "crater",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 8,
+      "solution": "מלוא",
+      "definition": "fullness",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 1,
+      "solution": "דש",
+      "definition": "lapel",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 8,
+      "clue_col": 4,
+      "solution": "יקרות",
+      "definition": "dear",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "לקרוא",
+      "definition": "exclaim",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "לשמ",
+      "definition": "for the sake of",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "במושבות",
+      "definition": "in colonies",
+      "lengths": [
+        7
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "מגשר",
+      "definition": "arbitrator",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "לוותר",
+      "definition": "relent",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 0,
+      "solution": "התמקד",
+      "definition": "focused",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 7,
+      "solution": "אש",
+      "definition": "fire",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 7,
+      "solution": "שמר",
+      "definition": "guarded",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 7,
+      "solution": "תא",
+      "definition": "cubicle",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 4,
+      "clue_col": 1,
+      "solution": "חצ",
+      "definition": "dart",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 1,
+      "solution": "מנהל",
+      "definition": "principal",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 6,
+      "solution": "שממ",
+      "definition": "their name",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 9,
+      "solution": "קשה",
+      "definition": "arduous",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 1,
+      "clue_col": 7,
+      "solution": "כנ",
+      "definition": "sincere",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 4,
+      "solution": "תנ",
+      "definition": "jackal",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 2,
+      "solution": "העתיד",
+      "definition": "the future",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 3,
+      "clue_col": 8,
+      "solution": "רק",
+      "definition": "merely",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "תגובהנגדית",
+      "definition": "backlash",
+      "lengths": [
+        5,
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 4,
+      "solution": "וו",
+      "definition": "hook",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 4,
+      "solution": "שי",
+      "definition": "present",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "צמה",
+      "definition": "braid",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "נע",
+      "definition": "moves",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 5,
+      "clue_col": 3,
+      "solution": "איהתאמה",
+      "definition": "discrepancy",
+      "lengths": [
+        2,
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 1,
+      "solution": "חגב",
+      "definition": "grasshopper",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 7,
+      "clue_col": 6,
+      "solution": "קנ",
+      "definition": "nest",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 6,
+      "solution": "מלכ",
+      "definition": "king",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 4,
+      "solution": "נר",
+      "definition": "candle",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 4,
+      "solution": "דק",
+      "definition": "tenuous",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "דג",
+      "definition": "fish",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "ממש",
+      "definition": "really",
+      "lengths": [
+        3
+      ]
+    }
+  ],
+  "mask_id": "mask_4",
+  "score_distribution": {
+    "10": 8,
+    "9": 2,
+    "8": 1,
+    "1": 10,
+    "0": 18
+  }
+}
