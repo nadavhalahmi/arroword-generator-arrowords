@@ -133,6 +133,14 @@
       "and armament"
     ],
     "updateCount": 134,
+    "isCurrentArroword": false
+  },
+  "האוכל": {
+    "score": 10,
+    "clues": [
+      "the food"
+    ],
+    "updateCount": 135,
     "isCurrentArroword": true
   }
 }
