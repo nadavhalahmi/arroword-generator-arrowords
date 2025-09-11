@@ -775,8 +775,8 @@
     "clues": [
       "that one"
     ],
-    "updateCount": 311,
-    "isCurrentArroword": false
+    "updateCount": 629,
+    "isCurrentArroword": true
   },
   "ויניל": {
     "score": 10,
@@ -1569,7 +1569,7 @@
       "the mandate"
     ],
     "updateCount": 615,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "הלח": {
     "score": 10,
@@ -1577,7 +1577,7 @@
       "the humid"
     ],
     "updateCount": 616,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "להשוויצ": {
     "score": 10,
@@ -1585,7 +1585,7 @@
       "flaunt"
     ],
     "updateCount": 620,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "בקרנ": {
     "score": 10,
@@ -1593,7 +1593,7 @@
       "[in] a bugle"
     ],
     "updateCount": 626,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "קמה": {
     "score": 10,
@@ -1601,6 +1601,22 @@
       "stood up"
     ],
     "updateCount": 627,
+    "isCurrentArroword": false
+  },
+  "המכריע": {
+    "score": 10,
+    "clues": [
+      "the crucial"
+    ],
+    "updateCount": 631,
+    "isCurrentArroword": true
+  },
+  "כולנ": {
+    "score": 10,
+    "clues": [
+      "everybody"
+    ],
+    "updateCount": 634,
     "isCurrentArroword": true
   }
 }
