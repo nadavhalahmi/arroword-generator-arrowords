@@ -110,5 +110,21 @@
     ],
     "updateCount": 61,
     "isCurrentArroword": false
+  },
+  "ויינ": {
+    "score": 10,
+    "clues": [
+      "and wine"
+    ],
+    "updateCount": 86,
+    "isCurrentArroword": true
+  },
+  "הנהו": {
+    "score": 10,
+    "clues": [
+      "here he is"
+    ],
+    "updateCount": 94,
+    "isCurrentArroword": true
   }
 }
