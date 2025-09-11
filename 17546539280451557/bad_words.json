@@ -712,7 +712,7 @@
       "his tender years"
     ],
     "updateCount": 611,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "האנרגיה": {
     "score": 10,
@@ -1561,6 +1561,46 @@
       "to/for a democracy"
     ],
     "updateCount": 613,
+    "isCurrentArroword": false
+  },
+  "המנדט": {
+    "score": 10,
+    "clues": [
+      "the mandate"
+    ],
+    "updateCount": 615,
+    "isCurrentArroword": true
+  },
+  "הלח": {
+    "score": 10,
+    "clues": [
+      "the humid"
+    ],
+    "updateCount": 616,
+    "isCurrentArroword": true
+  },
+  "להשוויצ": {
+    "score": 10,
+    "clues": [
+      "flaunt"
+    ],
+    "updateCount": 620,
+    "isCurrentArroword": true
+  },
+  "בקרנ": {
+    "score": 10,
+    "clues": [
+      "[in] a bugle"
+    ],
+    "updateCount": 626,
+    "isCurrentArroword": true
+  },
+  "קמה": {
+    "score": 10,
+    "clues": [
+      "stood up"
+    ],
+    "updateCount": 627,
     "isCurrentArroword": true
   }
 }
