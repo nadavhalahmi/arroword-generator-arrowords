@@ -711,8 +711,8 @@
     "clues": [
       "his tender years"
     ],
-    "updateCount": 293,
-    "isCurrentArroword": false
+    "updateCount": 611,
+    "isCurrentArroword": true
   },
   "האנרגיה": {
     "score": 10,
@@ -1545,7 +1545,7 @@
       "the kerosene"
     ],
     "updateCount": 601,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "פלסימ": {
     "score": 10,
@@ -1553,6 +1553,14 @@
       "levels"
     ],
     "updateCount": 606,
+    "isCurrentArroword": false
+  },
+  "לדמוקרטיה": {
+    "score": 10,
+    "clues": [
+      "to/for a democracy"
+    ],
+    "updateCount": 613,
     "isCurrentArroword": true
   }
 }
