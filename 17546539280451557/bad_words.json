@@ -1041,7 +1041,7 @@
       "Torah"
     ],
     "updateCount": 594,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "להרגיש": {
     "score": 10,
@@ -1521,7 +1521,7 @@
       "arrived"
     ],
     "updateCount": 595,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "העלו": {
     "score": 10,
@@ -1529,7 +1529,7 @@
       "raised"
     ],
     "updateCount": 596,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לדעוכ": {
     "score": 10,
@@ -1537,6 +1537,22 @@
       "wane"
     ],
     "updateCount": 599,
+    "isCurrentArroword": false
+  },
+  "הנפט": {
+    "score": 10,
+    "clues": [
+      "the kerosene"
+    ],
+    "updateCount": 601,
+    "isCurrentArroword": true
+  },
+  "פלסימ": {
+    "score": 10,
+    "clues": [
+      "levels"
+    ],
+    "updateCount": 606,
     "isCurrentArroword": true
   }
 }
