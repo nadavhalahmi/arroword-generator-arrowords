@@ -126,5 +126,13 @@
     ],
     "updateCount": 94,
     "isCurrentArroword": false
+  },
+  "וחימוש": {
+    "score": 10,
+    "clues": [
+      "and armament"
+    ],
+    "updateCount": 134,
+    "isCurrentArroword": true
   }
 }
