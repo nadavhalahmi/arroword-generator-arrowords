@@ -1,0 +1,26 @@
+{
+  "רבנ": {
+    "score": 10,
+    "clues": [
+      "rabbi"
+    ],
+    "updateCount": 1,
+    "isCurrentArroword": true
+  },
+  "רווחת": {
+    "score": 10,
+    "clues": [
+      "widespread"
+    ],
+    "updateCount": 2,
+    "isCurrentArroword": true
+  },
+  "צידי": {
+    "score": 10,
+    "clues": [
+      "hunters of"
+    ],
+    "updateCount": 4,
+    "isCurrentArroword": true
+  }
+}
