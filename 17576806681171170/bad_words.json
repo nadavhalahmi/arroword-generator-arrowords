@@ -5,7 +5,7 @@
       "rabbi"
     ],
     "updateCount": 1,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "רווחת": {
     "score": 10,
@@ -13,7 +13,7 @@
       "widespread"
     ],
     "updateCount": 2,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "צידי": {
     "score": 10,
@@ -21,6 +21,22 @@
       "hunters of"
     ],
     "updateCount": 4,
+    "isCurrentArroword": false
+  },
+  "בענפ": {
+    "score": 10,
+    "clues": [
+      "[in] the branch"
+    ],
+    "updateCount": 7,
+    "isCurrentArroword": true
+  },
+  "לאסו": {
+    "score": 10,
+    "clues": [
+      "lasso"
+    ],
+    "updateCount": 8,
     "isCurrentArroword": true
   }
 }
