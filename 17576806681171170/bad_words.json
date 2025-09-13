@@ -29,7 +29,7 @@
       "[in] the branch"
     ],
     "updateCount": 7,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לאסו": {
     "score": 10,
@@ -37,6 +37,30 @@
       "lasso"
     ],
     "updateCount": 8,
+    "isCurrentArroword": false
+  },
+  "אביו": {
+    "score": 10,
+    "clues": [
+      "his father"
+    ],
+    "updateCount": 10,
+    "isCurrentArroword": true
+  },
+  "לאי": {
+    "score": 10,
+    "clues": [
+      "to an island"
+    ],
+    "updateCount": 11,
+    "isCurrentArroword": true
+  },
+  "הובילו": {
+    "score": 10,
+    "clues": [
+      "led"
+    ],
+    "updateCount": 13,
     "isCurrentArroword": true
   }
 }
