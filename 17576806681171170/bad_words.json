@@ -85,7 +85,7 @@
       "the corals of"
     ],
     "updateCount": 23,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "יענ": {
     "score": 10,
@@ -93,7 +93,7 @@
       "since"
     ],
     "updateCount": 24,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "שוכנ": {
     "score": 10,
@@ -101,6 +101,38 @@
       "live"
     ],
     "updateCount": 25,
+    "isCurrentArroword": false
+  },
+  "שמוצאמ": {
+    "score": 10,
+    "clues": [
+      "that/who originated from"
+    ],
+    "updateCount": 28,
+    "isCurrentArroword": true
+  },
+  "וכי": {
+    "score": 10,
+    "clues": [
+      "if"
+    ],
+    "updateCount": 29,
+    "isCurrentArroword": true
+  },
+  "השמ": {
+    "score": 10,
+    "clues": [
+      "God"
+    ],
+    "updateCount": 30,
+    "isCurrentArroword": true
+  },
+  "אגמ קערה": {
+    "score": 10,
+    "clues": [
+      "basin"
+    ],
+    "updateCount": 31,
     "isCurrentArroword": true
   }
 }
