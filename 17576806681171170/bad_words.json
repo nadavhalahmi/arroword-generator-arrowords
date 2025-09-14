@@ -45,7 +45,7 @@
       "his father"
     ],
     "updateCount": 10,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לאי": {
     "score": 10,
@@ -53,7 +53,7 @@
       "to an island"
     ],
     "updateCount": 11,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "הובילו": {
     "score": 10,
@@ -61,6 +61,22 @@
       "led"
     ],
     "updateCount": 13,
+    "isCurrentArroword": false
+  },
+  "דמויי": {
+    "score": 10,
+    "clues": [
+      "-form"
+    ],
+    "updateCount": 19,
+    "isCurrentArroword": true
+  },
+  "הרימו": {
+    "score": 10,
+    "clues": [
+      "lifted"
+    ],
+    "updateCount": 21,
     "isCurrentArroword": true
   }
 }
