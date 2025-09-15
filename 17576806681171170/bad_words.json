@@ -134,5 +134,13 @@
     ],
     "updateCount": 31,
     "isCurrentArroword": false
+  },
+  "תחומ משמעת": {
+    "score": 10,
+    "clues": [
+      "discipline"
+    ],
+    "updateCount": 39,
+    "isCurrentArroword": true
   }
 }
