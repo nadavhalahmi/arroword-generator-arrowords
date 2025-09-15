@@ -109,7 +109,7 @@
       "that/who originated from"
     ],
     "updateCount": 28,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "וכי": {
     "score": 10,
@@ -117,7 +117,7 @@
       "if"
     ],
     "updateCount": 29,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "השמ": {
     "score": 10,
@@ -125,7 +125,7 @@
       "God"
     ],
     "updateCount": 30,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "אגמ קערה": {
     "score": 10,
@@ -133,6 +133,6 @@
       "basin"
     ],
     "updateCount": 31,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
