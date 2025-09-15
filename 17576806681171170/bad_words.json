@@ -141,6 +141,14 @@
       "discipline"
     ],
     "updateCount": 39,
+    "isCurrentArroword": false
+  },
+  "שבא": {
+    "score": 10,
+    "clues": [
+      "that/who is coming"
+    ],
+    "updateCount": 42,
     "isCurrentArroword": true
   }
 }
