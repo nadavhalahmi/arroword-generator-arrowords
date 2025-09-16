@@ -149,6 +149,14 @@
       "that/who is coming"
     ],
     "updateCount": 42,
+    "isCurrentArroword": false
+  },
+  "ליל": {
+    "score": 10,
+    "clues": [
+      "the night of"
+    ],
+    "updateCount": 48,
     "isCurrentArroword": true
   }
 }
