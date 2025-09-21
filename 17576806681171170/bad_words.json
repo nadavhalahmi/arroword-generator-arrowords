@@ -84,8 +84,8 @@
     "clues": [
       "the corals of"
     ],
-    "updateCount": 23,
-    "isCurrentArroword": false
+    "updateCount": 55,
+    "isCurrentArroword": true
   },
   "יענ": {
     "score": 10,
@@ -165,6 +165,14 @@
       "herb"
     ],
     "updateCount": 51,
+    "isCurrentArroword": false
+  },
+  "גילד": {
+    "score": 10,
+    "clues": [
+      "guild"
+    ],
+    "updateCount": 57,
     "isCurrentArroword": true
   }
 }
