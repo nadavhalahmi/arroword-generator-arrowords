@@ -85,7 +85,7 @@
       "the corals of"
     ],
     "updateCount": 55,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "יענ": {
     "score": 10,
@@ -173,6 +173,14 @@
       "guild"
     ],
     "updateCount": 57,
+    "isCurrentArroword": false
+  },
+  "שגת": {
+    "score": 10,
+    "clues": [
+      "achieving of"
+    ],
+    "updateCount": 58,
     "isCurrentArroword": true
   }
 }
