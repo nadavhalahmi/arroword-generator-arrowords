@@ -157,6 +157,14 @@
       "the night of"
     ],
     "updateCount": 48,
+    "isCurrentArroword": false
+  },
+  "עשב": {
+    "score": 10,
+    "clues": [
+      "herb"
+    ],
+    "updateCount": 51,
     "isCurrentArroword": true
   }
 }
