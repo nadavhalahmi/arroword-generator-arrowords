@@ -36,8 +36,8 @@
     "clues": [
       "lasso"
     ],
-    "updateCount": 8,
-    "isCurrentArroword": false
+    "updateCount": 79,
+    "isCurrentArroword": true
   },
   "אביו": {
     "score": 10,
@@ -197,7 +197,7 @@
       "(the) establishment of"
     ],
     "updateCount": 72,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "הקיימ": {
     "score": 10,
@@ -205,7 +205,7 @@
       "that exists"
     ],
     "updateCount": 73,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "מפי": {
     "score": 10,
@@ -213,7 +213,7 @@
       "from my mouth"
     ],
     "updateCount": 75,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "רובה": {
     "score": 10,
@@ -221,6 +221,6 @@
       "most of it"
     ],
     "updateCount": 77,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
