@@ -189,6 +189,38 @@
       "you"
     ],
     "updateCount": 68,
+    "isCurrentArroword": false
+  },
+  "הקמתו": {
+    "score": 10,
+    "clues": [
+      "(the) establishment of"
+    ],
+    "updateCount": 72,
+    "isCurrentArroword": true
+  },
+  "הקיימ": {
+    "score": 10,
+    "clues": [
+      "that exists"
+    ],
+    "updateCount": 73,
+    "isCurrentArroword": true
+  },
+  "מפי": {
+    "score": 10,
+    "clues": [
+      "from my mouth"
+    ],
+    "updateCount": 75,
+    "isCurrentArroword": true
+  },
+  "רובה": {
+    "score": 10,
+    "clues": [
+      "most of it"
+    ],
+    "updateCount": 77,
     "isCurrentArroword": true
   }
 }
