@@ -37,7 +37,7 @@
       "lasso"
     ],
     "updateCount": 79,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "אביו": {
     "score": 10,
@@ -222,5 +222,29 @@
     ],
     "updateCount": 77,
     "isCurrentArroword": false
+  },
+  "המ": {
+    "score": 10,
+    "clues": [
+      "they"
+    ],
+    "updateCount": 86,
+    "isCurrentArroword": true
+  },
+  "קריאה": {
+    "score": 10,
+    "clues": [
+      "exclamation"
+    ],
+    "updateCount": 87,
+    "isCurrentArroword": true
+  },
+  "הכפיפה": {
+    "score": 10,
+    "clues": [
+      "subordinated"
+    ],
+    "updateCount": 90,
+    "isCurrentArroword": true
   }
 }
