@@ -253,7 +253,7 @@
       "they"
     ],
     "updateCount": 91,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "הודו": {
     "score": 10,
@@ -261,6 +261,22 @@
       "confessed"
     ],
     "updateCount": 95,
+    "isCurrentArroword": false
+  },
+  "ולרוס": {
+    "score": 10,
+    "clues": [
+      "walrus"
+    ],
+    "updateCount": 98,
+    "isCurrentArroword": true
+  },
+  "שהו": {
+    "score": 10,
+    "clues": [
+      "stayed"
+    ],
+    "updateCount": 99,
     "isCurrentArroword": true
   }
 }
