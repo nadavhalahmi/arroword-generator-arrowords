@@ -229,7 +229,7 @@
       "they"
     ],
     "updateCount": 86,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "קריאה": {
     "score": 10,
@@ -237,7 +237,7 @@
       "exclamation"
     ],
     "updateCount": 87,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "הכפיפה": {
     "score": 10,
@@ -245,6 +245,6 @@
       "subordinated"
     ],
     "updateCount": 90,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
