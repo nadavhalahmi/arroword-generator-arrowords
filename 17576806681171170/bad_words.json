@@ -246,5 +246,21 @@
     ],
     "updateCount": 90,
     "isCurrentArroword": false
+  },
+  "הנ": {
+    "score": 10,
+    "clues": [
+      "they"
+    ],
+    "updateCount": 91,
+    "isCurrentArroword": true
+  },
+  "הודו": {
+    "score": 10,
+    "clues": [
+      "confessed"
+    ],
+    "updateCount": 95,
+    "isCurrentArroword": true
   }
 }
