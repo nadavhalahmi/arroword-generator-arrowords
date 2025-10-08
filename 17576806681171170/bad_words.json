@@ -278,5 +278,29 @@
     ],
     "updateCount": 99,
     "isCurrentArroword": false
+  },
+  "לחמ": {
+    "score": 10,
+    "clues": [
+      "to bread"
+    ],
+    "updateCount": 108,
+    "isCurrentArroword": true
+  },
+  "תלו": {
+    "score": 10,
+    "clues": [
+      "hung"
+    ],
+    "updateCount": 109,
+    "isCurrentArroword": true
+  },
+  "שיווי לאזנ": {
+    "score": 10,
+    "clues": [
+      "balance"
+    ],
+    "updateCount": 110,
+    "isCurrentArroword": true
   }
 }
