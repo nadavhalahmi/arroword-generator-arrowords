@@ -285,7 +285,7 @@
       "to bread"
     ],
     "updateCount": 108,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "תלו": {
     "score": 10,
@@ -293,7 +293,7 @@
       "hung"
     ],
     "updateCount": 109,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "שיווי לאזנ": {
     "score": 10,
@@ -301,6 +301,14 @@
       "balance"
     ],
     "updateCount": 110,
+    "isCurrentArroword": false
+  },
+  "ליצנ": {
+    "score": 10,
+    "clues": [
+      "to buffoon"
+    ],
+    "updateCount": 112,
     "isCurrentArroword": true
   }
 }
