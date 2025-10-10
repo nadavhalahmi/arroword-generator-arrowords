@@ -333,6 +333,14 @@
       "trill"
     ],
     "updateCount": 119,
+    "isCurrentArroword": false
+  },
+  "ליגת": {
+    "score": 10,
+    "clues": [
+      "the league of"
+    ],
+    "updateCount": 121,
     "isCurrentArroword": true
   }
 }
