@@ -36,8 +36,8 @@
     "clues": [
       "lasso"
     ],
-    "updateCount": 79,
-    "isCurrentArroword": false
+    "updateCount": 116,
+    "isCurrentArroword": true
   },
   "אביו": {
     "score": 10,
@@ -309,6 +309,22 @@
       "to buffoon"
     ],
     "updateCount": 112,
+    "isCurrentArroword": false
+  },
+  "עשו": {
+    "score": 10,
+    "clues": [
+      "did"
+    ],
+    "updateCount": 115,
+    "isCurrentArroword": true
+  },
+  "למשפחה": {
+    "score": 10,
+    "clues": [
+      "to/for a family"
+    ],
+    "updateCount": 117,
     "isCurrentArroword": true
   }
 }
