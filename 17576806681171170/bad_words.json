@@ -37,7 +37,7 @@
       "lasso"
     ],
     "updateCount": 116,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "אביו": {
     "score": 10,
@@ -317,7 +317,7 @@
       "did"
     ],
     "updateCount": 115,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "למשפחה": {
     "score": 10,
@@ -325,6 +325,14 @@
       "to/for a family"
     ],
     "updateCount": 117,
+    "isCurrentArroword": false
+  },
+  "טריל": {
+    "score": 10,
+    "clues": [
+      "trill"
+    ],
+    "updateCount": 119,
     "isCurrentArroword": true
   }
 }
