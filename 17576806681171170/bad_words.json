@@ -341,6 +341,22 @@
       "the league of"
     ],
     "updateCount": 121,
+    "isCurrentArroword": false
+  },
+  "חסר אדיש": {
+    "score": 10,
+    "clues": [
+      "indifferent"
+    ],
+    "updateCount": 125,
+    "isCurrentArroword": true
+  },
+  "מתת": {
+    "score": 10,
+    "clues": [
+      "gift"
+    ],
+    "updateCount": 126,
     "isCurrentArroword": true
   }
 }
