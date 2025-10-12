@@ -1,0 +1,376 @@
+{
+  "num_rows": 10,
+  "num_cols": 10,
+  "comments": [
+    "Word usage summary by score:",
+    "Score 10: 5/40 words used (14.29% of puzzle, 12.50% of score group)",
+    "Score 9: 0/13 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 8: 2/7 words used (5.71% of puzzle, 28.57% of score group)",
+    "Score 7: 0/2 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 3: 0/1 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 1: 19/3316 words used (54.29% of puzzle, 0.57% of score group)",
+    "Score 0: 9/6711 words used (25.71% of puzzle, 0.13% of score group)",
+    "Total: 35/10090 words used"
+  ],
+  "clues": [
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "בריא",
+      "definition": "hale",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 9,
+      "solution": "עובש",
+      "definition": "mildew",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 0,
+      "solution": "כנ",
+      "definition": "sincere",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 9,
+      "clue_col": 0,
+      "solution": "נישא",
+      "definition": "got married",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 6,
+      "solution": "מסע",
+      "definition": "journey",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 8,
+      "clue_col": 4,
+      "solution": "לערוק",
+      "definition": "to defect",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "חפמפשע",
+      "definition": "innocuous",
+      "lengths": [
+        2,
+        4
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 5,
+      "clue_col": 0,
+      "solution": "רע",
+      "definition": "wicked",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 5,
+      "clue_col": 0,
+      "solution": "אלת",
+      "definition": "goddess of",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 1,
+      "solution": "קלמר",
+      "definition": "inkwell",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 5,
+      "solution": "וו",
+      "definition": "hook",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "למחואכפ",
+      "definition": "to applaud",
+      "lengths": [
+        5,
+        2
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "מאל",
+      "definition": "from a god",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 9,
+      "solution": "בקע",
+      "definition": "cranny",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 1,
+      "solution": "ימ",
+      "definition": "sea",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 1,
+      "solution": "ינקות",
+      "definition": "infancy",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 6,
+      "solution": "גרב",
+      "definition": "garter",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 2,
+      "solution": "בכלא",
+      "definition": "in prison",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 2,
+      "solution": "דשנ",
+      "definition": "fertilizer",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 7,
+      "solution": "גרמ",
+      "definition": "object",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 3,
+      "solution": "אל",
+      "definition": "deity",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 8,
+      "solution": "ולרוס",
+      "definition": "walrus",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "תביא",
+      "definition": "she will bring",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 1,
+      "solution": "נאלצו",
+      "definition": "were compelled",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "להעריכ",
+      "definition": "to prize",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 0,
+      "solution": "רדיפה",
+      "definition": "pursuit",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "מוצא",
+      "definition": "origin",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "כבש",
+      "definition": "gangway",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 5,
+      "solution": "צפונ",
+      "definition": "north",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 5,
+      "solution": "להלל",
+      "definition": "to celebrate",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 7,
+      "solution": "כפופ",
+      "definition": "subordinate",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 1,
+      "clue_col": 7,
+      "solution": "נע",
+      "definition": "moves",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "לצרפ",
+      "definition": "to annex",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "תא",
+      "definition": "cubicle",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 9,
+      "solution": "שעונ",
+      "definition": "watch",
+      "lengths": [
+        4
+      ]
+    }
+  ],
+  "mask_id": "mask_2",
+  "score_distribution": {
+    "10": 5,
+    "8": 2,
+    "1": 19,
+    "0": 9
+  }
+}
