@@ -374,5 +374,13 @@
     ],
     "updateCount": 138,
     "isCurrentArroword": false
+  },
+  "לכוח": {
+    "score": 10,
+    "clues": [
+      "to force"
+    ],
+    "updateCount": 148,
+    "isCurrentArroword": true
   }
 }
