@@ -365,6 +365,14 @@
       "[in] a wall"
     ],
     "updateCount": 132,
+    "isCurrentArroword": false
+  },
+  "השתמשה": {
+    "score": 10,
+    "clues": [
+      "used"
+    ],
+    "updateCount": 138,
     "isCurrentArroword": true
   }
 }
