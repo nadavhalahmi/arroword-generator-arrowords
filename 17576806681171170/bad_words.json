@@ -349,7 +349,7 @@
       "indifferent"
     ],
     "updateCount": 125,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "מתת": {
     "score": 10,
@@ -357,6 +357,14 @@
       "gift"
     ],
     "updateCount": 126,
+    "isCurrentArroword": false
+  },
+  "בקיר": {
+    "score": 10,
+    "clues": [
+      "[in] a wall"
+    ],
+    "updateCount": 132,
     "isCurrentArroword": true
   }
 }
