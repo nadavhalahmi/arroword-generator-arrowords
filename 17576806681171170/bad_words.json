@@ -381,6 +381,14 @@
       "to force"
     ],
     "updateCount": 148,
+    "isCurrentArroword": false
+  },
+  "גרב": {
+    "score": 10,
+    "clues": [
+      "garter"
+    ],
+    "updateCount": 151,
     "isCurrentArroword": true
   }
 }
