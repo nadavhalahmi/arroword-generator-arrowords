@@ -397,7 +397,7 @@
       "this"
     ],
     "updateCount": 158,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "האמנ": {
     "score": 10,
@@ -405,6 +405,6 @@
       "believe"
     ],
     "updateCount": 159,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
