@@ -390,5 +390,21 @@
     ],
     "updateCount": 151,
     "isCurrentArroword": false
+  },
+  "זו": {
+    "score": 10,
+    "clues": [
+      "this"
+    ],
+    "updateCount": 158,
+    "isCurrentArroword": true
+  },
+  "האמנ": {
+    "score": 10,
+    "clues": [
+      "believe"
+    ],
+    "updateCount": 159,
+    "isCurrentArroword": true
   }
 }
