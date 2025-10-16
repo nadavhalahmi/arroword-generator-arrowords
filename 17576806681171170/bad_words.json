@@ -446,5 +446,13 @@
     ],
     "updateCount": 182,
     "isCurrentArroword": false
+  },
+  "מכפ": {
+    "score": 10,
+    "clues": [
+      "from a spoon"
+    ],
+    "updateCount": 184,
+    "isCurrentArroword": true
   }
 }
