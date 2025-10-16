@@ -244,8 +244,8 @@
     "clues": [
       "subordinated"
     ],
-    "updateCount": 90,
-    "isCurrentArroword": false
+    "updateCount": 176,
+    "isCurrentArroword": true
   },
   "הנ": {
     "score": 10,
@@ -422,5 +422,13 @@
     ],
     "updateCount": 166,
     "isCurrentArroword": false
+  },
+  "במה": {
+    "score": 10,
+    "clues": [
+      "how"
+    ],
+    "updateCount": 173,
+    "isCurrentArroword": true
   }
 }
