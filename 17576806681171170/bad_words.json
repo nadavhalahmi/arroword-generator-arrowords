@@ -413,7 +413,7 @@
       "since"
     ],
     "updateCount": 165,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "אימפריאלי": {
     "score": 10,
@@ -421,6 +421,6 @@
       "imperial"
     ],
     "updateCount": 166,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
