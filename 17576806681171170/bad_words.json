@@ -406,5 +406,21 @@
     ],
     "updateCount": 159,
     "isCurrentArroword": false
+  },
+  "שהרי": {
+    "score": 10,
+    "clues": [
+      "since"
+    ],
+    "updateCount": 165,
+    "isCurrentArroword": true
+  },
+  "אימפריאלי": {
+    "score": 10,
+    "clues": [
+      "imperial"
+    ],
+    "updateCount": 166,
+    "isCurrentArroword": true
   }
 }
