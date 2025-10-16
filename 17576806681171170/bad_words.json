@@ -245,7 +245,7 @@
       "subordinated"
     ],
     "updateCount": 176,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "הנ": {
     "score": 10,
@@ -429,6 +429,22 @@
       "how"
     ],
     "updateCount": 173,
+    "isCurrentArroword": false
+  },
+  "תרמו": {
+    "score": 10,
+    "clues": [
+      "contributed"
+    ],
+    "updateCount": 179,
+    "isCurrentArroword": true
+  },
+  "במערכות": {
+    "score": 10,
+    "clues": [
+      "in the battles"
+    ],
+    "updateCount": 182,
     "isCurrentArroword": true
   }
 }
