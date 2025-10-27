@@ -461,6 +461,30 @@
       "thin"
     ],
     "updateCount": 186,
+    "isCurrentArroword": false
+  },
+  "ברור כמובנ": {
+    "score": 10,
+    "clues": [
+      "obviously"
+    ],
+    "updateCount": 188,
+    "isCurrentArroword": true
+  },
+  "עזבו": {
+    "score": 10,
+    "clues": [
+      "left"
+    ],
+    "updateCount": 190,
+    "isCurrentArroword": true
+  },
+  "דמי": {
+    "score": 10,
+    "clues": [
+      "the blood of"
+    ],
+    "updateCount": 194,
     "isCurrentArroword": true
   }
 }
