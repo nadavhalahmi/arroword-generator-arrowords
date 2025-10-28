@@ -284,8 +284,8 @@
     "clues": [
       "to bread"
     ],
-    "updateCount": 108,
-    "isCurrentArroword": false
+    "updateCount": 198,
+    "isCurrentArroword": true
   },
   "תלו": {
     "score": 10,
@@ -308,8 +308,8 @@
     "clues": [
       "to buffoon"
     ],
-    "updateCount": 112,
-    "isCurrentArroword": false
+    "updateCount": 196,
+    "isCurrentArroword": true
   },
   "עשו": {
     "score": 10,
@@ -469,7 +469,7 @@
       "obviously"
     ],
     "updateCount": 188,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "עזבו": {
     "score": 10,
@@ -477,7 +477,7 @@
       "left"
     ],
     "updateCount": 190,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "דמי": {
     "score": 10,
@@ -485,6 +485,14 @@
       "the blood of"
     ],
     "updateCount": 194,
+    "isCurrentArroword": false
+  },
+  "אגנוסטי": {
+    "score": 10,
+    "clues": [
+      "agnostic"
+    ],
+    "updateCount": 200,
     "isCurrentArroword": true
   }
 }
