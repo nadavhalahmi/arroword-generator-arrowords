@@ -285,7 +285,7 @@
       "to bread"
     ],
     "updateCount": 198,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "תלו": {
     "score": 10,
@@ -309,7 +309,7 @@
       "to buffoon"
     ],
     "updateCount": 196,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "עשו": {
     "score": 10,
@@ -493,6 +493,6 @@
       "agnostic"
     ],
     "updateCount": 200,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
