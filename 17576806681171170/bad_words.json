@@ -494,5 +494,29 @@
     ],
     "updateCount": 200,
     "isCurrentArroword": false
+  },
+  "לז": {
+    "score": 10,
+    "clues": [
+      "one"
+    ],
+    "updateCount": 204,
+    "isCurrentArroword": true
+  },
+  "עזבה": {
+    "score": 10,
+    "clues": [
+      "left"
+    ],
+    "updateCount": 205,
+    "isCurrentArroword": true
+  },
+  "אסיר להרשיע": {
+    "score": 10,
+    "clues": [
+      "convict"
+    ],
+    "updateCount": 206,
+    "isCurrentArroword": true
   }
 }
