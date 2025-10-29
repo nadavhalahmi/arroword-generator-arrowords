@@ -525,7 +525,7 @@
       "in a league"
     ],
     "updateCount": 207,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "רגלי": {
     "score": 10,
@@ -533,7 +533,7 @@
       "my leg"
     ],
     "updateCount": 208,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "קורות": {
     "score": 10,
@@ -541,6 +541,6 @@
       "history"
     ],
     "updateCount": 211,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
