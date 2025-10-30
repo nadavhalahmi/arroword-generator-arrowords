@@ -308,8 +308,8 @@
     "clues": [
       "to buffoon"
     ],
-    "updateCount": 196,
-    "isCurrentArroword": false
+    "updateCount": 226,
+    "isCurrentArroword": true
   },
   "עשו": {
     "score": 10,
@@ -557,6 +557,6 @@
       "upon my word"
     ],
     "updateCount": 224,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
