@@ -549,6 +549,14 @@
       "was/is caught"
     ],
     "updateCount": 223,
+    "isCurrentArroword": false
+  },
+  "בחיי": {
+    "score": 10,
+    "clues": [
+      "upon my word"
+    ],
+    "updateCount": 224,
     "isCurrentArroword": true
   }
 }
