@@ -542,5 +542,13 @@
     ],
     "updateCount": 211,
     "isCurrentArroword": false
+  },
+  "נתפש": {
+    "score": 10,
+    "clues": [
+      "was/is caught"
+    ],
+    "updateCount": 223,
+    "isCurrentArroword": true
   }
 }
