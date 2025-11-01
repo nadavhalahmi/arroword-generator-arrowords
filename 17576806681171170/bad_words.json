@@ -565,6 +565,30 @@
       "the people of"
     ],
     "updateCount": 229,
+    "isCurrentArroword": false
+  },
+  "ארסנל": {
+    "score": 10,
+    "clues": [
+      "arsenal"
+    ],
+    "updateCount": 233,
+    "isCurrentArroword": true
+  },
+  "כאלו": {
+    "score": 10,
+    "clues": [
+      "such"
+    ],
+    "updateCount": 234,
+    "isCurrentArroword": true
+  },
+  "פריה": {
+    "score": 10,
+    "clues": [
+      "its fruit"
+    ],
+    "updateCount": 237,
     "isCurrentArroword": true
   }
 }
