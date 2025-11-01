@@ -597,7 +597,7 @@
       "to them"
     ],
     "updateCount": 238,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "התנגדה": {
     "score": 10,
@@ -605,6 +605,14 @@
       "resisted"
     ],
     "updateCount": 245,
+    "isCurrentArroword": false
+  },
+  "שתוכננ": {
+    "score": 10,
+    "clues": [
+      "which content"
+    ],
+    "updateCount": 247,
     "isCurrentArroword": true
   }
 }
