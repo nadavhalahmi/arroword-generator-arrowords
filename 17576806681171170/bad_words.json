@@ -573,7 +573,7 @@
       "arsenal"
     ],
     "updateCount": 233,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "כאלו": {
     "score": 10,
@@ -581,7 +581,7 @@
       "such"
     ],
     "updateCount": 234,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "פריה": {
     "score": 10,
@@ -589,6 +589,22 @@
       "its fruit"
     ],
     "updateCount": 237,
+    "isCurrentArroword": false
+  },
+  "להנ": {
+    "score": 10,
+    "clues": [
+      "to them"
+    ],
+    "updateCount": 238,
+    "isCurrentArroword": true
+  },
+  "התנגדה": {
+    "score": 10,
+    "clues": [
+      "resisted"
+    ],
+    "updateCount": 245,
     "isCurrentArroword": true
   }
 }
