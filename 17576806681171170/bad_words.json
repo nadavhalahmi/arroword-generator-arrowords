@@ -309,7 +309,7 @@
       "to buffoon"
     ],
     "updateCount": 226,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "עשו": {
     "score": 10,
@@ -558,5 +558,13 @@
     ],
     "updateCount": 224,
     "isCurrentArroword": false
+  },
+  "אנשי": {
+    "score": 10,
+    "clues": [
+      "the people of"
+    ],
+    "updateCount": 229,
+    "isCurrentArroword": true
   }
 }
