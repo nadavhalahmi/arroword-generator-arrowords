@@ -389,7 +389,7 @@
       "garter"
     ],
     "updateCount": 256,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "זו": {
     "score": 10,
@@ -621,6 +621,22 @@
       "Capricorn"
     ],
     "updateCount": 253,
+    "isCurrentArroword": false
+  },
+  "כחודש": {
+    "score": 10,
+    "clues": [
+      "approximately one month"
+    ],
+    "updateCount": 260,
+    "isCurrentArroword": true
+  },
+  "קונפדרציה": {
+    "score": 10,
+    "clues": [
+      "confederation"
+    ],
+    "updateCount": 263,
     "isCurrentArroword": true
   }
 }
