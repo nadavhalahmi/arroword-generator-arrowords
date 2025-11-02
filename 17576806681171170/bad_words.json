@@ -629,7 +629,7 @@
       "approximately one month"
     ],
     "updateCount": 260,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "קונפדרציה": {
     "score": 10,
@@ -637,6 +637,6 @@
       "confederation"
     ],
     "updateCount": 263,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
