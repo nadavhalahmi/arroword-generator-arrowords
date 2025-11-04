@@ -284,8 +284,8 @@
     "clues": [
       "to bread"
     ],
-    "updateCount": 198,
-    "isCurrentArroword": false
+    "updateCount": 270,
+    "isCurrentArroword": true
   },
   "תלו": {
     "score": 10,
@@ -638,5 +638,21 @@
     ],
     "updateCount": 263,
     "isCurrentArroword": false
+  },
+  "מהכלל": {
+    "score": 10,
+    "clues": [
+      "of the rule"
+    ],
+    "updateCount": 271,
+    "isCurrentArroword": true
+  },
+  "כה": {
+    "score": 10,
+    "clues": [
+      "thither [hither and thither]"
+    ],
+    "updateCount": 276,
+    "isCurrentArroword": true
   }
 }
