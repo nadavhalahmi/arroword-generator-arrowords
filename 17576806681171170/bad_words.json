@@ -661,7 +661,7 @@
       "to afflicted with"
     ],
     "updateCount": 277,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "בתוואי": {
     "score": 10,
@@ -669,6 +669,22 @@
       "in a way"
     ],
     "updateCount": 283,
+    "isCurrentArroword": false
+  },
+  "כהנ": {
+    "score": 10,
+    "clues": [
+      "Cohen"
+    ],
+    "updateCount": 284,
+    "isCurrentArroword": true
+  },
+  "כאל": {
+    "score": 10,
+    "clues": [
+      "as to"
+    ],
+    "updateCount": 288,
     "isCurrentArroword": true
   }
 }
