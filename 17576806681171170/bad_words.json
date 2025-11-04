@@ -285,7 +285,7 @@
       "to bread"
     ],
     "updateCount": 270,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "תלו": {
     "score": 10,
@@ -645,7 +645,7 @@
       "of the rule"
     ],
     "updateCount": 271,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "כה": {
     "score": 10,
@@ -653,6 +653,22 @@
       "thither [hither and thither]"
     ],
     "updateCount": 276,
+    "isCurrentArroword": false
+  },
+  "לקתה ב": {
+    "score": 10,
+    "clues": [
+      "to afflicted with"
+    ],
+    "updateCount": 277,
+    "isCurrentArroword": true
+  },
+  "בתוואי": {
+    "score": 10,
+    "clues": [
+      "in a way"
+    ],
+    "updateCount": 283,
     "isCurrentArroword": true
   }
 }
