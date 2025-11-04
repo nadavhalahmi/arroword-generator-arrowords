@@ -686,5 +686,21 @@
     ],
     "updateCount": 288,
     "isCurrentArroword": false
+  },
+  "לא": {
+    "score": 10,
+    "clues": [
+      "if not"
+    ],
+    "updateCount": 293,
+    "isCurrentArroword": true
+  },
+  "מפלה": {
+    "score": 10,
+    "clues": [
+      "failure"
+    ],
+    "updateCount": 294,
+    "isCurrentArroword": true
   }
 }
