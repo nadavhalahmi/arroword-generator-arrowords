@@ -1,0 +1,369 @@
+{
+  "num_rows": 10,
+  "num_cols": 10,
+  "comments": [
+    "Word usage summary by score:",
+    "Score 10: 2/70 words used (5.88% of puzzle, 2.86% of score group)",
+    "Score 9: 0/23 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 8: 0/13 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 7: 2/7 words used (5.88% of puzzle, 28.57% of score group)",
+    "Score 6: 0/3 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 5: 0/1 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 2: 0/1 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 1: 21/3265 words used (61.76% of puzzle, 0.64% of score group)",
+    "Score 0: 9/6707 words used (26.47% of puzzle, 0.13% of score group)",
+    "Total: 34/10090 words used"
+  ],
+  "clues": [
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "לב",
+      "definition": "heart",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "להשתתפבצער",
+      "definition": "to commiserate",
+      "lengths": [
+        6,
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 9,
+      "solution": "רעד",
+      "definition": "tremor",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 0,
+      "solution": "בחשאי",
+      "definition": "stealthily",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 8,
+      "solution": "חירות",
+      "definition": "liberty",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 4,
+      "clue_col": 8,
+      "solution": "חש",
+      "definition": "felt",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 1,
+      "solution": "לקתהב",
+      "definition": "to afflicted with",
+      "lengths": [
+        4,
+        1
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 7,
+      "solution": "רובד",
+      "definition": "stratum",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "שוויונ",
+      "definition": "equality",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "נהג",
+      "definition": "chauffeur",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 6,
+      "solution": "מעל",
+      "definition": "above",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 3,
+      "solution": "בתוואי",
+      "definition": "in a way",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 3,
+      "solution": "תפר",
+      "definition": "stitch",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "צבוע",
+      "definition": "hyena",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "דומשמעי",
+      "definition": "ambiguous",
+      "lengths": [
+        2,
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 9,
+      "solution": "שמרני",
+      "definition": "conservative",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 6,
+      "solution": "ורד",
+      "definition": "rose",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 4,
+      "clue_col": 0,
+      "solution": "שלו",
+      "definition": "serene",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "ורוד",
+      "definition": "pink",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 8,
+      "clue_col": 4,
+      "solution": "עלבונ",
+      "definition": "affront",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 4,
+      "solution": "מעורר",
+      "definition": "exciting",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "אולר",
+      "definition": "penknife",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 3,
+      "solution": "ימ",
+      "definition": "sea",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 3,
+      "solution": "הגיש",
+      "definition": "served",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 4,
+      "solution": "שמרימ",
+      "definition": "yeast",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 7,
+      "clue_col": 0,
+      "solution": "בהאי",
+      "definition": "Bahai",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 6,
+      "solution": "דתי",
+      "definition": "devout",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "בגופו",
+      "definition": "in/with his body",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 8,
+      "solution": "לצבור",
+      "definition": "to amass",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 8,
+      "solution": "עור",
+      "definition": "skin",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 7,
+      "clue_col": 2,
+      "solution": "אח",
+      "definition": "brother",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "קנה",
+      "definition": "reed",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "אל",
+      "definition": "deity",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "אבצ",
+      "definition": "zinc",
+      "lengths": [
+        3
+      ]
+    }
+  ],
+  "mask_id": "mask_5",
+  "score_distribution": {
+    "10": 2,
+    "0": 9,
+    "1": 21,
+    "7": 2
+  }
+}
