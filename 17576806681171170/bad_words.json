@@ -693,7 +693,7 @@
       "if not"
     ],
     "updateCount": 293,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "מפלה": {
     "score": 10,
@@ -701,6 +701,22 @@
       "failure"
     ],
     "updateCount": 294,
+    "isCurrentArroword": false
+  },
+  "מני": {
+    "score": 10,
+    "clues": [
+      "from"
+    ],
+    "updateCount": 300,
+    "isCurrentArroword": true
+  },
+  "חצו": {
+    "score": 10,
+    "clues": [
+      "crossed"
+    ],
+    "updateCount": 301,
     "isCurrentArroword": true
   }
 }
