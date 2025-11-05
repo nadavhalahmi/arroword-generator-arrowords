@@ -718,5 +718,37 @@
     ],
     "updateCount": 301,
     "isCurrentArroword": false
+  },
+  "מנת": {
+    "score": 10,
+    "clues": [
+      "a portion of"
+    ],
+    "updateCount": 308,
+    "isCurrentArroword": true
+  },
+  "הציעה": {
+    "score": 10,
+    "clues": [
+      "offered"
+    ],
+    "updateCount": 310,
+    "isCurrentArroword": true
+  },
+  "התישבה": {
+    "score": 10,
+    "clues": [
+      "settled"
+    ],
+    "updateCount": 311,
+    "isCurrentArroword": true
+  },
+  "לכמוה": {
+    "score": 10,
+    "clues": [
+      "to yearn"
+    ],
+    "updateCount": 315,
+    "isCurrentArroword": true
   }
 }
