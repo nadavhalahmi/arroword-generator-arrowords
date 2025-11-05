@@ -709,7 +709,7 @@
       "from"
     ],
     "updateCount": 300,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "חצו": {
     "score": 10,
@@ -717,6 +717,6 @@
       "crossed"
     ],
     "updateCount": 301,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
