@@ -725,7 +725,7 @@
       "a portion of"
     ],
     "updateCount": 308,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "הציעה": {
     "score": 10,
@@ -733,7 +733,7 @@
       "offered"
     ],
     "updateCount": 310,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "התישבה": {
     "score": 10,
@@ -741,7 +741,7 @@
       "settled"
     ],
     "updateCount": 311,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לכמוה": {
     "score": 10,
@@ -749,6 +749,6 @@
       "to yearn"
     ],
     "updateCount": 315,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
