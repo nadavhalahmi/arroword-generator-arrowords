@@ -750,5 +750,37 @@
     ],
     "updateCount": 315,
     "isCurrentArroword": false
+  },
+  "תמכה": {
+    "score": 10,
+    "clues": [
+      "supported"
+    ],
+    "updateCount": 323,
+    "isCurrentArroword": true
+  },
+  "ירו": {
+    "score": 10,
+    "clues": [
+      "fired"
+    ],
+    "updateCount": 324,
+    "isCurrentArroword": true
+  },
+  "פורח": {
+    "score": 10,
+    "clues": [
+      "prosperous"
+    ],
+    "updateCount": 325,
+    "isCurrentArroword": true
+  },
+  "באר": {
+    "score": 10,
+    "clues": [
+      "well"
+    ],
+    "updateCount": 327,
+    "isCurrentArroword": true
   }
 }
