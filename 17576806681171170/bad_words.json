@@ -806,5 +806,29 @@
     ],
     "updateCount": 340,
     "isCurrentArroword": false
+  },
+  "כתובה": {
+    "score": 10,
+    "clues": [
+      "Jewish marriage contract"
+    ],
+    "updateCount": 342,
+    "isCurrentArroword": true
+  },
+  "בהיותו": {
+    "score": 10,
+    "clues": [
+      "as he"
+    ],
+    "updateCount": 344,
+    "isCurrentArroword": true
+  },
+  "ראייה לעומק": {
+    "score": 10,
+    "clues": [
+      "perception"
+    ],
+    "updateCount": 348,
+    "isCurrentArroword": true
   }
 }
