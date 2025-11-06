@@ -789,6 +789,22 @@
       "who wrote"
     ],
     "updateCount": 335,
+    "isCurrentArroword": false
+  },
+  "יאמר": {
+    "score": 10,
+    "clues": [
+      "he said"
+    ],
+    "updateCount": 339,
+    "isCurrentArroword": true
+  },
+  "להקה": {
+    "score": 10,
+    "clues": [
+      "to band"
+    ],
+    "updateCount": 340,
     "isCurrentArroword": true
   }
 }
