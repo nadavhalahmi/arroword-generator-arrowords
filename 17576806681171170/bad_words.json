@@ -797,7 +797,7 @@
       "he said"
     ],
     "updateCount": 339,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "להקה": {
     "score": 10,
@@ -805,6 +805,6 @@
       "to band"
     ],
     "updateCount": 340,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
