@@ -116,8 +116,8 @@
     "clues": [
       "if"
     ],
-    "updateCount": 29,
-    "isCurrentArroword": false
+    "updateCount": 353,
+    "isCurrentArroword": true
   },
   "השמ": {
     "score": 10,
@@ -813,7 +813,7 @@
       "Jewish marriage contract"
     ],
     "updateCount": 342,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "בהיותו": {
     "score": 10,
@@ -821,7 +821,7 @@
       "as he"
     ],
     "updateCount": 344,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ראייה לעומק": {
     "score": 10,
@@ -829,6 +829,22 @@
       "perception"
     ],
     "updateCount": 348,
+    "isCurrentArroword": false
+  },
+  "למפלגה": {
+    "score": 10,
+    "clues": [
+      "to/for the parties"
+    ],
+    "updateCount": 351,
+    "isCurrentArroword": true
+  },
+  "הרי": {
+    "score": 10,
+    "clues": [
+      "here is"
+    ],
+    "updateCount": 355,
     "isCurrentArroword": true
   }
 }
