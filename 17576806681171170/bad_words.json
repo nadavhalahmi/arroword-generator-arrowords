@@ -757,7 +757,7 @@
       "supported"
     ],
     "updateCount": 323,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ירו": {
     "score": 10,
@@ -765,7 +765,7 @@
       "fired"
     ],
     "updateCount": 324,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "פורח": {
     "score": 10,
@@ -773,7 +773,7 @@
       "prosperous"
     ],
     "updateCount": 325,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "באר": {
     "score": 10,
@@ -781,6 +781,14 @@
       "well"
     ],
     "updateCount": 327,
+    "isCurrentArroword": false
+  },
+  "שחיבר": {
+    "score": 10,
+    "clues": [
+      "who wrote"
+    ],
+    "updateCount": 335,
     "isCurrentArroword": true
   }
 }
