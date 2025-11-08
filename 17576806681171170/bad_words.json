@@ -117,7 +117,7 @@
       "if"
     ],
     "updateCount": 353,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "השמ": {
     "score": 10,
@@ -476,8 +476,8 @@
     "clues": [
       "left"
     ],
-    "updateCount": 190,
-    "isCurrentArroword": false
+    "updateCount": 356,
+    "isCurrentArroword": true
   },
   "דמי": {
     "score": 10,
@@ -837,7 +837,7 @@
       "to/for the parties"
     ],
     "updateCount": 351,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "הרי": {
     "score": 10,
@@ -845,6 +845,14 @@
       "here is"
     ],
     "updateCount": 355,
+    "isCurrentArroword": false
+  },
+  "דיינ": {
+    "score": 10,
+    "clues": [
+      "judge"
+    ],
+    "updateCount": 360,
     "isCurrentArroword": true
   }
 }
