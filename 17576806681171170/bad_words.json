@@ -285,7 +285,7 @@
       "to bread"
     ],
     "updateCount": 363,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "תלו": {
     "score": 10,
@@ -308,8 +308,8 @@
     "clues": [
       "to buffoon"
     ],
-    "updateCount": 226,
-    "isCurrentArroword": false
+    "updateCount": 369,
+    "isCurrentArroword": true
   },
   "עשו": {
     "score": 10,
@@ -861,6 +861,38 @@
       "counted"
     ],
     "updateCount": 361,
+    "isCurrentArroword": false
+  },
+  "ובאותו": {
+    "score": 10,
+    "clues": [
+      "in/at the same"
+    ],
+    "updateCount": 367,
+    "isCurrentArroword": true
+  },
+  "דגי": {
+    "score": 10,
+    "clues": [
+      "fish of"
+    ],
+    "updateCount": 368,
+    "isCurrentArroword": true
+  },
+  "העלו": {
+    "score": 10,
+    "clues": [
+      "lifted"
+    ],
+    "updateCount": 370,
+    "isCurrentArroword": true
+  },
+  "איזו": {
+    "score": 10,
+    "clues": [
+      "what"
+    ],
+    "updateCount": 377,
     "isCurrentArroword": true
   }
 }
