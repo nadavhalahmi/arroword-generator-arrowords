@@ -284,8 +284,8 @@
     "clues": [
       "to bread"
     ],
-    "updateCount": 270,
-    "isCurrentArroword": false
+    "updateCount": 363,
+    "isCurrentArroword": true
   },
   "תלו": {
     "score": 10,
@@ -477,7 +477,7 @@
       "left"
     ],
     "updateCount": 356,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "דמי": {
     "score": 10,
@@ -853,6 +853,14 @@
       "judge"
     ],
     "updateCount": 360,
+    "isCurrentArroword": false
+  },
+  "מנו": {
+    "score": 10,
+    "clues": [
+      "counted"
+    ],
+    "updateCount": 361,
     "isCurrentArroword": true
   }
 }
