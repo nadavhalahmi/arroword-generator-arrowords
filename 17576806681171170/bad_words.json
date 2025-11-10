@@ -309,7 +309,7 @@
       "to buffoon"
     ],
     "updateCount": 369,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "עשו": {
     "score": 10,
@@ -588,8 +588,8 @@
     "clues": [
       "its fruit"
     ],
-    "updateCount": 237,
-    "isCurrentArroword": false
+    "updateCount": 378,
+    "isCurrentArroword": true
   },
   "להנ": {
     "score": 10,
@@ -869,7 +869,7 @@
       "in/at the same"
     ],
     "updateCount": 367,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "דגי": {
     "score": 10,
@@ -877,7 +877,7 @@
       "fish of"
     ],
     "updateCount": 368,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "העלו": {
     "score": 10,
@@ -885,7 +885,7 @@
       "lifted"
     ],
     "updateCount": 370,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "איזו": {
     "score": 10,
@@ -893,6 +893,14 @@
       "what"
     ],
     "updateCount": 377,
+    "isCurrentArroword": false
+  },
+  "בפי": {
+    "score": 10,
+    "clues": [
+      "in the mouth of"
+    ],
+    "updateCount": 379,
     "isCurrentArroword": true
   }
 }
