@@ -902,5 +902,29 @@
     ],
     "updateCount": 379,
     "isCurrentArroword": false
+  },
+  "מות": {
+    "score": 10,
+    "clues": [
+      "the death of"
+    ],
+    "updateCount": 382,
+    "isCurrentArroword": true
+  },
+  "יפימ": {
+    "score": 10,
+    "clues": [
+      "good"
+    ],
+    "updateCount": 384,
+    "isCurrentArroword": true
+  },
+  "יקרה": {
+    "score": 10,
+    "clues": [
+      "prestige"
+    ],
+    "updateCount": 387,
+    "isCurrentArroword": true
   }
 }
