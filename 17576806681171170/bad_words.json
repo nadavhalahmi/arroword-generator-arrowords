@@ -909,7 +909,7 @@
       "the death of"
     ],
     "updateCount": 382,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "יפימ": {
     "score": 10,
@@ -917,7 +917,7 @@
       "good"
     ],
     "updateCount": 384,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "יקרה": {
     "score": 10,
@@ -925,6 +925,14 @@
       "prestige"
     ],
     "updateCount": 387,
+    "isCurrentArroword": false
+  },
+  "מהמינ": {
+    "score": 10,
+    "clues": [
+      "from the gender"
+    ],
+    "updateCount": 389,
     "isCurrentArroword": true
   }
 }
