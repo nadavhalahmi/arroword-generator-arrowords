@@ -933,6 +933,14 @@
       "from the gender"
     ],
     "updateCount": 389,
+    "isCurrentArroword": false
+  },
+  "כבנ": {
+    "score": 10,
+    "clues": [
+      "as a son"
+    ],
+    "updateCount": 396,
     "isCurrentArroword": true
   }
 }
