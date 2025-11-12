@@ -949,7 +949,7 @@
       "can you?"
     ],
     "updateCount": 403,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "אינתיפאדת": {
     "score": 10,
@@ -957,6 +957,22 @@
       "Intifada of"
     ],
     "updateCount": 405,
+    "isCurrentArroword": false
+  },
+  "בר": {
+    "score": 10,
+    "clues": [
+      "son"
+    ],
+    "updateCount": 406,
+    "isCurrentArroword": true
+  },
+  "סרתי": {
+    "score": 10,
+    "clues": [
+      "I dropped in"
+    ],
+    "updateCount": 409,
     "isCurrentArroword": true
   }
 }
