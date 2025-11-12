@@ -941,6 +941,22 @@
       "as a son"
     ],
     "updateCount": 396,
+    "isCurrentArroword": false
+  },
+  "היכול": {
+    "score": 10,
+    "clues": [
+      "can you?"
+    ],
+    "updateCount": 403,
+    "isCurrentArroword": true
+  },
+  "אינתיפאדת": {
+    "score": 10,
+    "clues": [
+      "Intifada of"
+    ],
+    "updateCount": 405,
     "isCurrentArroword": true
   }
 }
