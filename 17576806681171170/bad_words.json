@@ -981,7 +981,7 @@
       "give"
     ],
     "updateCount": 412,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "באבו": {
     "score": 10,
@@ -989,7 +989,7 @@
       "at a tender age"
     ],
     "updateCount": 413,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "דימוי": {
     "score": 10,
@@ -997,7 +997,7 @@
       "simile"
     ],
     "updateCount": 415,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "מקאברי": {
     "score": 10,
@@ -1005,6 +1005,14 @@
       "macabre"
     ],
     "updateCount": 416,
+    "isCurrentArroword": false
+  },
+  "הס": {
+    "score": 10,
+    "clues": [
+      "quite"
+    ],
+    "updateCount": 419,
     "isCurrentArroword": true
   }
 }
