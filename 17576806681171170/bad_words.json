@@ -965,7 +965,7 @@
       "son"
     ],
     "updateCount": 406,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "סרתי": {
     "score": 10,
@@ -973,6 +973,38 @@
       "I dropped in"
     ],
     "updateCount": 409,
+    "isCurrentArroword": false
+  },
+  "תנו": {
+    "score": 10,
+    "clues": [
+      "give"
+    ],
+    "updateCount": 412,
+    "isCurrentArroword": true
+  },
+  "באבו": {
+    "score": 10,
+    "clues": [
+      "at a tender age"
+    ],
+    "updateCount": 413,
+    "isCurrentArroword": true
+  },
+  "דימוי": {
+    "score": 10,
+    "clues": [
+      "simile"
+    ],
+    "updateCount": 415,
+    "isCurrentArroword": true
+  },
+  "מקאברי": {
+    "score": 10,
+    "clues": [
+      "macabre"
+    ],
+    "updateCount": 416,
     "isCurrentArroword": true
   }
 }
