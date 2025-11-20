@@ -1045,7 +1045,7 @@
       "to stress"
     ],
     "updateCount": 440,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "באות": {
     "score": 10,
@@ -1053,6 +1053,22 @@
       "come"
     ],
     "updateCount": 442,
+    "isCurrentArroword": false
+  },
+  "בצלחתי": {
+    "score": 10,
+    "clues": [
+      "in my plate"
+    ],
+    "updateCount": 445,
+    "isCurrentArroword": true
+  },
+  "בעצמ": {
+    "score": 10,
+    "clues": [
+      "in a bone"
+    ],
+    "updateCount": 446,
     "isCurrentArroword": true
   }
 }
