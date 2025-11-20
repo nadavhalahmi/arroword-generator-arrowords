@@ -1021,7 +1021,7 @@
       "my people"
     ],
     "updateCount": 428,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "שאחד": {
     "score": 10,
@@ -1029,6 +1029,14 @@
       "that one"
     ],
     "updateCount": 430,
+    "isCurrentArroword": false
+  },
+  "יעשו": {
+    "score": 10,
+    "clues": [
+      "will do"
+    ],
+    "updateCount": 438,
     "isCurrentArroword": true
   }
 }
