@@ -1037,6 +1037,22 @@
       "will do"
     ],
     "updateCount": 438,
+    "isCurrentArroword": false
+  },
+  "לחצ": {
+    "score": 10,
+    "clues": [
+      "to stress"
+    ],
+    "updateCount": 440,
+    "isCurrentArroword": true
+  },
+  "באות": {
+    "score": 10,
+    "clues": [
+      "come"
+    ],
+    "updateCount": 442,
     "isCurrentArroword": true
   }
 }
