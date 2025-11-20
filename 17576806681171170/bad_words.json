@@ -1014,5 +1014,21 @@
     ],
     "updateCount": 419,
     "isCurrentArroword": false
+  },
+  "עמי": {
+    "score": 10,
+    "clues": [
+      "my people"
+    ],
+    "updateCount": 428,
+    "isCurrentArroword": true
+  },
+  "שאחד": {
+    "score": 10,
+    "clues": [
+      "that one"
+    ],
+    "updateCount": 430,
+    "isCurrentArroword": true
   }
 }
