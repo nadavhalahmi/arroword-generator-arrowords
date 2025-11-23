@@ -1061,7 +1061,7 @@
       "in my plate"
     ],
     "updateCount": 445,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "בעצמ": {
     "score": 10,
@@ -1069,6 +1069,14 @@
       "in a bone"
     ],
     "updateCount": 446,
+    "isCurrentArroword": false
+  },
+  "בתהליכי": {
+    "score": 10,
+    "clues": [
+      "in processes of"
+    ],
+    "updateCount": 448,
     "isCurrentArroword": true
   }
 }
