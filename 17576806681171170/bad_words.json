@@ -1077,6 +1077,30 @@
       "in processes of"
     ],
     "updateCount": 448,
+    "isCurrentArroword": false
+  },
+  "המבוססת": {
+    "score": 10,
+    "clues": [
+      "the well established"
+    ],
+    "updateCount": 450,
+    "isCurrentArroword": true
+  },
+  "שאיפשר": {
+    "score": 10,
+    "clues": [
+      "that enabled"
+    ],
+    "updateCount": 451,
+    "isCurrentArroword": true
+  },
+  "ובראשנ": {
+    "score": 10,
+    "clues": [
+      "led by"
+    ],
+    "updateCount": 456,
     "isCurrentArroword": true
   }
 }
