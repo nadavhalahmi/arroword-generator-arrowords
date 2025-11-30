@@ -1085,7 +1085,7 @@
       "the well established"
     ],
     "updateCount": 450,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "שאיפשר": {
     "score": 10,
@@ -1093,7 +1093,7 @@
       "that enabled"
     ],
     "updateCount": 451,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ובראשנ": {
     "score": 10,
@@ -1101,6 +1101,6 @@
       "led by"
     ],
     "updateCount": 456,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
