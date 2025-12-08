@@ -1133,6 +1133,30 @@
       "attache"
     ],
     "updateCount": 466,
+    "isCurrentArroword": false
+  },
+  "אלי": {
+    "score": 10,
+    "clues": [
+      "to me"
+    ],
+    "updateCount": 470,
+    "isCurrentArroword": true
+  },
+  "יצרו": {
+    "score": 10,
+    "clues": [
+      "made"
+    ],
+    "updateCount": 471,
+    "isCurrentArroword": true
+  },
+  "אזי": {
+    "score": 10,
+    "clues": [
+      "then"
+    ],
+    "updateCount": 472,
     "isCurrentArroword": true
   }
 }
