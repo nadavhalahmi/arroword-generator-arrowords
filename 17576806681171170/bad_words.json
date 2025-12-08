@@ -1102,5 +1102,29 @@
     ],
     "updateCount": 456,
     "isCurrentArroword": false
+  },
+  "ששכנה": {
+    "score": 10,
+    "clues": [
+      "that/who lived"
+    ],
+    "updateCount": 463,
+    "isCurrentArroword": true
+  },
+  "עצרה": {
+    "score": 10,
+    "clues": [
+      "arrested"
+    ],
+    "updateCount": 464,
+    "isCurrentArroword": true
+  },
+  "ישנה": {
+    "score": 10,
+    "clues": [
+      "there is"
+    ],
+    "updateCount": 465,
+    "isCurrentArroword": true
   }
 }
