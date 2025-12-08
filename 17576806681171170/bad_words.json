@@ -1109,7 +1109,7 @@
       "that/who lived"
     ],
     "updateCount": 463,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "עצרה": {
     "score": 10,
@@ -1117,7 +1117,7 @@
       "arrested"
     ],
     "updateCount": 464,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ישנה": {
     "score": 10,
@@ -1125,6 +1125,14 @@
       "there is"
     ],
     "updateCount": 465,
+    "isCurrentArroword": false
+  },
+  "אטשה": {
+    "score": 10,
+    "clues": [
+      "attache"
+    ],
+    "updateCount": 466,
     "isCurrentArroword": true
   }
 }
