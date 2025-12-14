@@ -1181,7 +1181,7 @@
       "clapper"
     ],
     "updateCount": 485,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "בגבעת": {
     "score": 10,
@@ -1189,6 +1189,14 @@
       "on the hill of"
     ],
     "updateCount": 487,
+    "isCurrentArroword": false
+  },
+  "בואה": {
+    "score": 10,
+    "clues": [
+      "advent"
+    ],
+    "updateCount": 491,
     "isCurrentArroword": true
   }
 }
