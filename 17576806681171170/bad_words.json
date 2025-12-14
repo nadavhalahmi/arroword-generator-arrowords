@@ -349,7 +349,7 @@
       "indifferent"
     ],
     "updateCount": 475,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "מתת": {
     "score": 10,
@@ -1044,8 +1044,8 @@
     "clues": [
       "to stress"
     ],
-    "updateCount": 440,
-    "isCurrentArroword": false
+    "updateCount": 479,
+    "isCurrentArroword": true
   },
   "באות": {
     "score": 10,
@@ -1165,6 +1165,14 @@
       "Koran"
     ],
     "updateCount": 473,
+    "isCurrentArroword": false
+  },
+  "יהודיימ": {
+    "score": 10,
+    "clues": [
+      "Jewish"
+    ],
+    "updateCount": 478,
     "isCurrentArroword": true
   }
 }
