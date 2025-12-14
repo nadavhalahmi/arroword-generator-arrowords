@@ -348,8 +348,8 @@
     "clues": [
       "indifferent"
     ],
-    "updateCount": 125,
-    "isCurrentArroword": false
+    "updateCount": 475,
+    "isCurrentArroword": true
   },
   "מתת": {
     "score": 10,
@@ -1141,7 +1141,7 @@
       "to me"
     ],
     "updateCount": 470,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "יצרו": {
     "score": 10,
@@ -1149,7 +1149,7 @@
       "made"
     ],
     "updateCount": 471,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "אזי": {
     "score": 10,
@@ -1157,6 +1157,14 @@
       "then"
     ],
     "updateCount": 472,
+    "isCurrentArroword": false
+  },
+  "קוראנ": {
+    "score": 10,
+    "clues": [
+      "Koran"
+    ],
+    "updateCount": 473,
     "isCurrentArroword": true
   }
 }
