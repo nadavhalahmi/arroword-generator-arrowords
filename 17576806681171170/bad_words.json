@@ -1045,7 +1045,7 @@
       "to stress"
     ],
     "updateCount": 479,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "באות": {
     "score": 10,
@@ -1173,6 +1173,22 @@
       "Jewish"
     ],
     "updateCount": 478,
+    "isCurrentArroword": false
+  },
+  "עפעפונ": {
+    "score": 10,
+    "clues": [
+      "clapper"
+    ],
+    "updateCount": 485,
+    "isCurrentArroword": true
+  },
+  "בגבעת": {
+    "score": 10,
+    "clues": [
+      "on the hill of"
+    ],
+    "updateCount": 487,
     "isCurrentArroword": true
   }
 }
