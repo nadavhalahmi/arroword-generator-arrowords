@@ -868,8 +868,8 @@
     "clues": [
       "in/at the same"
     ],
-    "updateCount": 367,
-    "isCurrentArroword": false
+    "updateCount": 502,
+    "isCurrentArroword": true
   },
   "דגי": {
     "score": 10,
@@ -1198,5 +1198,13 @@
     ],
     "updateCount": 491,
     "isCurrentArroword": false
+  },
+  "למד": {
+    "score": 10,
+    "clues": [
+      "teach"
+    ],
+    "updateCount": 499,
+    "isCurrentArroword": true
   }
 }
