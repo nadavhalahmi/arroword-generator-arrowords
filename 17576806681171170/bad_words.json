@@ -348,8 +348,8 @@
     "clues": [
       "indifferent"
     ],
-    "updateCount": 475,
-    "isCurrentArroword": false
+    "updateCount": 508,
+    "isCurrentArroword": true
   },
   "מתת": {
     "score": 10,
@@ -692,8 +692,8 @@
     "clues": [
       "if not"
     ],
-    "updateCount": 293,
-    "isCurrentArroword": false
+    "updateCount": 511,
+    "isCurrentArroword": true
   },
   "מפלה": {
     "score": 10,
@@ -1206,5 +1206,21 @@
     ],
     "updateCount": 499,
     "isCurrentArroword": false
+  },
+  "לאחת": {
+    "score": 10,
+    "clues": [
+      "to/for one"
+    ],
+    "updateCount": 507,
+    "isCurrentArroword": true
+  },
+  "לחיי": {
+    "score": 10,
+    "clues": [
+      "to the life of"
+    ],
+    "updateCount": 512,
+    "isCurrentArroword": true
   }
 }
