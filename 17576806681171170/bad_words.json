@@ -1229,7 +1229,7 @@
       "what are"
     ],
     "updateCount": 513,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "מכמ": {
     "score": 10,
@@ -1237,6 +1237,6 @@
       "from you"
     ],
     "updateCount": 514,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
