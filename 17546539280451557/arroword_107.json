@@ -1,0 +1,383 @@
+{
+  "num_rows": 10,
+  "num_cols": 10,
+  "comments": [
+    "Word usage summary by score:",
+    "Score 10: 4/81 words used (11.43% of puzzle, 4.94% of score group)",
+    "Score 9: 1/64 words used (2.86% of puzzle, 1.56% of score group)",
+    "Score 8: 1/22 words used (2.86% of puzzle, 4.55% of score group)",
+    "Score 7: 0/18 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 6: 0/14 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 5: 1/5 words used (2.86% of puzzle, 20.00% of score group)",
+    "Score 4: 1/8 words used (2.86% of puzzle, 12.50% of score group)",
+    "Score 3: 1/1 words used (2.86% of puzzle, 100.00% of score group)",
+    "Score 2: 0/2 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 1: 13/3175 words used (37.14% of puzzle, 0.41% of score group)",
+    "Score 0: 13/7925 words used (37.14% of puzzle, 0.16% of score group)",
+    "Total: 35/11315 words used"
+  ],
+  "clues": [
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "פנימ",
+      "definition": "countenance",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 9,
+      "solution": "קורא",
+      "definition": "reader",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 0,
+      "solution": "רב",
+      "definition": "copious",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 9,
+      "clue_col": 0,
+      "solution": "אורנ",
+      "definition": "pine",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 6,
+      "solution": "פתח",
+      "definition": "aperture",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 8,
+      "clue_col": 4,
+      "solution": "פעלול",
+      "definition": "stunt",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "שהובאו",
+      "definition": "that were brought",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 5,
+      "clue_col": 0,
+      "solution": "עט",
+      "definition": "swooped down",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 5,
+      "clue_col": 0,
+      "solution": "מלט",
+      "definition": "cement",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 1,
+      "solution": "נלהב",
+      "definition": "ardent",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 5,
+      "solution": "מר",
+      "definition": "bitter",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "להשוויצ",
+      "definition": "flaunt",
+      "lengths": [
+        7
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "דגל",
+      "definition": "flag",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 9,
+      "solution": "הלח",
+      "definition": "the humid",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 1,
+      "solution": "הד",
+      "definition": "reverberation",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 1,
+      "solution": "המנדט",
+      "definition": "the mandate",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 6,
+      "solution": "קמה",
+      "definition": "stood up",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 2,
+      "solution": "קיומ",
+      "definition": "subsistence",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 2,
+      "solution": "ערב",
+      "definition": "guarantor",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 7,
+      "solution": "קלפ",
+      "definition": "parchmnent",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 3,
+      "solution": "בכ",
+      "definition": "in you",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 8,
+      "solution": "שלמות",
+      "definition": "entirety",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "בקרנ",
+      "definition": "[in] a bugle",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 1,
+      "solution": "מגלימ",
+      "definition": "discovers",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "לאטהור",
+      "definition": "impure",
+      "lengths": [
+        2,
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 0,
+      "solution": "הערצה",
+      "definition": "adoration",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "ומשמ",
+      "definition": "and from there",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "קרנ",
+      "definition": "beam",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 5,
+      "solution": "שנשא",
+      "definition": "that/who carried",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 5,
+      "solution": "והפכ",
+      "definition": "and turned",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 7,
+      "solution": "קברנ",
+      "definition": "undertaker",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 1,
+      "clue_col": 7,
+      "solution": "רק",
+      "definition": "mere",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "חיבה",
+      "definition": "endearment",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "בו",
+      "definition": "in him",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 9,
+      "solution": "נורא",
+      "definition": "atrocious",
+      "lengths": [
+        4
+      ]
+    }
+  ],
+  "mask_id": "mask_2",
+  "score_distribution": {
+    "5": 1,
+    "0": 13,
+    "9": 1,
+    "10": 4,
+    "1": 13,
+    "8": 1,
+    "4": 1,
+    "3": 1
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "num_rows": 10,
+  "num_cols": 10,
+  "comments": [
+    "Word usage summary by score:",
+    "Score 10: 6/84 words used (16.22% of puzzle, 7.14% of score group)",
+    "Score 9: 1/53 words used (2.70% of puzzle, 1.89% of score group)",
+    "Score 8: 3/27 words used (8.11% of puzzle, 11.11% of score group)",
+    "Score 7: 0/13 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 6: 1/13 words used (2.70% of puzzle, 7.69% of score group)",
+    "Score 5: 1/4 words used (2.70% of puzzle, 25.00% of score group)",
+    "Score 4: 0/5 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 3: 2/4 words used (5.41% of puzzle, 50.00% of score group)",
+    "Score 2: 0/1 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 1: 15/3189 words used (40.54% of puzzle, 0.47% of score group)",
+    "Score 0: 8/7922 words used (21.62% of puzzle, 0.10% of score group)",
+    "Total: 37/11315 words used"
+  ],
+  "clues": [
+    {
+      "direction": "down-right",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "צורמ",
+      "definition": "discordant",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "צי",
+      "definition": "armada",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 9,
+      "solution": "פיקח",
+      "definition": "shrewd",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 9,
+      "clue_col": 0,
+      "solution": "רובד",
+      "definition": "stratum",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 6,
+      "solution": "ספיר",
+      "definition": "countable",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 6,
+      "solution": "לח",
+      "definition": "humid",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 1,
+      "solution": "עלמה",
+      "definition": "damsel",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 5,
+      "solution": "פגיע",
+      "definition": "vulnerable",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 2,
+      "solution": "לבלב",
+      "definition": "pancreas",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 9,
+      "solution": "רעמה",
+      "definition": "mane",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "פה",
+      "definition": "here",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 8,
+      "clue_col": 4,
+      "solution": "אי",
+      "definition": "island",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "חתכ",
+      "definition": "gash",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "ממלכה",
+      "definition": "realm",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 5,
+      "solution": "רחבה",
+      "definition": "wide",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 4,
+      "solution": "יסעור",
+      "definition": "albatross",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 4,
+      "solution": "סמ",
+      "definition": "drug",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 1,
+      "solution": "תנור",
+      "definition": "furnace",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 8,
+      "solution": "מחוייב",
+      "definition": "liable",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 8,
+      "solution": "מח",
+      "definition": "marrow",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "רעד",
+      "definition": "shudder",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "וו",
+      "definition": "hook",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 3,
+      "clue_col": 7,
+      "solution": "רבי",
+      "definition": "my rabbi",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 7,
+      "solution": "לעג",
+      "definition": "derision",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 5,
+      "clue_col": 3,
+      "solution": "הודה",
+      "definition": "thanked",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "דל",
+      "definition": "scarce",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 4,
+      "solution": "מאוס",
+      "definition": "odious",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 8,
+      "clue_col": 7,
+      "solution": "ימ",
+      "definition": "sea",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 5,
+      "solution": "לצרפ",
+      "definition": "annex",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 2,
+      "solution": "רב",
+      "definition": "considerable",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 4,
+      "clue_col": 1,
+      "solution": "נדכא",
+      "definition": "destitute",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 5,
+      "solution": "דמי",
+      "definition": "the blood of",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 0,
+      "solution": "נלהב",
+      "definition": "ardent",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 7,
+      "clue_col": 0,
+      "solution": "כתב",
+      "definition": "correspondent",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "הדר",
+      "definition": "citrus",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 7,
+      "solution": "ערב",
+      "definition": "guarantor",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 7,
+      "solution": "צר",
+      "definition": "narrow",
+      "lengths": [
+        2
+      ]
+    }
+  ],
+  "mask_id": "mask_0",
+  "score_distribution": {
+    "5": 1,
+    "0": 8,
+    "9": 1,
+    "10": 6,
+    "1": 15,
+    "8": 3,
+    "3": 2,
+    "6": 1
+  }
+}

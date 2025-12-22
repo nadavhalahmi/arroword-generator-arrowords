@@ -37,6 +37,110 @@
       "as a Caesar"
     ],
     "updateCount": 19,
+    "isCurrentArroword": false
+  },
+  "האנושי": {
+    "score": 10,
+    "clues": [
+      "the humane"
+    ],
+    "updateCount": 33,
+    "isCurrentArroword": false
+  },
+  "ושל": {
+    "score": 10,
+    "clues": [
+      "and of"
+    ],
+    "updateCount": 36,
+    "isCurrentArroword": false
+  },
+  "מגיעימ": {
+    "score": 10,
+    "clues": [
+      "deserve"
+    ],
+    "updateCount": 45,
+    "isCurrentArroword": false
+  },
+  "המקרא": {
+    "score": 10,
+    "clues": [
+      "the legend"
+    ],
+    "updateCount": 46,
+    "isCurrentArroword": false
+  },
+  "החתול": {
+    "score": 10,
+    "clues": [
+      "the cat"
+    ],
+    "updateCount": 47,
+    "isCurrentArroword": false
+  },
+  "לכנסייה": {
+    "score": 10,
+    "clues": [
+      "to the church"
+    ],
+    "updateCount": 56,
+    "isCurrentArroword": false
+  },
+  "ישנימ": {
+    "score": 10,
+    "clues": [
+      "sleeping"
+    ],
+    "updateCount": 57,
+    "isCurrentArroword": false
+  },
+  "ואמנות": {
+    "score": 10,
+    "clues": [
+      "and art"
+    ],
+    "updateCount": 60,
+    "isCurrentArroword": false
+  },
+  "סגלגל": {
+    "score": 10,
+    "clues": [
+      "oval"
+    ],
+    "updateCount": 61,
+    "isCurrentArroword": false
+  },
+  "ויינ": {
+    "score": 10,
+    "clues": [
+      "and wine"
+    ],
+    "updateCount": 86,
+    "isCurrentArroword": false
+  },
+  "הנהו": {
+    "score": 10,
+    "clues": [
+      "here he is"
+    ],
+    "updateCount": 94,
+    "isCurrentArroword": false
+  },
+  "וחימוש": {
+    "score": 10,
+    "clues": [
+      "and armament"
+    ],
+    "updateCount": 134,
+    "isCurrentArroword": false
+  },
+  "האוכל": {
+    "score": 10,
+    "clues": [
+      "the food"
+    ],
+    "updateCount": 135,
     "isCurrentArroword": true
   }
 }

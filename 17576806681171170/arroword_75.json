@@ -1,0 +1,370 @@
+{
+  "num_rows": 10,
+  "num_cols": 10,
+  "comments": [
+    "Word usage summary by score:",
+    "Score 10: 1/75 words used (2.94% of puzzle, 1.33% of score group)",
+    "Score 9: 0/39 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 8: 1/15 words used (2.94% of puzzle, 6.67% of score group)",
+    "Score 7: 1/7 words used (2.94% of puzzle, 14.29% of score group)",
+    "Score 6: 0/2 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 5: 0/5 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 4: 0/1 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 2: 0/1 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 1: 21/3239 words used (61.76% of puzzle, 0.65% of score group)",
+    "Score 0: 10/6706 words used (29.41% of puzzle, 0.15% of score group)",
+    "Total: 34/10090 words used"
+  ],
+  "clues": [
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "רע",
+      "definition": "wicked",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "ראייהלעומק",
+      "definition": "perception",
+      "lengths": [
+        5,
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 9,
+      "solution": "קסמ",
+      "definition": "fascination",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 0,
+      "solution": "החלטי",
+      "definition": "assertive",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 8,
+      "solution": "כתובה",
+      "definition": "Jewish marriage contract",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 4,
+      "clue_col": 8,
+      "solution": "ככ",
+      "definition": "so",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 1,
+      "solution": "תנועה",
+      "definition": "motion",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 7,
+      "solution": "בלשנ",
+      "definition": "linguist",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "יקרערכ",
+      "definition": "precious",
+      "lengths": [
+        3,
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "לאי",
+      "definition": "to an island",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 6,
+      "solution": "שיח",
+      "definition": "discourse",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 3,
+      "solution": "בהיותו",
+      "definition": "as he",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 3,
+      "solution": "ירכ",
+      "definition": "thigh",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "הרוס",
+      "definition": "dilapidated",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "שוויוני",
+      "definition": "egalitarian",
+      "lengths": [
+        7
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 9,
+      "solution": "כינור",
+      "definition": "fiddle",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 6,
+      "solution": "כתמ",
+      "definition": "blemish",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 4,
+      "clue_col": 0,
+      "solution": "כתר",
+      "definition": "tiara",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "רכוש",
+      "definition": "possession",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 8,
+      "clue_col": 4,
+      "solution": "נחשבו",
+      "definition": "were considered",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 4,
+      "solution": "וילונ",
+      "definition": "curtain",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "תותב",
+      "definition": "prosthetic",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 3,
+      "solution": "וו",
+      "definition": "hook",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 3,
+      "solution": "הטיל",
+      "definition": "projected",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 4,
+      "solution": "ישבתי",
+      "definition": "I sat",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 7,
+      "clue_col": 0,
+      "solution": "נעמי",
+      "definition": "ostrich",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 6,
+      "solution": "נהר",
+      "definition": "river",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "עיקרי",
+      "definition": "chief",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 8,
+      "solution": "מורכב",
+      "definition": "composite",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 8,
+      "solution": "מות",
+      "definition": "the death of",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 7,
+      "clue_col": 2,
+      "solution": "מח",
+      "definition": "marrow",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "נכה",
+      "definition": "handicapped",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "שמ",
+      "definition": "renowned",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "שעה",
+      "definition": "hour",
+      "lengths": [
+        3
+      ]
+    }
+  ],
+  "mask_id": "mask_5",
+  "score_distribution": {
+    "8": 1,
+    "10": 1,
+    "0": 10,
+    "1": 21,
+    "7": 1
+  }
+}

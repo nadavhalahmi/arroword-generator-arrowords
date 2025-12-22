@@ -1,0 +1,366 @@
+{
+  "num_rows": 10,
+  "num_cols": 10,
+  "comments": [
+    "Word usage summary by score:",
+    "Score 10: 1/17 words used (2.94% of puzzle, 5.88% of score group)",
+    "Score 9: 1/7 words used (2.94% of puzzle, 14.29% of score group)",
+    "Score 7: 0/1 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 5: 1/1 words used (2.94% of puzzle, 100.00% of score group)",
+    "Score 1: 15/3350 words used (44.12% of puzzle, 0.45% of score group)",
+    "Score 0: 16/6714 words used (47.06% of puzzle, 0.24% of score group)",
+    "Total: 34/10090 words used"
+  ],
+  "clues": [
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "מח",
+      "definition": "marrow",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "משימלאכותי",
+      "definition": "rayon",
+      "lengths": [
+        3,
+        7
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 9,
+      "solution": "ירח",
+      "definition": "moon",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 0,
+      "solution": "הפגינ",
+      "definition": "demonstrated",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 8,
+      "solution": "ילידי",
+      "definition": "aboriginal",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 4,
+      "clue_col": 8,
+      "solution": "ימ",
+      "definition": "sea",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 1,
+      "solution": "מחלבה",
+      "definition": "dairy",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 7,
+      "solution": "ורוד",
+      "definition": "pink",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "יקרערכ",
+      "definition": "precious",
+      "lengths": [
+        3,
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "ישר",
+      "definition": "straight",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 6,
+      "solution": "יחס",
+      "definition": "ratio",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 3,
+      "solution": "אלמוגי",
+      "definition": "the corals of",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 3,
+      "solution": "מיצ",
+      "definition": "juice",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "לשפר",
+      "definition": "to enhance",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "נישואינ",
+      "definition": "matrimony",
+      "lengths": [
+        7
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 9,
+      "solution": "מהמינ",
+      "definition": "from the species",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 6,
+      "solution": "מלח",
+      "definition": "brine",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 4,
+      "clue_col": 0,
+      "solution": "צמר",
+      "definition": "wool",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "רצונ",
+      "definition": "will",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 8,
+      "clue_col": 4,
+      "solution": "יסודי",
+      "definition": "fundamental",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 4,
+      "solution": "אחרימ",
+      "definition": "other",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "גילד",
+      "definition": "guild",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 3,
+      "solution": "יש",
+      "definition": "there is",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 3,
+      "solution": "מנהג",
+      "definition": "custom",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 4,
+      "solution": "ויולה",
+      "definition": "viola",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 7,
+      "clue_col": 0,
+      "solution": "שבאה",
+      "definition": "that/who is coming",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 6,
+      "solution": "דינ",
+      "definition": "sentence",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "חרקימ",
+      "definition": "insects",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 8,
+      "solution": "הושמד",
+      "definition": "was exterminated",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 8,
+      "solution": "תפל",
+      "definition": "corny",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 7,
+      "clue_col": 2,
+      "solution": "אפ",
+      "definition": "even",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "חכמ",
+      "definition": "scholar",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "לה",
+      "definition": "to her",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "לכל",
+      "definition": "to all",
+      "lengths": [
+        3
+      ]
+    }
+  ],
+  "mask_id": "mask_5",
+  "score_distribution": {
+    "9": 1,
+    "10": 1,
+    "5": 1,
+    "1": 15,
+    "0": 16
+  }
+}

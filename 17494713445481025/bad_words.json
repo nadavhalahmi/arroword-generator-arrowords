@@ -1,0 +1,18 @@
+{
+  "בשעה ש בעוד": {
+    "score": 10,
+    "clues": [
+      "whereas"
+    ],
+    "updateCount": 1,
+    "isCurrentArroword": false
+  },
+  "לשתות": {
+    "score": 10,
+    "clues": [
+      "drink"
+    ],
+    "updateCount": 12,
+    "isCurrentArroword": true
+  }
+}
