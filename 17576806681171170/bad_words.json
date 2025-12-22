@@ -1238,5 +1238,13 @@
     ],
     "updateCount": 514,
     "isCurrentArroword": false
+  },
+  "דאז": {
+    "score": 10,
+    "clues": [
+      "then"
+    ],
+    "updateCount": 523,
+    "isCurrentArroword": true
   }
 }
