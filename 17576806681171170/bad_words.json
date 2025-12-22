@@ -333,7 +333,7 @@
       "trill"
     ],
     "updateCount": 526,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ליגת": {
     "score": 10,
@@ -652,8 +652,8 @@
     "clues": [
       "thither [hither and thither]"
     ],
-    "updateCount": 276,
-    "isCurrentArroword": false
+    "updateCount": 534,
+    "isCurrentArroword": true
   },
   "לקתה ב": {
     "score": 10,
@@ -1196,8 +1196,8 @@
     "clues": [
       "advent"
     ],
-    "updateCount": 491,
-    "isCurrentArroword": false
+    "updateCount": 531,
+    "isCurrentArroword": true
   },
   "למד": {
     "score": 10,
@@ -1246,5 +1246,29 @@
     ],
     "updateCount": 523,
     "isCurrentArroword": false
+  },
+  "היוו": {
+    "score": 10,
+    "clues": [
+      "were"
+    ],
+    "updateCount": 530,
+    "isCurrentArroword": true
+  },
+  "חש": {
+    "score": 10,
+    "clues": [
+      "rushed"
+    ],
+    "updateCount": 532,
+    "isCurrentArroword": true
+  },
+  "סיירת": {
+    "score": 10,
+    "clues": [
+      "cruiser"
+    ],
+    "updateCount": 533,
+    "isCurrentArroword": true
   }
 }
