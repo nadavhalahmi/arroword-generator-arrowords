@@ -332,8 +332,8 @@
     "clues": [
       "trill"
     ],
-    "updateCount": 119,
-    "isCurrentArroword": false
+    "updateCount": 526,
+    "isCurrentArroword": true
   },
   "ליגת": {
     "score": 10,
@@ -1245,6 +1245,6 @@
       "then"
     ],
     "updateCount": 523,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
