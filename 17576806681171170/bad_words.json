@@ -652,7 +652,7 @@
     "clues": [
       "thither [hither and thither]"
     ],
-    "updateCount": 534,
+    "updateCount": 538,
     "isCurrentArroword": true
   },
   "לקתה ב": {
@@ -1197,7 +1197,7 @@
       "advent"
     ],
     "updateCount": 531,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "למד": {
     "score": 10,
@@ -1253,7 +1253,7 @@
       "were"
     ],
     "updateCount": 530,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "חש": {
     "score": 10,
@@ -1261,7 +1261,7 @@
       "rushed"
     ],
     "updateCount": 532,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "סיירת": {
     "score": 10,
@@ -1269,6 +1269,14 @@
       "cruiser"
     ],
     "updateCount": 533,
+    "isCurrentArroword": false
+  },
+  "בהר": {
+    "score": 10,
+    "clues": [
+      "[on] the mountain"
+    ],
+    "updateCount": 537,
     "isCurrentArroword": true
   }
 }
