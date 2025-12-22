@@ -1278,5 +1278,13 @@
     ],
     "updateCount": 537,
     "isCurrentArroword": false
+  },
+  "שיוכל": {
+    "score": 10,
+    "clues": [
+      "that he will be able"
+    ],
+    "updateCount": 540,
+    "isCurrentArroword": true
   }
 }
