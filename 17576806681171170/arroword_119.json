@@ -1,0 +1,401 @@
+{
+  "num_rows": 10,
+  "num_cols": 10,
+  "comments": [
+    "Word usage summary by score:",
+    "Score 10: 4/71 words used (10.81% of puzzle, 5.63% of score group)",
+    "Score 9: 1/67 words used (2.70% of puzzle, 1.49% of score group)",
+    "Score 8: 1/21 words used (2.70% of puzzle, 4.76% of score group)",
+    "Score 7: 2/10 words used (5.41% of puzzle, 20.00% of score group)",
+    "Score 6: 1/6 words used (2.70% of puzzle, 16.67% of score group)",
+    "Score 5: 1/9 words used (2.70% of puzzle, 11.11% of score group)",
+    "Score 4: 0/2 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 3: 0/3 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 1: 20/3134 words used (54.05% of puzzle, 0.64% of score group)",
+    "Score 0: 7/6462 words used (18.92% of puzzle, 0.11% of score group)",
+    "Total: 37/9785 words used"
+  ],
+  "clues": [
+    {
+      "direction": "down-right",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "אורנ",
+      "definition": "pine",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "אח",
+      "definition": "brother",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 9,
+      "solution": "הרוס",
+      "definition": "dilapidated",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 9,
+      "clue_col": 0,
+      "solution": "אמרו",
+      "definition": "said",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 6,
+      "solution": "נעמי",
+      "definition": "ostrich",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 6,
+      "solution": "גל",
+      "definition": "wave",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 1,
+      "solution": "אישה",
+      "definition": "wife",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 5,
+      "solution": "עיונ",
+      "definition": "consideration",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 2,
+      "solution": "מוזר",
+      "definition": "odd",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 9,
+      "solution": "פנקס",
+      "definition": "ledger",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "דל",
+      "definition": "scarce",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 8,
+      "clue_col": 4,
+      "solution": "סמ",
+      "definition": "drug",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "שלמ",
+      "definition": "intact",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "עניינ",
+      "definition": "affair",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 5,
+      "solution": "יימס",
+      "definition": "will dissolve",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 4,
+      "solution": "לנזופ",
+      "definition": "to reprimand",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 4,
+      "solution": "לב",
+      "definition": "heart",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 1,
+      "solution": "קלמר",
+      "definition": "inkwell",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 8,
+      "solution": "מלווימ",
+      "definition": "escort",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 8,
+      "solution": "מס",
+      "definition": "tax",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "ראש",
+      "definition": "head",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "זו",
+      "definition": "this",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 3,
+      "clue_col": 7,
+      "solution": "קצר",
+      "definition": "terse",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 7,
+      "solution": "גזי",
+      "definition": "gaseous",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 5,
+      "clue_col": 3,
+      "solution": "נוזל",
+      "definition": "fluid",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "עצ",
+      "definition": "timber",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 4,
+      "solution": "שקול",
+      "definition": "sensible",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 8,
+      "clue_col": 7,
+      "solution": "יק",
+      "definition": "yak",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 5,
+      "solution": "צדפה",
+      "definition": "oyster",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 2,
+      "solution": "כת",
+      "definition": "sect",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 4,
+      "clue_col": 1,
+      "solution": "משיק",
+      "definition": "tangent",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 5,
+      "solution": "זבל",
+      "definition": "manure",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 0,
+      "solution": "לזמנ",
+      "definition": "to summon",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 7,
+      "clue_col": 0,
+      "solution": "מקו",
+      "definition": "from a line",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "מוכ",
+      "definition": "lint",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 7,
+      "solution": "נפצ",
+      "definition": "detonator",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 7,
+      "solution": "דק",
+      "definition": "slender",
+      "lengths": [
+        2
+      ]
+    }
+  ],
+  "mask_id": "mask_0",
+  "score_distribution": {
+    "8": 1,
+    "9": 1,
+    "0": 7,
+    "10": 4,
+    "1": 20,
+    "6": 1,
+    "7": 2,
+    "5": 1
+  }
+}
