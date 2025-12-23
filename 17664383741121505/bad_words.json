@@ -29,7 +29,7 @@
       "in a cell"
     ],
     "updateCount": 12,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "חטיבת": {
     "score": 10,
@@ -37,6 +37,38 @@
       "the brigade of"
     ],
     "updateCount": 13,
+    "isCurrentArroword": false
+  },
+  "שעסקו": {
+    "score": 10,
+    "clues": [
+      "that/who worked"
+    ],
+    "updateCount": 17,
+    "isCurrentArroword": true
+  },
+  "ראשו": {
+    "score": 10,
+    "clues": [
+      "his head"
+    ],
+    "updateCount": 18,
+    "isCurrentArroword": true
+  },
+  "במשא": {
+    "score": 10,
+    "clues": [
+      "[in] a burden"
+    ],
+    "updateCount": 19,
+    "isCurrentArroword": true
+  },
+  "האלוהימ": {
+    "score": 10,
+    "clues": [
+      "God"
+    ],
+    "updateCount": 20,
     "isCurrentArroword": true
   }
 }
