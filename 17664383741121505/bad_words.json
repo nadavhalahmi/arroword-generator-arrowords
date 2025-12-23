@@ -22,5 +22,21 @@
     ],
     "updateCount": 5,
     "isCurrentArroword": false
+  },
+  "בתא": {
+    "score": 10,
+    "clues": [
+      "in a cell"
+    ],
+    "updateCount": 12,
+    "isCurrentArroword": true
+  },
+  "חטיבת": {
+    "score": 10,
+    "clues": [
+      "the brigade of"
+    ],
+    "updateCount": 13,
+    "isCurrentArroword": true
   }
 }
