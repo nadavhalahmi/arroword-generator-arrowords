@@ -5,7 +5,7 @@
       "that/who stayed"
     ],
     "updateCount": 2,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "בכפ": {
     "score": 10,
@@ -13,7 +13,7 @@
       "with a spoon"
     ],
     "updateCount": 3,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "משלי": {
     "score": 10,
@@ -21,6 +21,6 @@
       "of mine"
     ],
     "updateCount": 5,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
