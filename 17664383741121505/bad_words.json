@@ -1,0 +1,26 @@
+{
+  "ששהו": {
+    "score": 10,
+    "clues": [
+      "that/who stayed"
+    ],
+    "updateCount": 2,
+    "isCurrentArroword": true
+  },
+  "בכפ": {
+    "score": 10,
+    "clues": [
+      "with a spoon"
+    ],
+    "updateCount": 3,
+    "isCurrentArroword": true
+  },
+  "משלי": {
+    "score": 10,
+    "clues": [
+      "of mine"
+    ],
+    "updateCount": 5,
+    "isCurrentArroword": true
+  }
+}
