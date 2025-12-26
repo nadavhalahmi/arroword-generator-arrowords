@@ -77,6 +77,30 @@
       "forth"
     ],
     "updateCount": 22,
+    "isCurrentArroword": false
+  },
+  "לתוכו": {
+    "score": 10,
+    "clues": [
+      "into him/it"
+    ],
+    "updateCount": 24,
+    "isCurrentArroword": true
+  },
+  "רגע": {
+    "score": 10,
+    "clues": [
+      "second"
+    ],
+    "updateCount": 25,
+    "isCurrentArroword": true
+  },
+  "שכללו": {
+    "score": 10,
+    "clues": [
+      "that included"
+    ],
+    "updateCount": 28,
     "isCurrentArroword": true
   }
 }
