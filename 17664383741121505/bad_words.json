@@ -45,7 +45,7 @@
       "that/who worked"
     ],
     "updateCount": 17,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ראשו": {
     "score": 10,
@@ -53,7 +53,7 @@
       "his head"
     ],
     "updateCount": 18,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "במשא": {
     "score": 10,
@@ -61,7 +61,7 @@
       "[in] a burden"
     ],
     "updateCount": 19,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "האלוהימ": {
     "score": 10,
@@ -69,6 +69,14 @@
       "God"
     ],
     "updateCount": 20,
+    "isCurrentArroword": false
+  },
+  "הלוכ": {
+    "score": 10,
+    "clues": [
+      "forth"
+    ],
+    "updateCount": 22,
     "isCurrentArroword": true
   }
 }
