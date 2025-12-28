@@ -85,7 +85,7 @@
       "into him/it"
     ],
     "updateCount": 24,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "רגע": {
     "score": 10,
@@ -93,7 +93,7 @@
       "second"
     ],
     "updateCount": 25,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "שכללו": {
     "score": 10,
@@ -101,6 +101,14 @@
       "that included"
     ],
     "updateCount": 28,
+    "isCurrentArroword": false
+  },
+  "היתר": {
+    "score": 10,
+    "clues": [
+      "the rest"
+    ],
+    "updateCount": 29,
     "isCurrentArroword": true
   }
 }
