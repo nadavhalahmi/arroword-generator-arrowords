@@ -5,7 +5,7 @@
       "his bread"
     ],
     "updateCount": 1,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "במגדל": {
     "score": 10,
@@ -13,6 +13,6 @@
       "in a tower"
     ],
     "updateCount": 2,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
