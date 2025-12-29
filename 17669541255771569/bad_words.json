@@ -1,0 +1,18 @@
+{
+  "לחמו": {
+    "score": 10,
+    "clues": [
+      "his bread"
+    ],
+    "updateCount": 1,
+    "isCurrentArroword": true
+  },
+  "במגדל": {
+    "score": 10,
+    "clues": [
+      "in a tower"
+    ],
+    "updateCount": 2,
+    "isCurrentArroword": true
+  }
+}
