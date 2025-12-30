@@ -21,7 +21,7 @@
       "in a sea"
     ],
     "updateCount": 7,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "באמצעי": {
     "score": 10,
@@ -29,7 +29,7 @@
       "in the middlemost"
     ],
     "updateCount": 8,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "לאו": {
     "score": 10,
@@ -37,7 +37,7 @@
       "no"
     ],
     "updateCount": 9,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "במינו": {
     "score": 10,
@@ -45,6 +45,14 @@
       "in his kind"
     ],
     "updateCount": 10,
+    "isCurrentArroword": false
+  },
+  "בחדר": {
+    "score": 10,
+    "clues": [
+      "in the room"
+    ],
+    "updateCount": 11,
     "isCurrentArroword": true
   }
 }
