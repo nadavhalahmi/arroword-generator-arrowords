@@ -1,0 +1,421 @@
+{
+  "num_rows": 10,
+  "num_cols": 10,
+  "comments": [
+    "Word usage summary by score:",
+    "Score 10: 2/7 words used (5.00% of puzzle, 28.57% of score group)",
+    "Score 9: 1/1 words used (2.50% of puzzle, 100.00% of score group)",
+    "Score 1: 25/3302 words used (62.50% of puzzle, 0.76% of score group)",
+    "Score 0: 12/6472 words used (30.00% of puzzle, 0.19% of score group)",
+    "Total: 40/9782 words used"
+  ],
+  "clues": [
+    {
+      "direction": "down-right",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "ארסי",
+      "definition": "venomous",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "אירע",
+      "definition": "happened",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 9,
+      "solution": "מסחר",
+      "definition": "commerce",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 9,
+      "solution": "ניחוש",
+      "definition": "guess",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 0,
+      "solution": "גזי",
+      "definition": "gaseous",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 4,
+      "solution": "התרחש",
+      "definition": "happened",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 8,
+      "clue_col": 4,
+      "solution": "בוז",
+      "definition": "scorn",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 8,
+      "solution": "חנ",
+      "definition": "grace",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 9,
+      "solution": "פרוש",
+      "definition": "outspread",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 7,
+      "clue_col": 7,
+      "solution": "זר",
+      "definition": "garland",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 7,
+      "clue_col": 7,
+      "solution": "אות",
+      "definition": "omen",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 5,
+      "clue_col": 0,
+      "solution": "עצמאי",
+      "definition": "maverick",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 0,
+      "solution": "רלוונטי",
+      "definition": "pertinent",
+      "lengths": [
+        7
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 8,
+      "clue_col": 0,
+      "solution": "עבר",
+      "definition": "crossed",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 8,
+      "clue_col": 0,
+      "solution": "גל",
+      "definition": "billow",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 2,
+      "solution": "מלא",
+      "definition": "fraught",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 1,
+      "solution": "מח",
+      "definition": "marrow",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 1,
+      "solution": "מסע",
+      "definition": "journey",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "צר",
+      "definition": "narrow",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 8,
+      "clue_col": 8,
+      "solution": "נר",
+      "definition": "candle",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 5,
+      "solution": "נכתבה",
+      "definition": "was written",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 5,
+      "solution": "אושר",
+      "definition": "bliss",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 7,
+      "solution": "שינויי",
+      "definition": "changes of",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "יחס",
+      "definition": "ratio",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 6,
+      "clue_col": 1,
+      "solution": "דג",
+      "definition": "fish",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 1,
+      "solution": "לעג",
+      "definition": "derision",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "חיו",
+      "definition": "lived",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 7,
+      "clue_col": 2,
+      "solution": "אורכ",
+      "definition": "span",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 7,
+      "clue_col": 2,
+      "solution": "בז",
+      "definition": "falcon",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "אווירי",
+      "definition": "aerial",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "צב",
+      "definition": "tortoise",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 6,
+      "solution": "נוח",
+      "definition": "comfortable",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 6,
+      "solution": "אט",
+      "definition": "slowly",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 6,
+      "solution": "יחפ",
+      "definition": "barefoot",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 4,
+      "solution": "תא",
+      "definition": "cubicle",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 1,
+      "solution": "עובש",
+      "definition": "mildew",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "זו",
+      "definition": "this",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "עשב",
+      "definition": "herb",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 4,
+      "solution": "בציור",
+      "definition": "in a painting",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 4,
+      "solution": "עושימ",
+      "definition": "do",
+      "lengths": [
+        5
+      ]
+    }
+  ],
+  "mask_id": "mask_6",
+  "score_distribution": {
+    "10": 2,
+    "9": 1,
+    "1": 25,
+    "0": 12
+  }
+}
