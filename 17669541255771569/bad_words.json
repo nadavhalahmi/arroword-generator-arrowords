@@ -53,6 +53,14 @@
       "in the room"
     ],
     "updateCount": 11,
+    "isCurrentArroword": false
+  },
+  "שתהיה": {
+    "score": 10,
+    "clues": [
+      "that you will be"
+    ],
+    "updateCount": 13,
     "isCurrentArroword": true
   }
 }
