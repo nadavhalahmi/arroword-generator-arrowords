@@ -69,7 +69,7 @@
       "in a painting"
     ],
     "updateCount": 17,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "שינויי": {
     "score": 10,
@@ -77,6 +77,22 @@
       "changes of"
     ],
     "updateCount": 18,
+    "isCurrentArroword": false
+  },
+  "לקו": {
+    "score": 10,
+    "clues": [
+      "to/for a line"
+    ],
+    "updateCount": 22,
+    "isCurrentArroword": true
+  },
+  "לסגת": {
+    "score": 10,
+    "clues": [
+      "back down"
+    ],
+    "updateCount": 23,
     "isCurrentArroword": true
   }
 }
