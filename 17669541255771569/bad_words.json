@@ -61,6 +61,22 @@
       "that you will be"
     ],
     "updateCount": 13,
+    "isCurrentArroword": false
+  },
+  "בציור": {
+    "score": 10,
+    "clues": [
+      "in a painting"
+    ],
+    "updateCount": 17,
+    "isCurrentArroword": true
+  },
+  "שינויי": {
+    "score": 10,
+    "clues": [
+      "changes of"
+    ],
+    "updateCount": 18,
     "isCurrentArroword": true
   }
 }
