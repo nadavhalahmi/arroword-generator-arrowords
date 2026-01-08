@@ -5,7 +5,7 @@
       "his tender years"
     ],
     "updateCount": 1,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "מתושבי": {
     "score": 10,
@@ -13,7 +13,7 @@
       "from the residents of"
     ],
     "updateCount": 2,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "כובע": {
     "score": 10,
@@ -21,7 +21,7 @@
       "fez"
     ],
     "updateCount": 4,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "תושבי": {
     "score": 10,
@@ -29,6 +29,6 @@
       "the residents of"
     ],
     "updateCount": 6,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
