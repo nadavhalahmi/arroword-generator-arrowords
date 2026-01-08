@@ -30,5 +30,13 @@
     ],
     "updateCount": 6,
     "isCurrentArroword": false
+  },
+  "בפרס": {
+    "score": 10,
+    "clues": [
+      "[win] the prize"
+    ],
+    "updateCount": 21,
+    "isCurrentArroword": true
   }
 }
