@@ -38,5 +38,21 @@
     ],
     "updateCount": 21,
     "isCurrentArroword": false
+  },
+  "בבקר": {
+    "score": 10,
+    "clues": [
+      "in the morning"
+    ],
+    "updateCount": 30,
+    "isCurrentArroword": true
+  },
+  "להר": {
+    "score": 10,
+    "clues": [
+      "to the mountain"
+    ],
+    "updateCount": 32,
+    "isCurrentArroword": true
   }
 }
