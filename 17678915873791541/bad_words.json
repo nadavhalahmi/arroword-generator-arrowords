@@ -1,0 +1,34 @@
+{
+  "אבו": {
+    "score": 10,
+    "clues": [
+      "his tender years"
+    ],
+    "updateCount": 1,
+    "isCurrentArroword": true
+  },
+  "מתושבי": {
+    "score": 10,
+    "clues": [
+      "from the residents of"
+    ],
+    "updateCount": 2,
+    "isCurrentArroword": true
+  },
+  "כובע": {
+    "score": 10,
+    "clues": [
+      "fez"
+    ],
+    "updateCount": 4,
+    "isCurrentArroword": true
+  },
+  "תושבי": {
+    "score": 10,
+    "clues": [
+      "the residents of"
+    ],
+    "updateCount": 6,
+    "isCurrentArroword": true
+  }
+}
