@@ -45,7 +45,7 @@
       "in the morning"
     ],
     "updateCount": 30,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "להר": {
     "score": 10,
@@ -53,6 +53,6 @@
       "to the mountain"
     ],
     "updateCount": 32,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }
