@@ -29,6 +29,14 @@
       "in prison"
     ],
     "updateCount": 17,
+    "isCurrentArroword": false
+  },
+  "למדע": {
+    "score": 10,
+    "clues": [
+      "to science"
+    ],
+    "updateCount": 18,
     "isCurrentArroword": true
   }
 }
