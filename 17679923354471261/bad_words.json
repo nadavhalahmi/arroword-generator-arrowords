@@ -1,0 +1,26 @@
+{
+  "בפה": {
+    "score": 10,
+    "clues": [
+      "in the mouth"
+    ],
+    "updateCount": 1,
+    "isCurrentArroword": true
+  },
+  "הרהורי": {
+    "score": 10,
+    "clues": [
+      "contemplative"
+    ],
+    "updateCount": 4,
+    "isCurrentArroword": true
+  },
+  "ממתכת": {
+    "score": 10,
+    "clues": [
+      "[made] of metal"
+    ],
+    "updateCount": 5,
+    "isCurrentArroword": true
+  }
+}
