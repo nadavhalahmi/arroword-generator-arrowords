@@ -1,0 +1,398 @@
+{
+  "num_rows": 10,
+  "num_cols": 10,
+  "comments": [
+    "Word usage summary by score:",
+    "Score 1: 26/3309 words used (68.42% of puzzle, 0.79% of score group)",
+    "Score 0: 12/5820 words used (31.58% of puzzle, 0.21% of score group)",
+    "Total: 38/9129 words used"
+  ],
+  "clues": [
+    {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "את",
+      "definition": "you",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "אח",
+      "definition": "brother",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 9,
+      "solution": "מלכת",
+      "definition": "queen of",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 9,
+      "clue_col": 0,
+      "solution": "מקיפ",
+      "definition": "comprehensive",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "יחס",
+      "definition": "ratio",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 7,
+      "solution": "נר",
+      "definition": "candle",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 7,
+      "solution": "סכ",
+      "definition": "procession",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 0,
+      "solution": "בלתיאפשרי",
+      "definition": "impossible",
+      "lengths": [
+        4,
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 1,
+      "solution": "פאר",
+      "definition": "pomp",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 2,
+      "clue_col": 1,
+      "solution": "שומ",
+      "definition": "garlic",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 1,
+      "solution": "דבק",
+      "definition": "adhesive",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 8,
+      "solution": "באו",
+      "definition": "came",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 8,
+      "solution": "תפסו",
+      "definition": "caught",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 5,
+      "solution": "בהתאמ",
+      "definition": "accordingly",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 3,
+      "clue_col": 5,
+      "solution": "בכנות",
+      "definition": "candidly",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 4,
+      "solution": "צבי",
+      "definition": "gazelle",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 0,
+      "solution": "חצ",
+      "definition": "dart",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 5,
+      "solution": "וופל",
+      "definition": "waffle",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "לצורכי",
+      "definition": "for the purpose of",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "לב",
+      "definition": "heart",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "בת",
+      "definition": "daughter",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "תפל",
+      "definition": "corny",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 5,
+      "solution": "טבור",
+      "definition": "navel",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "תצהיר",
+      "definition": "affidavit",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "שליו",
+      "definition": "serene",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 8,
+      "solution": "מריו",
+      "definition": "his rebellion",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 5,
+      "clue_col": 8,
+      "solution": "מח",
+      "definition": "marrow",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 8,
+      "clue_col": 4,
+      "solution": "מרכיב",
+      "definition": "ingredient",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 9,
+      "solution": "חיבר",
+      "definition": "linked",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 3,
+      "solution": "אחות",
+      "definition": "nurse",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 1,
+      "clue_col": 3,
+      "solution": "הרס",
+      "definition": "destruction",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "דש",
+      "definition": "lapel",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "הוצאתמ",
+      "definition": "you spent",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 6,
+      "solution": "פרט",
+      "definition": "detail",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 1,
+      "solution": "ולא",
+      "definition": "rather",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 5,
+      "clue_col": 0,
+      "solution": "מאתו",
+      "definition": "from him",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 7,
+      "solution": "שכב",
+      "definition": "lay down",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 3,
+      "solution": "תצפית",
+      "definition": "lookout",
+      "lengths": [
+        5
+      ]
+    }
+  ],
+  "mask_id": "mask_1",
+  "score_distribution": {
+    "1": 26,
+    "0": 12
+  }
+}
