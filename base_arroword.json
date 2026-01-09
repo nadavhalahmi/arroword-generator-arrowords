@@ -3,349 +3,138 @@
   "num_cols": 10,
   "comments": [
     "Word usage summary by score:",
-    "Score 1: 34/3310 words used (91.89% of puzzle, 1.03% of score group)",
-    "Score 0: 3/5888 words used (8.11% of puzzle, 0.05% of score group)",
-    "Total: 37/9198 words used"
+    "Score 1: 29/3309 words used (82.86% of puzzle, 0.88% of score group)",
+    "Score 0: 6/5820 words used (17.14% of puzzle, 0.10% of score group)",
+    "Total: 35/9129 words used"
   ],
   "clues": [
     {
-      "direction": "down-right",
+      "direction": "down",
       "clue_row": 0,
       "clue_col": 0,
-      "solution": "גבעה",
-      "definition": "knoll",
+      "solution": "שטיח",
+      "definition": "carpet",
       "lengths": [
         4
       ]
     },
     {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 0,
-      "solution": "גל",
-      "definition": "wave",
-      "lengths": [
-        2
-      ]
-    },
-    {
-      "direction": "down",
+      "direction": "left-down",
       "clue_row": 0,
       "clue_col": 9,
-      "solution": "חריצ",
-      "definition": "notch",
+      "solution": "מקרי",
+      "definition": "fortuitous",
       "lengths": [
         4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 0,
+      "solution": "לח",
+      "definition": "humid",
+      "lengths": [
+        2
       ]
     },
     {
       "direction": "up-right",
       "clue_row": 9,
       "clue_col": 0,
-      "solution": "צומת",
-      "definition": "intersection",
-      "lengths": [
-        4
-      ]
-    },
-    {
-      "direction": "down",
-      "clue_row": 5,
-      "clue_col": 6,
-      "solution": "ללוש",
-      "definition": "to knead",
+      "solution": "מהממ",
+      "definition": "shocking",
       "lengths": [
         4
       ]
     },
     {
       "direction": "right",
-      "clue_row": 5,
+      "clue_row": 9,
       "clue_col": 6,
-      "solution": "עז",
-      "definition": "fierce",
+      "solution": "קהה",
+      "definition": "blunt",
       "lengths": [
-        2
-      ]
-    },
-    {
-      "direction": "right",
-      "clue_row": 2,
-      "clue_col": 1,
-      "solution": "וסתי",
-      "definition": "menstrual",
-      "lengths": [
-        4
-      ]
-    },
-    {
-      "direction": "right",
-      "clue_row": 7,
-      "clue_col": 5,
-      "solution": "לברר",
-      "definition": "to inquire",
-      "lengths": [
-        4
-      ]
-    },
-    {
-      "direction": "down",
-      "clue_row": 4,
-      "clue_col": 2,
-      "solution": "לעקמ",
-      "definition": "to distort",
-      "lengths": [
-        4
-      ]
-    },
-    {
-      "direction": "down",
-      "clue_row": 5,
-      "clue_col": 9,
-      "solution": "נרתע",
-      "definition": "reluctant",
-      "lengths": [
-        4
-      ]
-    },
-    {
-      "direction": "down",
-      "clue_row": 2,
-      "clue_col": 6,
-      "solution": "צר",
-      "definition": "narrow",
-      "lengths": [
-        2
+        3
       ]
     },
     {
       "direction": "right",
       "clue_row": 8,
       "clue_col": 4,
-      "solution": "דו",
-      "definition": "bi-",
+      "solution": "כמוכמ",
+      "definition": "like you",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "לראיינ",
+      "definition": "to interview",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "down-right",
+      "clue_row": 5,
+      "clue_col": 0,
+      "solution": "כת",
+      "definition": "sect",
       "lengths": [
         2
       ]
     },
     {
-      "direction": "down",
-      "clue_row": 3,
+      "direction": "up-right",
+      "clue_row": 5,
       "clue_col": 0,
-      "solution": "זרמ",
-      "definition": "current",
+      "solution": "חלל",
+      "definition": "cavity",
       "lengths": [
         3
       ]
     },
     {
-      "direction": "left-down",
-      "clue_row": 0,
-      "clue_col": 4,
-      "solution": "להסית",
-      "definition": "to instigate",
-      "lengths": [
-        5
-      ]
-    },
-    {
       "direction": "right",
-      "clue_row": 9,
-      "clue_col": 5,
-      "solution": "שמרע",
-      "definition": "disrepute",
-      "lengths": [
-        2,
-        2
-      ]
-    },
-    {
-      "direction": "right",
-      "clue_row": 6,
-      "clue_col": 4,
-      "solution": "מלשינ",
-      "definition": "snitch",
-      "lengths": [
-        5
-      ]
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 6,
-      "clue_col": 4,
-      "solution": "מס",
-      "definition": "tax",
-      "lengths": [
-        2
-      ]
-    },
-    {
-      "direction": "down",
-      "clue_row": 5,
+      "clue_row": 2,
       "clue_col": 1,
-      "solution": "סלול",
-      "definition": "paved",
+      "solution": "כרוב",
+      "definition": "cabbage",
       "lengths": [
         4
       ]
     },
     {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 5,
+      "solution": "כד",
+      "definition": "tankard",
+      "lengths": [
+        2
+      ]
+    },
+    {
       "direction": "down",
-      "clue_row": 3,
-      "clue_col": 8,
-      "solution": "חזירבר",
-      "definition": "boar",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "הולכרגל",
+      "definition": "pedestrian",
       "lengths": [
         4,
-        2
-      ]
-    },
-    {
-      "direction": "down-right",
-      "clue_row": 3,
-      "clue_col": 8,
-      "solution": "חצ",
-      "definition": "dart",
-      "lengths": [
-        2
-      ]
-    },
-    {
-      "direction": "down",
-      "clue_row": 0,
-      "clue_col": 2,
-      "solution": "עול",
-      "definition": "yoke",
-      "lengths": [
         3
       ]
     },
     {
       "direction": "left-down",
       "clue_row": 0,
-      "clue_col": 2,
-      "solution": "לב",
-      "definition": "heart",
-      "lengths": [
-        2
-      ]
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 3,
-      "clue_col": 7,
-      "solution": "שטר",
-      "definition": "bill",
-      "lengths": [
-        3
-      ]
-    },
-    {
-      "direction": "down",
-      "clue_row": 4,
-      "clue_col": 7,
-      "solution": "עשב",
-      "definition": "herb",
-      "lengths": [
-        3
-      ]
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 5,
-      "clue_col": 3,
-      "solution": "תואר",
-      "definition": "major",
-      "lengths": [
-        4
-      ]
-    },
-    {
-      "direction": "right-down",
-      "clue_row": 0,
-      "clue_col": 5,
-      "solution": "פס",
-      "definition": "stripe",
-      "lengths": [
-        2
-      ]
-    },
-    {
-      "direction": "down",
-      "clue_row": 1,
       "clue_col": 4,
-      "solution": "תהומ",
-      "definition": "abyss",
-      "lengths": [
-        4
-      ]
-    },
-    {
-      "direction": "right",
-      "clue_row": 8,
-      "clue_col": 7,
-      "solution": "בת",
-      "definition": "daughter",
-      "lengths": [
-        2
-      ]
-    },
-    {
-      "direction": "right",
-      "clue_row": 1,
-      "clue_col": 5,
-      "solution": "סייח",
-      "definition": "foal",
-      "lengths": [
-        4
-      ]
-    },
-    {
-      "direction": "right",
-      "clue_row": 9,
-      "clue_col": 2,
-      "solution": "תא",
-      "definition": "cubicle",
-      "lengths": [
-        2
-      ]
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 4,
-      "clue_col": 1,
-      "solution": "שליה",
-      "definition": "placenta",
-      "lengths": [
-        4
-      ]
-    },
-    {
-      "direction": "down",
-      "clue_row": 3,
-      "clue_col": 5,
-      "solution": "אסמ",
-      "definition": "barn",
-      "lengths": [
-        3
-      ]
-    },
-    {
-      "direction": "right",
-      "clue_row": 7,
-      "clue_col": 0,
-      "solution": "לקלפ",
-      "definition": "to peel",
-      "lengths": [
-        4
-      ]
-    },
-    {
-      "direction": "up-right",
-      "clue_row": 7,
-      "clue_col": 0,
-      "solution": "מסע",
-      "definition": "voyage",
+      "solution": "כבר",
+      "definition": "already",
       "lengths": [
         3
       ]
@@ -353,37 +142,228 @@
     {
       "direction": "down",
       "clue_row": 6,
-      "clue_col": 3,
-      "solution": "לתת",
-      "definition": "malt",
+      "clue_col": 9,
+      "solution": "המה",
+      "definition": "growled",
       "lengths": [
         3
       ]
     },
     {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 1,
+      "solution": "לכ",
+      "definition": "to you",
+      "lengths": [
+        2
+      ]
+    },
+    {
       "direction": "right-down",
       "clue_row": 0,
-      "clue_col": 7,
-      "solution": "שיט",
-      "definition": "cruise",
+      "clue_col": 1,
+      "solution": "לאכול",
+      "definition": "to eat",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 6,
+      "solution": "חיה",
+      "definition": "animal",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 2,
+      "solution": "דגול",
+      "definition": "eminent",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 2,
+      "solution": "שמח",
+      "definition": "jubilant",
       "lengths": [
         3
       ]
     },
     {
       "direction": "down",
-      "clue_row": 0,
+      "clue_row": 6,
       "clue_col": 7,
-      "solution": "יש",
-      "definition": "there is",
+      "solution": "חוק",
+      "definition": "statute",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 3,
+      "solution": "שנ",
+      "definition": "tooth",
       "lengths": [
         2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 8,
+      "solution": "רכיכה",
+      "definition": "shellfish",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 3,
+      "solution": "נדהמ",
+      "definition": "aghast",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 1,
+      "solution": "אבהות",
+      "definition": "paternity",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "להתקהל",
+      "definition": "to crowd",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 0,
+      "solution": "קשהלב",
+      "definition": "heartless",
+      "lengths": [
+        3,
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "אכיל",
+      "definition": "edible",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "מרה",
+      "definition": "bile",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 5,
+      "solution": "יערה",
+      "definition": "honeysuckle",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 5,
+      "solution": "ובכנ",
+      "definition": "well",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 7,
+      "solution": "מידע",
+      "definition": "information",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 1,
+      "clue_col": 7,
+      "solution": "גמ",
+      "definition": "also",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "עובר",
+      "definition": "fetus",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 2,
+      "solution": "נר",
+      "definition": "candle",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 9,
+      "solution": "הנחה",
+      "definition": "assumption",
+      "lengths": [
+        4
       ]
     }
   ],
-  "mask_id": "mask_0",
+  "mask_id": "mask_2",
   "score_distribution": {
-    "1": 34,
-    "0": 3
+    "1": 29,
+    "0": 6
   }
 }
