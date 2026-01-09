@@ -1,51 +1,18 @@
 {
-  "בחזקה": {
+  "לקריאה": {
     "score": 10,
     "clues": [
-      "power"
+      "for calling"
     ],
-    "updateCount": 5,
-    "isCurrentArroword": false
+    "updateCount": 33,
+    "isCurrentArroword": true
   },
-  "בקולנוע": {
+  "כיונ": {
     "score": 10,
     "clues": [
-      "at a cinema"
+      "direction"
     ],
-    "updateCount": 12,
-    "isCurrentArroword": false
-  },
-  "וויכוח": {
-    "score": 10,
-    "clues": [
-      "argument",
-      "dispute"
-    ],
-    "updateCount": 25,
-    "isCurrentArroword": false
-  },
-  "לבל": {
-    "score": 10,
-    "clues": [
-      "lest"
-    ],
-    "updateCount": 21,
-    "isCurrentArroword": false
-  },
-  "כאתר": {
-    "score": 10,
-    "clues": [
-      "as a site"
-    ],
-    "updateCount": 22,
-    "isCurrentArroword": false
-  },
-  "לכישלונ": {
-    "score": 10,
-    "clues": [
-      "to failure"
-    ],
-    "updateCount": 30,
+    "updateCount": 35,
     "isCurrentArroword": true
   }
 }
