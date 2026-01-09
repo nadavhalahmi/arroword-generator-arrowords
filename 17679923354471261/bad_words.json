@@ -22,5 +22,13 @@
     ],
     "updateCount": 5,
     "isCurrentArroword": false
+  },
+  "בכלא": {
+    "score": 10,
+    "clues": [
+      "in prison"
+    ],
+    "updateCount": 17,
+    "isCurrentArroword": true
   }
 }
