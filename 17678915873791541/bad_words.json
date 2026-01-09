@@ -54,5 +54,13 @@
     ],
     "updateCount": 32,
     "isCurrentArroword": false
+  },
+  "פרקי": {
+    "score": 10,
+    "clues": [
+      "chapters of"
+    ],
+    "updateCount": 39,
+    "isCurrentArroword": true
   }
 }
