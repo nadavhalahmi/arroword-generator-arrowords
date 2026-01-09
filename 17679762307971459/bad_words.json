@@ -13,7 +13,7 @@
       "at a cinema"
     ],
     "updateCount": 12,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "וויכוח": {
     "score": 10,
@@ -21,6 +21,22 @@
       "argument"
     ],
     "updateCount": 16,
+    "isCurrentArroword": false
+  },
+  "לבל": {
+    "score": 10,
+    "clues": [
+      "lest"
+    ],
+    "updateCount": 21,
+    "isCurrentArroword": true
+  },
+  "כאתר": {
+    "score": 10,
+    "clues": [
+      "as a site"
+    ],
+    "updateCount": 22,
     "isCurrentArroword": true
   }
 }
