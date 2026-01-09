@@ -5,6 +5,14 @@
       "in an operation"
     ],
     "updateCount": 4,
+    "isCurrentArroword": false
+  },
+  "בפרס": {
+    "score": 10,
+    "clues": [
+      "[receive] the award"
+    ],
+    "updateCount": 5,
     "isCurrentArroword": true
   }
 }
