@@ -1,0 +1,417 @@
+{
+  "num_rows": 10,
+  "num_cols": 10,
+  "comments": [
+    "Word usage summary by score:",
+    "Score 1: 31/3310 words used (77.50% of puzzle, 0.94% of score group)",
+    "Score 0: 9/5850 words used (22.50% of puzzle, 0.15% of score group)",
+    "Total: 40/9160 words used"
+  ],
+  "clues": [
+    {
+      "direction": "down-right",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "לבקש",
+      "definition": "to seek",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "לאמצ",
+      "definition": "to adopt",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 9,
+      "solution": "חרפה",
+      "definition": "disgrace",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 9,
+      "solution": "בידוד",
+      "definition": "insulation",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 0,
+      "solution": "רחמ",
+      "definition": "uterus",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 4,
+      "solution": "הוכיח",
+      "definition": "proved",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 8,
+      "clue_col": 4,
+      "solution": "לכל",
+      "definition": "to all",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 8,
+      "solution": "מר",
+      "definition": "bitter",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 9,
+      "solution": "אקדח",
+      "definition": "pistol",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 7,
+      "clue_col": 7,
+      "solution": "לכ",
+      "definition": "to you",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 7,
+      "clue_col": 7,
+      "solution": "וכו",
+      "definition": "etc.",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 5,
+      "clue_col": 0,
+      "solution": "צדקני",
+      "definition": "charitable",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 0,
+      "solution": "שוויוני",
+      "definition": "egalitarian",
+      "lengths": [
+        7
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 8,
+      "clue_col": 0,
+      "solution": "כלי",
+      "definition": "dish",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 8,
+      "clue_col": 0,
+      "solution": "יש",
+      "definition": "there is",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 2,
+      "solution": "קור",
+      "definition": "chill",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 0,
+      "clue_col": 1,
+      "solution": "בנ",
+      "definition": "son",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 1,
+      "solution": "בקע",
+      "definition": "cranny",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 1,
+      "solution": "דש",
+      "definition": "lapel",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 8,
+      "clue_col": 8,
+      "solution": "רק",
+      "definition": "mere",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 5,
+      "solution": "ויולה",
+      "definition": "viola",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 4,
+      "clue_col": 5,
+      "solution": "חרדה",
+      "definition": "anxiety",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 7,
+      "solution": "להעריצ",
+      "definition": "to revere",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 6,
+      "solution": "הדר",
+      "definition": "grandeur",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 6,
+      "clue_col": 1,
+      "solution": "אי",
+      "definition": "island",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 1,
+      "solution": "שכר",
+      "definition": "wage",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "נשק",
+      "definition": "firearm",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 7,
+      "clue_col": 2,
+      "solution": "רפוי",
+      "definition": "loose",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 7,
+      "clue_col": 2,
+      "solution": "לח",
+      "definition": "humid",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "נופלימ",
+      "definition": "fall",
+      "lengths": [
+        6
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 3,
+      "solution": "חד",
+      "definition": "sharp",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 6,
+      "solution": "עופ",
+      "definition": "chicken",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 3,
+      "clue_col": 6,
+      "solution": "חנ",
+      "definition": "grace",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 6,
+      "solution": "צמא",
+      "definition": "thirst",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 4,
+      "solution": "וו",
+      "definition": "hook",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 1,
+      "solution": "עקבי",
+      "definition": "consistent",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "עצ",
+      "definition": "timber",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 5,
+      "solution": "מיד",
+      "definition": "immediately",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 4,
+      "solution": "בחייו",
+      "definition": "in his life",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 4,
+      "solution": "מצליח",
+      "definition": "succeed",
+      "lengths": [
+        5
+      ]
+    }
+  ],
+  "mask_id": "mask_6",
+  "score_distribution": {
+    "1": 31,
+    "0": 9
+  }
+}
