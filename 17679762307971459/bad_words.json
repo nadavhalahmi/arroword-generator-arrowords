@@ -5,6 +5,22 @@
       "power"
     ],
     "updateCount": 5,
+    "isCurrentArroword": false
+  },
+  "בקולנוע": {
+    "score": 10,
+    "clues": [
+      "at a cinema"
+    ],
+    "updateCount": 12,
+    "isCurrentArroword": true
+  },
+  "וויכוח": {
+    "score": 10,
+    "clues": [
+      "argument"
+    ],
+    "updateCount": 16,
     "isCurrentArroword": true
   }
 }
