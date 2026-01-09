@@ -18,10 +18,11 @@
   "וויכוח": {
     "score": 10,
     "clues": [
-      "argument"
+      "argument",
+      "dispute"
     ],
-    "updateCount": 16,
-    "isCurrentArroword": false
+    "updateCount": 25,
+    "isCurrentArroword": true
   },
   "לבל": {
     "score": 10,
