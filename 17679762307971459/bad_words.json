@@ -1,18 +1,18 @@
 {
-  "לקריאה": {
+  "אלגיה": {
     "score": 10,
     "clues": [
-      "for calling"
+      "elegy"
     ],
-    "updateCount": 33,
+    "updateCount": 43,
     "isCurrentArroword": true
   },
-  "כיונ": {
+  "הרהורי": {
     "score": 10,
     "clues": [
-      "direction"
+      "contemplative"
     ],
-    "updateCount": 35,
+    "updateCount": 46,
     "isCurrentArroword": true
   }
 }
