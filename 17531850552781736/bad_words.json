@@ -142,5 +142,21 @@
     ],
     "updateCount": 135,
     "isCurrentArroword": false
+  },
+  "מתו": {
+    "score": 10,
+    "clues": [
+      "died"
+    ],
+    "updateCount": 157,
+    "isCurrentArroword": true
+  },
+  "טינ": {
+    "score": 10,
+    "clues": [
+      "silt"
+    ],
+    "updateCount": 158,
+    "isCurrentArroword": true
   }
 }
