@@ -38,5 +38,21 @@
     ],
     "updateCount": 18,
     "isCurrentArroword": false
+  },
+  "במסע": {
+    "score": 10,
+    "clues": [
+      "on the journey"
+    ],
+    "updateCount": 27,
+    "isCurrentArroword": true
+  },
+  "סדר": {
+    "score": 10,
+    "clues": [
+      "method"
+    ],
+    "updateCount": 28,
+    "isCurrentArroword": true
   }
 }
