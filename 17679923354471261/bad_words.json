@@ -61,7 +61,7 @@
       "for the fear of"
     ],
     "updateCount": 30,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "ליש": {
     "score": 10,
@@ -69,6 +69,6 @@
       "lion"
     ],
     "updateCount": 32,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   }
 }

@@ -1,0 +1,414 @@
+{
+  "num_rows": 10,
+  "num_cols": 10,
+  "comments": [
+    "Word usage summary by score:",
+    "Score 10: 1/14 words used (2.56% of puzzle, 7.14% of score group)",
+    "Score 9: 0/5 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 8: 0/1 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 7: 0/1 words used (0.00% of puzzle, 0.00% of score group)",
+    "Score 1: 25/3289 words used (64.10% of puzzle, 0.76% of score group)",
+    "Score 0: 13/5819 words used (33.33% of puzzle, 0.22% of score group)",
+    "Total: 39/9129 words used"
+  ],
+  "clues": [
+    {
+      "direction": "down-right",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "חששו",
+      "definition": "feared",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 0,
+      "solution": "חד",
+      "definition": "sharp",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 0,
+      "clue_col": 9,
+      "solution": "ברז",
+      "definition": "faucet",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 9,
+      "clue_col": 0,
+      "solution": "קשוח",
+      "definition": "callous",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 1,
+      "clue_col": 4,
+      "solution": "רע",
+      "definition": "wicked",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 9,
+      "solution": "נסתר",
+      "definition": "occult",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 8,
+      "solution": "יכלה",
+      "definition": "could",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 1,
+      "solution": "ספ",
+      "definition": "threshold",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 8,
+      "clue_col": 4,
+      "solution": "יכולת",
+      "definition": "ability",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "מורכב",
+      "definition": "composite",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 2,
+      "solution": "שלו",
+      "definition": "serene",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "מוכיהלמ",
+      "definition": "dumbstruck",
+      "lengths": [
+        4,
+        3
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 3,
+      "clue_col": 0,
+      "solution": "דולר",
+      "definition": "dollar",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 6,
+      "solution": "עולימ",
+      "definition": "climbing",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 0,
+      "solution": "בסיסי",
+      "definition": "fundamental",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 7,
+      "solution": "הר",
+      "definition": "mountain",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 7,
+      "solution": "ענו",
+      "definition": "modest",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 7,
+      "solution": "מר",
+      "definition": "bitter",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "left-down",
+      "clue_row": 4,
+      "clue_col": 1,
+      "solution": "פס",
+      "definition": "stripe",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 1,
+      "solution": "לשבש",
+      "definition": "to disrupt",
+      "lengths": [
+        4
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 6,
+      "solution": "עינ",
+      "definition": "fountain",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 1,
+      "clue_col": 9,
+      "solution": "רחמ",
+      "definition": "uterus",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 1,
+      "clue_col": 7,
+      "solution": "לב",
+      "definition": "heart",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 9,
+      "clue_col": 4,
+      "solution": "מס",
+      "definition": "tax",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 4,
+      "clue_col": 2,
+      "solution": "קיסוס",
+      "definition": "ivy",
+      "lengths": [
+        5
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 3,
+      "clue_col": 8,
+      "solution": "זר",
+      "definition": "bouquet",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right-down",
+      "clue_row": 0,
+      "clue_col": 4,
+      "solution": "מרבהרגליימ",
+      "definition": "centipede",
+      "lengths": [
+        4,
+        6
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 2,
+      "clue_col": 4,
+      "solution": "בו",
+      "definition": "in it",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 2,
+      "clue_col": 4,
+      "solution": "יש",
+      "definition": "there is",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "סלק",
+      "definition": "beet",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 0,
+      "solution": "שי",
+      "definition": "present",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "up-right",
+      "clue_row": 5,
+      "clue_col": 3,
+      "solution": "בשרירימ",
+      "definition": "in the muscles",
+      "lengths": [
+        7
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 0,
+      "clue_col": 1,
+      "solution": "שומ",
+      "definition": "garlic",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 7,
+      "clue_col": 6,
+      "solution": "כס",
+      "definition": "throne",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 7,
+      "clue_col": 6,
+      "solution": "נכס",
+      "definition": "asset",
+      "lengths": [
+        3
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 5,
+      "clue_col": 4,
+      "solution": "גמ",
+      "definition": "also",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 5,
+      "clue_col": 4,
+      "solution": "גס",
+      "definition": "gross",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "right",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "גל",
+      "definition": "billow",
+      "lengths": [
+        2
+      ]
+    },
+    {
+      "direction": "down",
+      "clue_row": 6,
+      "clue_col": 3,
+      "solution": "יחפ",
+      "definition": "barefoot",
+      "lengths": [
+        3
+      ]
+    }
+  ],
+  "mask_id": "mask_4",
+  "score_distribution": {
+    "10": 1,
+    "1": 25,
+    "0": 13
+  }
+}
