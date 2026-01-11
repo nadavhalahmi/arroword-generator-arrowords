@@ -45,7 +45,7 @@
       "on the journey"
     ],
     "updateCount": 27,
-    "isCurrentArroword": true
+    "isCurrentArroword": false
   },
   "סדר": {
     "score": 10,
@@ -53,6 +53,22 @@
       "method"
     ],
     "updateCount": 28,
+    "isCurrentArroword": false
+  },
+  "מחשש": {
+    "score": 10,
+    "clues": [
+      "for the fear of"
+    ],
+    "updateCount": 30,
+    "isCurrentArroword": true
+  },
+  "ליש": {
+    "score": 10,
+    "clues": [
+      "lion"
+    ],
+    "updateCount": 32,
     "isCurrentArroword": true
   }
 }
